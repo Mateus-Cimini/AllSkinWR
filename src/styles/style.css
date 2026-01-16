@@ -1,0 +1,22 @@
+.carousel {
+  max-width: 1020px;
+  max-height: 572px;
+  margin: 0 auto;
+}
+
+.carousel-item {
+  height: 572px;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; 
+}
+
+
+@media (max-width: 576px) {
+  .carousel-item {
+    height: 50vh;
+  }
+}

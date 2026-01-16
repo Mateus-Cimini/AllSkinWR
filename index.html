@@ -17,7 +17,12 @@
             </a>
           </div>
 
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#menu"
+          >
             <span class="navbar-toggler-icon"></span>
           </button>
 
@@ -47,6 +52,98 @@
         </div>
       </nav>
     </header>
+
+    <main>
+      <div class="home container">
+        <div class="custom-badge">
+          <i class="bi bi-stars"></i>
+          <span>Portifolio Showcase</span>
+        </div>
+
+        <div class="home-text">
+          <h1 translate="no">Wild Rift</h1>
+          <h1>Gallery of all Skins</h1>
+          <p>
+            Explore e descubra a incrível coleção de skins de todos os campeões
+            do Wild Rift. Selecione seu campeão favorito para ver todas as skins
+            disponíveis.
+          </p>
+        </div>
+
+        <div class="champion-input">
+          <label class="champion-input__label" for="#champion-input"
+            >Selecione um campeão</label
+          >
+          <input
+            id="champion-input"
+            class="form-control champion-input__input"
+            list="champion-input"
+            placeholder="Buscar campeão..."
+          />
+
+          <datalist id="champion-input" class="champion-input__list">
+            <option value="Ahri"></option>
+            <option value="Akali"></option>
+            <option value="Ambessa"></option>
+            <option value="Annie"></option>
+          </datalist>
+        </div>
+
+        <div class="champion-title">
+          <h2>Campeão disponivel</h2>
+          <p>Master Yi</p>
+        </div>
+
+        <div id="carouselChampions" class="carousel slide">
+          <div class="carousel-indicators">
+            <button
+              type="button"
+              data-bs-target="#carouselChampions"
+              data-bs-slide-to="0"
+              class="active"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselChampions"
+              data-bs-slide-to="1"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselChampions"
+              data-bs-slide-to="2"
+            ></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://placehold.co/1020x570" class="d-block w-100" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h3>Primeiro Slide</h3>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="https://placehold.co/1020x570" class="d-block w-100" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h3>Segundo Slide</h3>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="https://placehold.co/1020x570" class="d-block w-100" alt="...">
+              <div class="carousel-caption d-none d-md-block">
+                <h3>Terceiro Slide</h3>
+              </div>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselChampions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselChampions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </main>
     <script type="module" src="/src/app/main.js"></script>
   </body>
 </html>
