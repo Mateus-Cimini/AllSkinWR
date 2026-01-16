@@ -345,6 +345,178 @@
 
     <!-- TOASTS -->
 
+    <!-- BOTÕES -->
+    <div class="mb-3">
+      <button type="button" class="btn btn-danger" id="liveToastTopBtn">
+        Mostre o toast top
+      </button>
+      <button type="button" class="btn btn-success" id="liveToastJgBtn">
+        Mostre o toast jg
+      </button>
+      <button type="button" class="btn btn-warning" id="liveToastMidBtn">
+        Mostre o toast mid
+      </button>
+      <button type="button" class="btn btn-primary" id="liveToastAdcBtn">
+        Mostre o toast adc
+      </button>
+      <button type="button" class="btn btn-info" id="liveToastSupBtn">
+        Mostre o toast sup
+      </button>
+    </div>
+
+    <!-- TOAST CONTAINERS -->
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+      <!-- toast Top -->
+      <div
+        id="toastTop"
+        class="toast"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="toast-header">
+          <img
+            src="https://placehold.co/30"
+            class="rounded me-2"
+            alt="logo alert"
+          />
+          <strong class="me-auto">AllSkinWR</strong>
+          <small class="text-muted">5s atrás</small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="toast-body">
+          Campeão <strong>(Champion Name)</strong> selecionado com sucesso! Um
+          dos melhores Top-Laners do jogo.
+          <img src="https://placehold.co/30" alt="logo-lane" />
+        </div>
+      </div>
+
+      <!-- toast Jg -->
+      <div
+        id="toastJg"
+        class="toast"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="toast-header">
+          <img
+            src="https://placehold.co/30"
+            class="rounded me-2"
+            alt="logo alert"
+          />
+          <strong class="me-auto">AllSkinWR</strong>
+          <small class="text-muted">5s atrás</small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="toast-body">
+          Campeão <strong>(Champion Name)</strong> selecionado com sucesso! Um
+          dos melhores Juglers do jogo.
+          <img src="https://placehold.co/30" alt="logo-lane" />
+        </div>
+      </div>
+
+      <!-- toast Mid -->
+      <div
+        id="toastMid"
+        class="toast"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="toast-header">
+          <img
+            src="https://placehold.co/30"
+            class="rounded me-2"
+            alt="logo alert"
+          />
+          <strong class="me-auto">AllSkinWR</strong>
+          <small class="text-muted">5s atrás</small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="toast-body">
+          Campeão <strong>(Champion Name)</strong> selecionado com sucesso! Um
+          dos melhores Mid-Laners do jogo.
+          <img src="https://placehold.co/30" alt="logo-lane" />
+        </div>
+      </div>
+
+      <!-- toast Adc -->
+      <div
+        id="toastAdc"
+        class="toast"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="toast-header">
+          <img
+            src="https://placehold.co/30"
+            class="rounded me-2"
+            alt="logo alert"
+          />
+          <strong class="me-auto">AllSkinWR</strong>
+          <small class="text-muted">5s atrás</small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="toast-body">
+          Campeão <strong>(Champion Name)</strong> selecionado com sucesso! Um
+          dos melhores ADcarrys do jogo.
+          <img src="https://placehold.co/30" alt="logo-lane" />
+        </div>
+      </div>
+
+      <!-- toast Sup -->
+      <div
+        id="toastSup"
+        class="toast"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="toast-header">
+          <img
+            src="https://placehold.co/30"
+            class="rounded me-2"
+            alt="logo alert"
+          />
+          <strong class="me-auto">AllSkinWR</strong>
+          <small class="text-muted">5s atrás</small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="toast-body">
+          Campeão <strong>(Champion Name)</strong> selecionado com sucesso! Um
+          dos melhores Suportes do jogo.
+          <img src="https://placehold.co/30" alt="logo-lane" />
+        </div>
+      </div>
+    </div>
+
     <footer class="footer">
       <div class="container footer__container">
         <section class="footer__section footer__section--primary">
@@ -372,23 +544,17 @@
             <h4 class="footer__title">Projetos</h4>
             <ul class="footer__list">
               <li class="footer__item">
-                <a
-                  class="footer__link"
-                  href="https://slide-go.vercel.app/"
+                <a class="footer__link" href="https://slide-go.vercel.app/"
                   >SlideGO</a
                 >
               </li>
               <li class="footer__item">
-                <a
-                  class="footer__link"
-                  href="https://linkado-ten.vercel.app/"
+                <a class="footer__link" href="https://linkado-ten.vercel.app/"
                   >Linkado</a
                 >
               </li>
               <li class="footer__item">
-                <a
-                  class="footer__link"
-                  href="https://young-rift.vercel.app/"
+                <a class="footer__link" href="https://young-rift.vercel.app/"
                   >Young Rift</a
                 >
               </li>
@@ -455,17 +621,15 @@
 
         <section class="footer__section footer__section--secondary">
           <div class="row">
-            <div class="col-12 col-sm-6 ">
+            <div class="col-12 col-sm-6">
               <h4>Este é um projeto de portfólio</h4>
               <p>
                 Para demonstrar minhas habilidades em front-end. Quer entrar em
                 contato? Deixe seu e-mail e eu retornarei assim que possível.
               </p>
             </div>
-            <div class=" col-12 col-lg-6 ">
-              <form
-                class="footer__form-email d-flex gap-2"
-              >
+            <div class="col-12 col-lg-6">
+              <form class="footer__form-email d-flex gap-2">
                 <label
                   class="footer__form-label visually-hidden"
                   for="inputEmail"
@@ -479,7 +643,9 @@
                 />
 
                 <div class="footer__form-button">
-                  <button type="submit" class="footer__form-submit btn">Enviar</button>
+                  <button type="submit" class="footer__form-submit btn">
+                    Enviar
+                  </button>
                 </div>
               </form>
             </div>
