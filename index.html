@@ -194,19 +194,19 @@
               <input type="radio" name="skinType" id="opt1" checked />
               <label for="opt1">1</label>
 
-              <input type="radio" name="skinType" id="opt2"  />
+              <input type="radio" name="skinType" id="opt2" />
               <label for="opt2">2</label>
 
-              <input type="radio" name="skinType" id="opt3"  />
+              <input type="radio" name="skinType" id="opt3" />
               <label for="opt3">3</label>
 
-              <input type="radio" name="skinType" id="opt4"  />
+              <input type="radio" name="skinType" id="opt4" />
               <label for="opt4">4</label>
 
-              <input type="radio" name="skinType" id="opt5"  />
+              <input type="radio" name="skinType" id="opt5" />
               <label for="opt5">5</label>
 
-              <input type="radio" name="skinType" id="opt6"  />
+              <input type="radio" name="skinType" id="opt6" />
               <label for="opt6">6</label>
             </form>
           </div>
@@ -343,11 +343,155 @@
       </div>
     </main>
 
-    <footer>
-      <div class="container footer">
-        <section></section>
-      </div>
+    <!-- TOASTS -->
 
+    <footer class="footer">
+      <div class="container footer__container">
+        <section class="footer__section footer__section--primary">
+          <div class="footer__about">
+            <div class="footer__brand">
+              <a class="footer__brand-link" href="#">
+                <img
+                  class="footer__brand-image"
+                  src="https://placehold.co/50"
+                  alt="logo"
+                />
+                <h4 class="footer__brand-title">AllSkinWR</h4>
+              </a>
+            </div>
+            <div class="footer__about-text">
+              <p class="footer__text">
+                <strong>AllSkinWR</strong> - Explore e descubra a incrível
+                coleção de skins de todos os campeões do Wild Rift. Selecione
+                seu campeão favorito para ver todas as skins disponíveis.
+              </p>
+            </div>
+          </div>
+
+          <div class="footer__projects">
+            <h4 class="footer__title">Projetos</h4>
+            <ul class="footer__list">
+              <li class="footer__item">
+                <a
+                  class="footer__link"
+                  href="https://slide-go.vercel.app/"
+                  >SlideGO</a
+                >
+              </li>
+              <li class="footer__item">
+                <a
+                  class="footer__link"
+                  href="https://linkado-ten.vercel.app/"
+                  >Linkado</a
+                >
+              </li>
+              <li class="footer__item">
+                <a
+                  class="footer__link"
+                  href="https://young-rift.vercel.app/"
+                  >Young Rift</a
+                >
+              </li>
+              <li class="footer__item">
+                <a
+                  class="footer__link"
+                  href="https://calcula-media-enem.vercel.app/"
+                  >Calculadora media do ENEM</a
+                >
+              </li>
+              <li class="footer__item">
+                <a
+                  class="footer__link"
+                  href="https://montando-sua-pool.vercel.app/"
+                  >Montando sua pool</a
+                >
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer__social">
+            <h4 class="footer__title">Contato</h4>
+            <ul class="footer__social-list">
+              <li class="footer__social-item">
+                <a
+                  class="footer__social-link"
+                  title="Instagram"
+                  href="https://www.instagram.com/mateus.cimini/"
+                  target="_blank"
+                >
+                  <i class="bi bi-instagram"></i>
+                </a>
+              </li>
+              <li class="footer__social-item">
+                <a
+                  class="footer__social-link"
+                  title="GitHub"
+                  href="https://github.com/Mateus-Cimini"
+                >
+                  <i class="bi bi-github"></i>
+                </a>
+              </li>
+              <li class="footer__social-item">
+                <a
+                  class="footer__social-link"
+                  title="Substack"
+                  href="https://mateuscimini.substack.com/"
+                >
+                  <i class="bi bi-substack"></i>
+                </a>
+              </li>
+              <li class="footer__social-item">
+                <a
+                  class="footer__social-link"
+                  title="Valete"
+                  href="https://app.valete.org.br/login?redirect=%2Fu%2FMateusCimini"
+                >
+                  <i class="bi bi-suit-diamond-fill"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="footer__section footer__section--secondary">
+          <div class="row">
+            <div class="col-12 col-sm-6 ">
+              <h4>Este é um projeto de portfólio</h4>
+              <p>
+                Para demonstrar minhas habilidades em front-end. Quer entrar em
+                contato? Deixe seu e-mail e eu retornarei assim que possível.
+              </p>
+            </div>
+            <div class=" col-12 col-lg-6 ">
+              <form
+                class="footer__form-email d-flex gap-2"
+              >
+                <label
+                  class="footer__form-label visually-hidden"
+                  for="inputEmail"
+                  >Seu melhor e-mail</label
+                >
+                <input
+                  type="email"
+                  id="inputEmail"
+                  class="footer__form-input form-control"
+                  placeholder="Seu melhor e-mail"
+                />
+
+                <div class="footer__form-button">
+                  <button type="submit" class="footer__form-submit btn">Enviar</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </section>
+
+        <section class="footer__section footer__section--copyright">
+          <div class="footer__copyright">
+            <p>© 2025 SlideGo. Todos os direitos reservados.</p>
+          </div>
+        </section>
+      </div>
     </footer>
     <script type="module" src="/src/app/main.js"></script>
   </body>
