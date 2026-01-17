@@ -1,0 +1,59 @@
+:root {
+  /* Backgrounds */
+  --color-bg-main: #ffffff;
+  --color-bg-soft: #f7f8f5;
+
+  /*  Surfaces */
+  --color-surface-main: #ffffff;
+  --color-surface-input: #f2f3f1;
+  --color-surface-badge: #ffffff;
+
+  /* Text */
+  --color-text-main: #0b0b0b;
+  --color-text-muted: #6b6f6a;
+  --color-text-inverse: #ffffff;
+
+  /* gradient (verde/dourado titulos e botões)*/
+  --color-gradient-start: #c9b36b;
+  --color-gradient-end: #55c9b0;
+
+  /* Accent */
+  --color-accent-gold: #c9b36b;
+  --color-accent-green: #6fc7b2;
+
+  /* Borders */
+  --color-border-soft: #e5e7e3;
+
+}
+
+[data-theme="dark"] {
+      /* Backgrounds */
+  --color-bg-main: #020b13;
+  --color-bg-soft: #071621;
+
+  /*  Surfaces */
+  --color-surface-main: #0b1c2a;
+  --color-surface-input: #1b2a2a;
+  --color-surface-badge: #0f2233;
+
+  /* Text */
+  --color-text-main: #f3f2ed;
+  --color-text-muted: #aab3b0;
+  --color-text-inverse: #020b13;
+
+  /* gradient (verde/dourado titulos e botões)*/
+  --color-gradient-start: #d2b56f;
+  --color-gradient-end: #4fd1c5;
+
+  /* Accent */
+  --color-accent-gold: #d2b56f;
+  --color-accent-green: #4fd1c5;
+
+  /* Borders */
+  --color-border-soft: #1f3445;
+  
+}
+
+html, body {
+  height: 100%;
+}

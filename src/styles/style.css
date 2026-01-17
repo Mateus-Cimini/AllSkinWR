@@ -1,3 +1,8 @@
+@import './base.css';
+
+
+
+
 .carousel {
   max-width: 1020px;
   max-height: 572px;
@@ -20,3 +25,5 @@
     height: 50vh;
   }
 }
+
+
