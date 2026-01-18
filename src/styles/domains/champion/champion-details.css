@@ -1,0 +1,30 @@
+.champion-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.champion-select__message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 0rem;
+}
+
+.champion-select__message h3 {
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.champion-select__message p {
+    max-width: 95%;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+
+.champion-select__input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2rem;
+}

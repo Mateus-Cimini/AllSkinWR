@@ -1,0 +1,22 @@
+.champion-select__champion-card {
+    padding-bottom: 4rem;
+}
+
+.champion-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+
+.champion-select__card {
+  border: 1px solid #808080;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.champion-select__card-title {
+  padding-top: 0.5rem;
+}

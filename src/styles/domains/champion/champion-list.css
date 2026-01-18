@@ -1,0 +1,8 @@
+.champion-input {
+  width: clamp(330px, 50vw, 680px);
+  margin-bottom: 48px;
+}
+
+.champion-input input {
+  height: 60px;
+}

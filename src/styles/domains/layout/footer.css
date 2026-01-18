@@ -1,0 +1,38 @@
+footer {
+  background-color: rgb(207, 178, 178);
+}
+
+.footer__section--primary {
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #808080;
+}
+
+.footer__brand-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.footer__title {
+  padding-bottom: 0.8rem;
+}
+
+.footer__social-list {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__section--secondary {
+    padding-top: 1.5rem;
+    border-bottom: 1px solid #808080;
+}
+
+.footer__form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}

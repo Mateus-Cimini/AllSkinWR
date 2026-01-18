@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
@@ -15,9 +15,9 @@
   </head>
   <body data-theme="">
     <header>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-          <div class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="row container-fluid">
+          <div class="col-6 header--brand">
             <a class="navbar-brand" href="#">
               <img src="https://placehold.co/50" alt="logo" />
               <h2>AllSkinWR</h2>
@@ -33,7 +33,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
 
-          <div id="menu" class="collapse navbar-collapse">
+          <div id="menu" class="collapse navbar-collapse col-6">
             <ul class="navbar-nav">
               <li class="nav-item">
                 <a href="#" class="nav-link active">Home</a>
@@ -49,12 +49,10 @@
               </li>
               <li class="nav-item"><a href="#" class="nav-link">Suporte</a></li>
             </ul>
-          </div>
 
-          <div>
-            <button class="btn btn-primary">
-              Aqui vai ter um botao de theme
-            </button>
+            <div class="test">
+              <button class="btn btn-primary">theme</button>
+            </div>
           </div>
         </div>
       </nav>
@@ -97,90 +95,98 @@
         </div>
 
         <div class="champion-title">
-          <h2>Campeão disponivel</h2>
+          <h2>Campeão Disponivel</h2>
           <p>Master Yi</p>
         </div>
 
-        <div id="carouselChampions" class="carousel slide">
-          <div class="carousel-indicators">
+        <div class="carousel-and-info">
+          <div id="carouselChampions" class="carousel slide">
+            <div class="carousel-indicators">
+              <button
+                type="button"
+                data-bs-target="#carouselChampions"
+                data-bs-slide-to="0"
+                class="active"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselChampions"
+                data-bs-slide-to="1"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselChampions"
+                data-bs-slide-to="2"
+              ></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img
+                  src="https://placehold.co/1020x570"
+                  class="d-block w-100"
+                  alt="..."
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h3>Primeiro Slide</h3>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="https://placehold.co/1020x570"
+                  class="d-block w-100"
+                  alt="..."
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h3>Segundo Slide</h3>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="https://placehold.co/1020x570"
+                  class="d-block w-100"
+                  alt="..."
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h3>Terceiro Slide</h3>
+                </div>
+              </div>
+            </div>
             <button
+              class="carousel-control-prev"
               type="button"
               data-bs-target="#carouselChampions"
-              data-bs-slide-to="0"
-              class="active"
-            ></button>
+              data-bs-slide="prev"
+            >
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
             <button
+              class="carousel-control-next"
               type="button"
               data-bs-target="#carouselChampions"
-              data-bs-slide-to="1"
-            ></button>
-            <button
-              type="button"
-              data-bs-target="#carouselChampions"
-              data-bs-slide-to="2"
-            ></button>
+              data-bs-slide="next"
+            >
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img
-                src="https://placehold.co/1020x570"
-                class="d-block w-100"
-                alt="..."
-              />
-              <div class="carousel-caption d-none d-md-block">
-                <h3>Primeiro Slide</h3>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <img
-                src="https://placehold.co/1020x570"
-                class="d-block w-100"
-                alt="..."
-              />
-              <div class="carousel-caption d-none d-md-block">
-                <h3>Segundo Slide</h3>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <img
-                src="https://placehold.co/1020x570"
-                class="d-block w-100"
-                alt="..."
-              />
-              <div class="carousel-caption d-none d-md-block">
-                <h3>Terceiro Slide</h3>
-              </div>
-            </div>
-          </div>
-          <button
-            class="carousel-control-prev"
-            type="button"
-            data-bs-target="#carouselChampions"
-            data-bs-slide="prev"
-          >
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button
-            class="carousel-control-next"
-            type="button"
-            data-bs-target="#carouselChampions"
-            data-bs-slide="next"
-          >
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
-        </div>
 
-        <div
-          id="skinInfo"
-          class="skin-info d-flex justify-content-center align-items-center"
-        >
-          <div>
-            <p id="skinTitle" class="mb-1 text-muted">Skin Name</p>
-            <p id="SkinLabel">Skin Colection</p>
+          <div
+            id="skinInfo"
+            class="skin-info d-flex justify-content-between align-items-center"
+          >
+            <div class="">
+              <p id="skinTitle" class="mb-1 text-muted">Skin Name</p>
+              <p id="SkinLabel">Skin Colection</p>
+            </div>
+            <button class="btn btn-success">View Details</button>
           </div>
-          <button class="btn btn-success">View Details</button>
         </div>
 
         <div class="champion-select">
@@ -218,83 +224,78 @@
             </form>
           </div>
 
-          <div class="champion-select__champion-card">
-            <div class="row">
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
+          <div class="champion-select__champion-card champion-grid">
+            <div class="champion-select__card">
+              <h6 class="champion-select__card-title">Champion Name</h6>
+              <img
+                class="champion-select__card-lane-icon"
+                src="https://placehold.co/50"
+                alt="lane"
+              />
+              <p class="champion-select__card-number-skins">X Skin</p>
             </div>
-            <div class="row">
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
-              <div class="col-3 champion-select__card">
-                <h6 class="champion-select__card-title">Champion Name</h6>
-                <img
-                  class="champion-select__card-lane-icon"
-                  src="https://placehold.co/50"
-                  alt="lane"
-                />
-                <p class="champion-select__card-number-skins">X Skin</p>
-              </div>
+            <div class="champion-select__card">
+              <h6 class="champion-select__card-title">Champion Name</h6>
+              <img
+                class="champion-select__card-lane-icon"
+                src="https://placehold.co/50"
+                alt="lane"
+              />
+              <p class="champion-select__card-number-skins">X Skin</p>
             </div>
+            <div class="champion-select__card">
+              <h6 class="champion-select__card-title">Champion Name</h6>
+              <img
+                class="champion-select__card-lane-icon"
+                src="https://placehold.co/50"
+                alt="lane"
+              />
+              <p class="champion-select__card-number-skins">X Skin</p>
+            </div>
+            <div class="champion-select__card">
+              <h6 class="champion-select__card-title">Champion Name</h6>
+              <img
+                class="champion-select__card-lane-icon"
+                src="https://placehold.co/50"
+                alt="lane"
+              />
+              <p class="champion-select__card-number-skins">X Skin</p>
+            </div>
+          <div class="champion-select__card">
+            <h6 class="champion-select__card-title">Champion Name</h6>
+            <img
+              class="champion-select__card-lane-icon"
+              src="https://placehold.co/50"
+              alt="lane"
+            />
+            <p class="champion-select__card-number-skins">X Skin</p>
+          </div>
+          <div class="champion-select__card">
+            <h6 class="champion-select__card-title">Champion Name</h6>
+            <img
+              class="champion-select__card-lane-icon"
+              src="https://placehold.co/50"
+              alt="lane"
+            />
+            <p class="champion-select__card-number-skins">X Skin</p>
+          </div>
+          <div class="champion-select__card">
+            <h6 class="champion-select__card-title">Champion Name</h6>
+            <img
+              class="champion-select__card-lane-icon"
+              src="https://placehold.co/50"
+              alt="lane"
+            />
+            <p class="champion-select__card-number-skins">X Skin</p>
+          </div>
+          <div class="champion-select__card">
+            <h6 class="champion-select__card-title">Champion Name</h6>
+            <img
+              class="champion-select__card-lane-icon"
+              src="https://placehold.co/50"
+              alt="lane"
+            />
+            <p class="champion-select__card-number-skins">X Skin</p>
           </div>
         </div>
 
@@ -526,8 +527,8 @@
 
     <footer class="footer">
       <div class="container footer__container">
-        <section class="footer__section footer__section--primary">
-          <div class="footer__about">
+        <section class="footer__section footer__section--primary row">
+          <div class="footer__about col-5">
             <div class="footer__brand">
               <a class="footer__brand-link" href="#">
                 <img
@@ -547,7 +548,7 @@
             </div>
           </div>
 
-          <div class="footer__projects">
+          <div class="footer__projects col-4">
             <h4 class="footer__title">Projetos</h4>
             <ul class="footer__list">
               <li class="footer__item">
@@ -582,7 +583,7 @@
             </ul>
           </div>
 
-          <div class="footer__social">
+          <div class="footer__social col-3">
             <h4 class="footer__title">Contato</h4>
             <ul class="footer__social-list">
               <li class="footer__social-item">
@@ -628,14 +629,14 @@
 
         <section class="footer__section footer__section--secondary">
           <div class="row">
-            <div class="col-12 col-sm-6">
+            <div class="col-12 col-sm-6 footer__section--secondary-text">
               <h4>Este é um projeto de portfólio</h4>
               <p>
                 Para demonstrar minhas habilidades em front-end. Quer entrar em
                 contato? Deixe seu e-mail e eu retornarei assim que possível.
               </p>
             </div>
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 footer__form">
               <form class="footer__form-email d-flex gap-2">
                 <label
                   class="footer__form-label visually-hidden"
@@ -661,7 +662,7 @@
 
         <section class="footer__section footer__section--copyright">
           <div class="footer__copyright">
-            <p>© 2025 SlideGo. Todos os direitos reservados.</p>
+            <p>© 2025 AllSkinWR. Todos os direitos reservados.</p>
           </div>
         </section>
       </div>

@@ -1,4 +1,24 @@
-@import './base.css';
+/* core */
+@import './core/themes.css';
+@import './core/reset.css';
+
+/* seções */
+@import './domains/layout/header.css';
+@import './domains/layout/footer.css';
+@import './pages/home.css';
+@import './pages/about.css';
+
+/* navegação */
+@import './domains/navigation/navbar.css';
+
+
+/* components */
+@import './domains/ui/badge.css';
+@import './domains/champion/champion-list.css';
+@import './domains/champion/champion-details.css';
+@import './domains/champion/champion-card.css';
+@import './domains/carousel/carousel-info.css';
+
 
 
 
