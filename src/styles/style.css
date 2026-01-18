@@ -1,6 +1,7 @@
 /* core */
 @import './core/themes.css';
 @import './core/reset.css';
+@import './core/typography.css';
 
 /* seções */
 @import './domains/layout/header.css';

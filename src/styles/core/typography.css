@@ -1,0 +1,186 @@
+@import './themes.css';
+
+/* ======================
+   BASE
+====================== */
+
+p,
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+a {
+  text-decoration: none;
+}
+
+/* ======================
+   TIPOGRAFIA – FAMÍLIAS
+====================== */
+
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+}
+
+.font-montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.font-cinzel {
+  font-family: "Cinzel Decorative", serif;
+}
+
+.font-bebas {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.1rem;
+  font-weight: 400;
+}
+
+/* ======================
+   APLICAÇÕES
+====================== */
+
+/* Bebas Neue */
+.navbar #menu,
+.footer__projects a {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.1rem;
+  font-weight: 400;
+}
+
+/* Hover dourado */
+.navbar #menu a:hover,
+.footer__projects a:hover,
+.footer__link:hover {
+  color: var(--color-accent-gold);
+}
+
+/* Cinzel */
+.navbar-brand h2,
+.home-text h1,
+.footer__brand-link h4  {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 600;
+}
+
+.navbar-brand h2,
+.footer__brand-title,
+.about-project__title,
+.footer__section--secondary-text h4 {
+  color: var(--color-accent-gold);
+}
+
+/* Open Sans – texto */
+.home-text p,
+.champion-input,
+.champion-input__label,
+.champion-select__message p,
+.champion-select__card-number-skins,
+.about-project__text,
+.footer__text,
+.footer__section--secondary-text p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+/* Open Sans – destaque */
+#SkinLabel,
+.skin-info-btn,
+.custom-badge span,
+.champion-title p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+
+/* Montserrat – títulos */
+.champion-title h2,
+.champion-select__message h3,
+.champion-select__message h4,
+.champion-select__card-title,
+.footer__title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: var(--color-text-main);
+}
+
+/* ======================
+   TAMANHOS
+====================== */
+
+.custom-badge,
+.footer__link,
+.champion-select__card-title,
+.footer__text {
+  font-size: 14px;
+}
+
+.champion-select__card-number-skins {
+  font-size: 0.75rem;
+}
+
+.home-text h1 {
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+
+.home-text p,
+.champion-input__label,
+#SkinLabel {
+  font-size: 18px;
+}
+
+.champion-title h2 {
+  font-size: 2.25rem;
+  color: var(--color-accent-gold);
+}
+
+.champion-select__message h3,
+.champion-select__message h4 {
+  font-size: 1.5rem;
+}
+
+.footer__brand-title {
+  font-size: 18px;
+}
+
+.footer__title {
+  font-size: 1rem;
+}
+
+.navbar-brand h2{
+font-weight: 800;
+}
+
+.champion-title p {
+    font-weight: 400;
+}
+
+.about-project__title {
+    font-weight: 700 ;
+}
+
+/* ======================
+   CORES
+====================== */
+
+.nav-item a,
+.wr,
+.champion-input__label,
+.footer__item a {
+  color: var(--color-text-main);
+}
+
+.footer__brand-link {
+    text-decoration: none;
+}
+
+/* ======================
+   EFEITOS
+====================== */
+
+.gradient-text {
+  background: linear-gradient(90deg, #c9b36b, #55c9b0);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
