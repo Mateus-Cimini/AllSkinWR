@@ -24,6 +24,13 @@
   /* Borders */
   --color-border-soft: #e5e7e3;
 
+  /* Header / Navbar */
+  --color-header-bg-start: rgba(255, 255, 255, 0.75);
+  --color-header-bg-end: rgba(247, 248, 245, 0.45);
+
+  --color-header-mobile-bg-start: rgba(255, 255, 255, 0.95);
+  --color-header-mobile-bg-end: rgba(247, 248, 245, 0.9);
+
 }
 
 [data-theme="dark"] {
@@ -51,6 +58,13 @@
 
   /* Borders */
   --color-border-soft: #1f3445;
+
+   /* Header / Navbar */
+  --color-header-bg-start: rgba(7, 22, 33, 0.95);
+  --color-header-bg-end: rgba(7, 22, 33, 0.65);
+
+  --color-header-mobile-bg-start: rgba(7, 22, 33, 1);
+  --color-header-mobile-bg-end: rgba(7, 22, 33, 0.9);
   
 }
 
