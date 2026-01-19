@@ -43,6 +43,33 @@ const navLinks = document.querySelectorAll(".nav-link");
 navLinks.forEach((links) => {
   links.addEventListener("click", function () {
     navLinks.forEach((l) => l.classList.remove("active"));
-    this.classList.add('active')
+    this.classList.add("active");
   });
+});
+
+// termina aqui o navlink
+
+//botao de theme
+
+const switcher = document.getElementById("switch");
+const body = document.body;
+
+// carrega tema salvo
+const savedTheme = localStorage.getItem("theme");
+if (savedTheme) {
+  body.setAttribute("data-theme", savedTheme);
+  switcher.checked = savedTheme === "dark";
+}
+
+// muda tema ao clicar
+switcher.addEventListener("change", () => {
+  if (switcher.checked) {
+    // dark
+    body.setAttribute("data-theme", "dark");
+    localStorage.setItem("theme", "dark");
+  } else {
+    // light
+    body.setAttribute("data-theme", "light");
+    localStorage.setItem("theme", "light");
+  }
 });
