@@ -17,7 +17,7 @@
       rel="stylesheet"
     />
   </head>
-  <body data-theme="">
+  <body data-theme="dark">
     <header>
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
@@ -43,19 +43,19 @@
           <div id="menu" class="collapse navbar-collapse justify-content-end">
             <ul class="navbar-nav gap-2">
               <li class="nav-item">
-                <a href="#" class="nav-link active">Home</a>
+                <a href="#home" class="nav-link">Home</a>
               </li>
               <li class="nav-item">
-                <a href="#about" class="nav-link">Slide</a>
+                <a href="#carousel" class="nav-link">Slide</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">Champions</a>
+                <a href="#champion" class="nav-link">Champions</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">Sobre</a>
+                <a href="#about" class="nav-link">Sobre</a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">Suporte</a>
+                <a href="#footer" class="nav-link">Suporte</a>
               </li>
             </ul>
 
@@ -87,7 +87,7 @@
     </header>
 
     <main>
-      <div class="home container">
+      <div id="home" class="home container">
         <div class="custom-badge">
           <i class="bi bi-stars"></i>
           <span>Portifolio Showcase</span>
@@ -127,7 +127,7 @@
           <p>Master Yi</p>
         </div>
 
-        <div class="carousel-and-info">
+        <div id="carousel" class="carousel-and-info">
           <div id="carouselChampions" class="carousel carousel-dark slide">
             <div class="carousel-indicators">
               <button
@@ -217,7 +217,7 @@
           </div>
         </div>
 
-        <div class="champion-select">
+        <div id="champion" class="champion-select">
           <div class="champion-select__message">
             <img
               src="/public/img/emote/emote-blitz-quest.webp"
@@ -668,7 +668,7 @@
           </div>
         </div>
 
-        <section class="about-project">
+        <section id="about" class="about-project">
           <h2 class="about-project__title">Sobre Este Projeto</h2>
 
           <p class="about-project__text">
@@ -919,7 +919,7 @@
       </div>
     </div>
 
-    <footer class="footer">
+    <footer id="footer" class="footer">
       <div class="container footer__container">
         <section class="footer__section footer__section--primary row">
           <div class="footer__about col-6">

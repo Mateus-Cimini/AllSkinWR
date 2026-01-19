@@ -30,6 +30,15 @@ body {
   transform: scale(1.03);
 }
 
+.nav-link {
+  transition: color 0.3s, background-color 0.3s !important;
+}
+
+.nav-link.active {
+  color: var(--color-text-muted) !important;
+  
+}
+
 @media (max-width: 991.98px) {
   .navbar-collapse {
 background: linear-gradient(
