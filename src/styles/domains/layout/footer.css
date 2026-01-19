@@ -70,3 +70,21 @@
     align-items: center;
     justify-content: flex-end;
 }
+
+@media (max-width: 980px) {
+  .footer__title {
+    padding-top: 2rem;
+  }
+  .footer__brand {
+    padding-bottom: 1rem;
+  }
+
+  .footer__section--secondary {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 1rem;
+  }
+}
