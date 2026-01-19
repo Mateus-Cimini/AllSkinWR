@@ -1,3 +1,7 @@
+body {
+  background-color: var(--color-bg-soft) !important;
+}
+
 .home {
   display: flex;
   flex-direction: column;
