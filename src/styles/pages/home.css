@@ -20,8 +20,13 @@ body {
   margin: 0;
 }
 
+.gradient-text {
+  padding-bottom: 0.75rem;
+}
+
 .home-text p {
   max-width: 70%;
+  padding-bottom: 1rem;
 }
 
 

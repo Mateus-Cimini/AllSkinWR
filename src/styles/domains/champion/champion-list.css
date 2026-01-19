@@ -5,4 +5,8 @@
 
 .champion-input input {
   height: 60px;
+  border: 1px solid var(--color-border-soft);
+  -webkit-box-shadow: 3px 12px 24px -19px rgba(66, 68, 90, 1);
+-moz-box-shadow: 3px 12px 24px -19px rgba(66, 68, 90, 1);
+box-shadow: 3px 12px 24px -19px rgba(66, 68, 90, 1);
 }

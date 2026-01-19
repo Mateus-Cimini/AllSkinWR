@@ -1,14 +1,41 @@
+.btn-div {
+  padding: 2rem;
 
+}
+.footer {
+  background-color: var(--color-bg-main);
+  border-top: 1px solid var(--color-border-soft);
+  padding-top: 2rem;
+}
 
 .footer__section--primary {
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #808080;
+  border-bottom: 2px solid var(--color-border-soft);
 }
 
 .footer__brand-link {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+
+.circle {
+  background-color: var(--color-bg-soft);
+  border: 1px solid var(--color-border-soft);
+  border-radius: 9px;
+  padding: 0.5rem;
+  transition: all 0.2s ease-in;
+}
+
+.circle:hover {
+  background-color: var(--color-accent-gold);
+  transform: scale(1.09);
+}
+
+
+
+.circle i {
+  color: var(--color-text-main);
 }
 
 .footer__title {
@@ -34,7 +61,7 @@
 
 .footer__section--secondary {
     padding-top: 1.5rem;
-    border-bottom: 1px solid #808080;
+    border-bottom: 1px solid var(--color-border-soft);
 }
 
 .footer__form {

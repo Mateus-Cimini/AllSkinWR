@@ -1,22 +1,92 @@
 .champion-select__champion-card {
-    padding-bottom: 4rem;
+  padding-bottom: 4rem;
 }
 
 .champion-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.5rem;
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
 }
 
+
+
 .champion-select__card {
-  border: 1px solid #808080;
+  border: 1px solid var(--color-border-soft);
+  border-radius: 8px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
+  -webkit-box-shadow: 8px 15px 24px -14px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 8px 15px 24px -14px rgba(66, 68, 90, 1);
+  box-shadow: 8px 15px 24px -14px rgba(66, 68, 90, 1);
+  transition: transform 0.3s ease;
+
+    background-image: url('https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a8024c119c807782f62205c90b8aec7f19ef8ad0-1280x720.jpg?accountingTag=WR?auto=format&fit=fill&q=80&w=606');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.champion-select__card {
+  position: relative;
+  overflow: hidden;
+}
+
+.champion-select__card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0);
+  transition: background-color 0.3s ease;
+}
+
+.champion-select__card:hover {
+  transform: scale(1.09);
+  border: 1px solid var(--color-accent-gold);
+}
+
+.champion-select__card:hover::before {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.champion-select__card > * {
+  position: relative;
+  z-index: 1;
+}
+
+
+.champion-select__card:hover .champion-select__card-title {
+  color: var(--color-accent-gold);
 }
 
 .champion-select__card-title {
   padding-top: 0.5rem;
+  text-align: center;
+}
+
+.champion-select__card-lane-icon {
+  width: 50px;
+  height: auto;
+}
+
+.champion-select__card-lane-icon .st0 {
+  fill: #ebefe4;
+  transition: fill 0.2s ease;
+}
+
+.champion-select__card-lane-icon .st1 {
+  fill: rgba(235, 239, 228, 0.6);
+}
+
+[data-theme="dark"] .champion-select__card-lane-icon .st0 {
+  fill: #000;
+}
+
+[data-theme="dark"] .champion-select__card-lane-icon .st1 {
+  fill: rgba(0, 0, 0, 0.6);
 }

@@ -31,7 +31,7 @@
           </a>
 
           <button
-          id="menuToggle"
+            id="menuToggle"
             class="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
@@ -60,9 +60,9 @@
             </ul>
 
             <!-- From Uiverse.io by 3bdel3ziz-T -->
-            <div >
+            <div>
               <label class="switch btn-theme" for="switch">
-                <input id="switch" type="checkbox" class="circle"  />
+                <input id="switch" type="checkbox" class="circle" />
                 <svg
                   viewBox="0 0 384 512"
                   xmlns="http://www.w3.org/2000/svg"
@@ -219,7 +219,11 @@
 
         <div class="champion-select">
           <div class="champion-select__message">
-            <img src="https://placehold.co/150" alt="imagem duvida" />
+            <img
+              src="/public/img/emote/emote-blitz-quest.webp"
+              alt="imagem duvida"
+            />
+
             <h3>Selecione um campeão para começar.</h3>
             <p>
               Escolha um campeão da nossa coleção para visualizar as skins
@@ -232,106 +236,435 @@
 
           <div class="champion-select__input">
             <form class="champion-select__option-selector">
-              <input type="radio" name="skinType" id="opt1" checked />
-              <label for="opt1">1</label>
+              <input
+                class="champion-select__option-input"
+                type="radio"
+                name="skinType"
+                id="opt1"
+                checked
+              />
+              <label for="opt1">
+                <svg class="lane-icon" viewBox="0 0 24 24" aria-label="adc">
+                  <path d="COLE_AQUI_O_PATH_DO_ADC" />
+                </svg>
+              </label>
 
-              <input type="radio" name="skinType" id="opt2" />
-              <label for="opt2">2</label>
+              <input
+                class="champion-select__option-input"
+                type="radio"
+                name="skinType"
+                id="opt2"
+              />
+              <label for="opt2">
+                <svg
+                  class="lane-icon"
+                  viewBox="0 0 512 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                  aria-label="top"
+                >
+                  <g>
+                    <rect
+                      x="185.62"
+                      y="188.48"
+                      class="st0"
+                      width="135"
+                      height="135"
+                    />
+                    <polygon
+                      class="st0"
+                      points="88.52,372.4 88.52,88.36 372.56,88.36 460.25,0.67 0.83,0.67 0.83,460.09 	"
+                    />
+                    <polygon
+                      class="st1"
+                      points="423.14,138.94 423.14,422.98 139.1,422.98 51.41,510.67 510.83,510.67 510.83,51.25 	"
+                    />
+                  </g>
+                </svg>
+              </label>
 
-              <input type="radio" name="skinType" id="opt3" />
-              <label for="opt3">3</label>
+              <input
+                class="champion-select__option-input"
+                type="radio"
+                name="skinType"
+                id="opt3"
+              />
+              <label for="opt3">
+                <svg
+                  class="lane-icon"
+                  viewBox="0 0 512 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                  aria-label="jungle"
+                >
+                  <g>
+                    <path
+                      class="st0"
+                      d="M25.49,139.48c0,0,74.3,59.11,81.06,227.98c0,0,86.13,52.35,148.61,143.54c0,0,118.21-165.5-140.17-510
+		c0,0,91.19,135.1,64.17,300.6C179.16,301.6,157.21,203.65,25.49,139.48z"
+                    />
+                    <path
+                      class="st1"
+                      d="M282.14,200.27c0,0,20.3,47.28,33.81,92.88c0,0,11.82-35.46,18.58-92.88S400.39,1,400.39,1
+		S309.13,98.95,282.14,200.27z"
+                    />
+                    <path
+                      class="st1"
+                      d="M341.27,435.01c0,0-5.05-187.45,145.25-287.93c0,0-69.27,70.08-72.63,211.94L341.27,435.01z"
+                    />
+                  </g>
+                </svg>
+              </label>
 
-              <input type="radio" name="skinType" id="opt4" />
-              <label for="opt4">4</label>
+              <input
+                class="champion-select__option-input"
+                type="radio"
+                name="skinType"
+                id="opt4"
+              />
+              <label for="opt4">
+                <svg
+                  class="lane-icon"
+                  viewBox="0 0 512 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                  aria-label="mid"
+                >
+                  <g>
+                    <polygon
+                      class="st0"
+                      points="510.83,0.67 415.37,0.67 0.83,415.21 0.83,510.67 96.29,510.67 510.83,96.13 	"
+                    />
+                    <g class="st0">
+                      <polygon
+                        class="st1"
+                        points="88.53,249.32 88.53,88.36 249.49,88.36 337.18,0.67 0.83,0.67 0.83,337.02 		"
+                      />
+                      <polygon
+                        class="st1"
+                        points="423.14,262.02 423.14,422.98 262.18,422.98 174.49,510.67 510.83,510.67 510.83,174.32 		"
+                      />
+                    </g>
+                  </g>
+                </svg>
+              </label>
 
-              <input type="radio" name="skinType" id="opt5" />
-              <label for="opt5">5</label>
+              <input
+                class="champion-select__option-input"
+                type="radio"
+                name="skinType"
+                id="opt5"
+              />
+              <label for="opt5">
+                <svg
+                  class="lane-icon"
+                  viewBox="0 0 512 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                  aria-label="bottom"
+                >
+                  <g>
+                    <rect
+                      x="185.62"
+                      y="188.48"
+                      class="st0"
+                      width="135"
+                      height="135"
+                    />
+                    <polygon
+                      class="st1"
+                      points="88.52,372.4 88.52,88.36 372.56,88.36 460.25,0.67 0.83,0.67 0.83,460.09 	"
+                    />
+                    <polygon
+                      class="st0"
+                      points="423.14,138.94 423.14,422.98 139.1,422.98 51.41,510.67 510.83,510.67 510.83,51.25 	"
+                    />
+                  </g>
+                </svg>
+              </label>
 
-              <input type="radio" name="skinType" id="opt6" />
-              <label for="opt6">6</label>
+              <input
+                class="champion-select__option-input"
+                type="radio"
+                name="skinType"
+                id="opt6"
+              />
+              <label for="opt6">
+                <svg
+                  class="lane-icon"
+                  viewBox="0 0 512 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                  aria-label="support"
+                >
+                  <g>
+                    <path
+                      class="st0"
+                      d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                    />
+                    <path
+                      class="st0"
+                      d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                    />
+                    <polygon
+                      class="st1"
+                      points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                    />
+                    <polygon
+                      class="st1"
+                      points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                    />
+                  </g>
+                </svg>
+              </label>
             </form>
           </div>
         </div>
 
+        
+
         <div class="champion-select__champion-card champion-grid">
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
 
           <div class="champion-select__card">
-            <h6 class="champion-select__card-title">Champion Name</h6>
-            <img
+            <h6 class="champion-select__card-title">Zyra</h6>
+
+            <svg
               class="champion-select__card-lane-icon"
-              src="https://placehold.co/50"
-              alt="lane"
-            />
-            <p class="champion-select__card-number-skins">X Skin</p>
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="support"
+            >
+              <g>
+                <path
+                  class="st0"
+                  d="M0.83,135.32h164.82l40.53,40.53l-28.82,110.78l-73.85-33.32l45.03-59.44l-54.94-1.8C93.6,192.06,32.35,174.05,0.83,135.32z"
+                />
+                <path
+                  class="st0"
+                  d="M510.83,135.32H346.01l-40.53,40.53l28.82,110.78l73.85-33.32l-45.03-59.44l54.94-1.8C418.07,192.06,479.31,174.05,510.83,135.32z"
+                />
+                <polygon
+                  class="st1"
+                  points="193.57,43.46 176.46,69.58 253.91,155.14 331.37,69.58 314.26,43.46 255.71,43.46"
+                />
+                <polygon
+                  class="st1"
+                  points="256.84,211.71 269.89,200.32 317.3,423.3 256.84,467.88 196.38,423.3 243.79,200.32"
+                />
+              </g>
+            </svg>
+            <p class="champion-select__card-number-skins">4 Skin</p>
           </div>
         </div>
 
@@ -390,7 +723,7 @@
     <!-- TOASTS -->
 
     <!-- BOTÕES -->
-    <div class="mb-3">
+    <div class="mb-3 btn-div">
       <button type="button" class="btn btn-danger" id="liveToastTopBtn">
         Mostre o toast top
       </button>
@@ -610,7 +943,7 @@
             </div>
           </div>
 
-          <div class="footer__projects col-4">
+          <div class="footer__projects col-3">
             <h4 class="footer__title">Projetos</h4>
             <ul class="footer__list">
               <li class="footer__item">
@@ -645,7 +978,7 @@
             </ul>
           </div>
 
-          <div class="footer__social col-2">
+          <div class="footer__social col-3">
             <h4 class="footer__title">Contato</h4>
             <ul class="footer__social-list">
               <li class="footer__social-item">
@@ -655,7 +988,7 @@
                   href="https://www.instagram.com/mateus.cimini/"
                   target="_blank"
                 >
-                  <i class="bi bi-instagram"></i>
+                  <div class="circle"><i class="bi bi-instagram"></i></div>
                 </a>
               </li>
               <li class="footer__social-item">
@@ -664,7 +997,7 @@
                   title="GitHub"
                   href="https://github.com/Mateus-Cimini"
                 >
-                  <i class="bi bi-github"></i>
+                  <div class="circle"><i class="bi bi-github"></i></div>
                 </a>
               </li>
               <li class="footer__social-item">
@@ -673,7 +1006,7 @@
                   title="Substack"
                   href="https://mateuscimini.substack.com/"
                 >
-                  <i class="bi bi-substack"></i>
+                  <div class="circle"><i class="bi bi-substack"></i></div>
                 </a>
               </li>
               <li class="footer__social-item">
@@ -682,7 +1015,7 @@
                   title="Valete"
                   href="https://app.valete.org.br/login?redirect=%2Fu%2FMateusCimini"
                 >
-                  <i class="bi bi-suit-diamond-fill"></i>
+                  <div class="circle"><i class="bi bi-suit-diamond-fill"></i></div>
                 </a>
               </li>
             </ul>

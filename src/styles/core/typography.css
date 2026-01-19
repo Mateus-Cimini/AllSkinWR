@@ -73,7 +73,6 @@ a {
 /* Open Sans – texto */
 .home-text p,
 .champion-input,
-.champion-input__label,
 .champion-select__message p,
 .champion-select__card-number-skins,
 .about-project__text,
@@ -87,6 +86,7 @@ a {
 #SkinLabel,
 .skin-info-btn,
 .custom-badge span,
+.champion-input__label,
 .champion-title p {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;

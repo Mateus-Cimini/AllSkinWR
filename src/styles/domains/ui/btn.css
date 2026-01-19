@@ -1,13 +1,16 @@
 .skin-info-btn {
-    background: linear-gradient(90deg, #c9b36b, #55c9b0) !important;
-    border: none !important;
-    color: #fff !important;
-    font-weight: 700 !important;
-    font-size: 1.1rem !important;
-    border-radius: 8px !important;
-    transition: transform 0.9 ease-in;
+  background: linear-gradient(90deg, #c9b36b, #55c9b0) !important;
+  border: none !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  font-size: 1.1rem !important;
+  border-radius: 8px !important;
+  transition: transform 0.9 ease-in;
+  -webkit-box-shadow: 8px 15px 24px -14px rgba(66, 68, 90, 1) !important;
+  -moz-box-shadow: 8px 15px 24px -14px rgba(66, 68, 90, 1) !important;
+  box-shadow: 8px 15px 24px -14px rgba(66, 68, 90, 1) !important;
 }
 
 .skin-info-btn:hover {
-    transform: scale(1.09);
+  transform: scale(1.09);
 }

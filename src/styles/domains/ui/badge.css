@@ -1,6 +1,13 @@
-
-
 .custom-badge {
     justify-content: center;
-    padding: 24px 0;
+    padding: 0.5rem 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: var(--color-bg-main);
+    color: var(--color-accent-gold);
+    border: 1px solid var(--color-border-soft);
+    border-radius: 999px;
+-webkit-box-shadow: 3px 12px 24px -17px rgba(66, 68, 90, 1);
+-moz-box-shadow: 3px 12px 24px -17px rgba(66, 68, 90, 1);
+box-shadow: 3px 12px 24px -17px rgba(66, 68, 90, 1);
 }
