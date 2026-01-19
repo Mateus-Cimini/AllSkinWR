@@ -25,6 +25,12 @@
   overflow: hidden;
   border-radius: 8px;
   border: 1px solid var(--color-accent-gold);
+  transition: filter 0.3s ease !important;
+}
+
+.carousel-item:hover {
+  filter: brightness(80%);
+  cursor: pointer;
 }
 
 .carousel-item.active {
