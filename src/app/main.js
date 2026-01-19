@@ -6,6 +6,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
 // mover para um toast.js
 import { Toast } from 'bootstrap'
 
+
 document.addEventListener('DOMContentLoaded', () => {
   const toasts = {
     top: new Toast(document.getElementById('toastTop')),

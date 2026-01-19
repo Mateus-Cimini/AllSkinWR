@@ -1,5 +1,17 @@
-.header--brand a {
-    display: flex;
-    align-items: center;
-    gap: 8px;
+.navbar {
+  border-bottom: 1px solid var(--color-border-soft);
+}
+
+@media (max-width: 768px) {
+  #menu {
+    border-top: 1px solid var(--color-border-soft);
+  }
+
+  .navbar-nav {
+    border-bottom: 1px solid var(--color-border-soft);
+  }
+
+  .btn-theme {
+    margin: 0.5rem 0rem;
+  }
 }
