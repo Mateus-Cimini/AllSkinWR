@@ -46,7 +46,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Aatrox/33.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Aatrox/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Aatrox/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Ahri",
@@ -61,12 +62,12 @@
       },
       {
         "id": 1,
-        "name": "Ahri Pergaminhos Shan Hai",
+        "name": "Ahri da Dinastia",
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ahri/1.jpg"
       },
       {
         "id": 2,
-        "name": "CROMA MÌTICO: Ahri Guardiã Estelar",
+        "name": "Ahri Noturna",
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ahri/2.jpg"
       },
       {
@@ -81,7 +82,7 @@
       },
       {
         "id": 5,
-        "name": "Ahri Refrigerante",
+        "name": "Ahri Desafiante",
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ahri/5.jpg"
       },
       {
@@ -115,7 +116,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ahri/28.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ahri/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ahri/icon.png",
+    "skinsCount": 12
   },
   {
     "id": "Akali",
@@ -145,7 +147,7 @@
       },
       {
         "id": 9,
-        "name": "Akali Caligrafia",
+        "name": "Akali K/DA",
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Akali/9.jpg"
       },
       {
@@ -174,7 +176,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Akali/61.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Akali/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Akali/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Akshan",
@@ -189,7 +192,7 @@
       },
       {
         "id": 1,
-        "name": "Akshan Academia de Batalha",
+        "name": "Akshan Ciberpop",
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Akshan/1.jpg"
       },
       {
@@ -198,7 +201,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Akshan/2.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Akshan/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Akshan/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Alistar",
@@ -232,7 +236,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Alistar/29.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Alistar/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Alistar/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Ambessa",
@@ -251,7 +256,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ambessa/11.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ambessa/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ambessa/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Amumu",
@@ -290,7 +296,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Amumu/52.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Amumu/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Amumu/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Anivia",
@@ -364,7 +371,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Anivia/46.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Anivia/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Anivia/icon.png",
+    "skinsCount": 13
   },
   {
     "id": "Annie",
@@ -404,7 +412,7 @@
       },
       {
         "id": 50,
-        "name": "Annie Hextec",
+        "name": "Annie Princesa de Batalha",
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Annie/50.jpg"
       },
       {
@@ -418,7 +426,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Annie/52.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Annie/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Annie/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Aphelios",
@@ -457,7 +466,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Aphelios/30.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Aphelios/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Aphelios/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Ashe",
@@ -526,36 +536,17 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ashe/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ashe/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ashe/icon.png",
+    "skinsCount": 12
   },
   {
     "id": "AurelionSol",
     "name": "Aurelion Sol",
     "title": "o Forjador de Estrelas",
     "icon": "AurelionSol.png",
-    "skins": [
-      {
-        "id": 0,
-        "name": "Aurelion Sol",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/v1768993507/allskinwr/skins/AurelionSol/0.jpg"
-      },
-      {
-        "id": 1,
-        "name": "Aurelion Sol Senhor das Cinzas",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/v1768993507/allskinwr/skins/AurelionSol/1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Mech Aurelion Sol",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/AurelionSol/2.jpg"
-      },
-      {
-        "id": 11,
-        "name": "Aurelion Sol Dragão da Tormenta",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/AurelionSol/11.jpg"
-      }
-    ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/AurelionSol/icon.png"
+    "skins": [],
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/AurelionSol/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Aurora",
@@ -579,7 +570,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Aurora/4.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Aurora/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Aurora/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Azir",
@@ -628,26 +620,17 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Azir/19.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Azir/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Azir/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Bard",
     "name": "Bardo",
     "title": "o Protetor Andarilho",
     "icon": "Bard.png",
-    "skins": [
-        {
-        "id": 0,
-        "name": "Bardo",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/bard/0.jpg"
-      },
-      {
-        "id": 19,
-        "name": "Bardo Arauto Místico",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/bard/19.jpg"
-      }
-    ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Bard/icon.png"
+    "skins": [],
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Bard/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Belveth",
@@ -655,7 +638,8 @@
     "title": "a Imperatriz do Vazio",
     "icon": "Belveth.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Belveth/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Belveth/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Blitzcrank",
@@ -694,7 +678,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Blitzcrank/79.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Blitzcrank/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Blitzcrank/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Brand",
@@ -748,7 +733,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Brand/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Brand/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Brand/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Braum",
@@ -797,7 +783,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Braum/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Braum/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Braum/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Briar",
@@ -821,7 +808,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Briar/10.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Briar/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Briar/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Caitlyn",
@@ -885,7 +873,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Caitlyn/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Caitlyn/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Caitlyn/icon.png",
+    "skinsCount": 11
   },
   {
     "id": "Camille",
@@ -924,7 +913,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Camille/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Camille/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Camille/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Cassiopeia",
@@ -978,7 +968,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Cassiopeia/28.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Cassiopeia/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Cassiopeia/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Chogath",
@@ -986,7 +977,8 @@
     "title": "o Terror do Vazio",
     "icon": "Chogath.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Chogath/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Chogath/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Corki",
@@ -1025,7 +1017,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Corki/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Corki/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Corki/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Darius",
@@ -1079,7 +1072,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Darius/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Darius/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Darius/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Diana",
@@ -1133,7 +1127,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Diana/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Diana/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Diana/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Draven",
@@ -1192,7 +1187,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Draven/96.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Draven/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Draven/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "DrMundo",
@@ -1200,7 +1196,8 @@
     "title": "o Louco de Zaun",
     "icon": "DrMundo.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/DrMundo/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/DrMundo/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Ekko",
@@ -1244,7 +1241,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ekko/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ekko/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ekko/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Elise",
@@ -1298,7 +1296,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Elise/24.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Elise/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Elise/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Evelynn",
@@ -1337,7 +1336,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Evelynn/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Evelynn/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Evelynn/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Ezreal",
@@ -1411,7 +1411,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ezreal/95.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ezreal/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ezreal/icon.png",
+    "skinsCount": 13
   },
   {
     "id": "Fiddlesticks",
@@ -1435,7 +1436,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Fiddlesticks/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Fiddlesticks/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Fiddlesticks/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Fiora",
@@ -1499,7 +1501,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Fiora/95.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Fiora/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Fiora/icon.png",
+    "skinsCount": 11
   },
   {
     "id": "Fizz",
@@ -1548,7 +1551,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Fizz/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Fizz/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Fizz/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Galio",
@@ -1602,7 +1606,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Galio/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Galio/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Galio/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Gangplank",
@@ -1676,7 +1681,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Gangplank/33.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gangplank/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gangplank/icon.png",
+    "skinsCount": 13
   },
   {
     "id": "Garen",
@@ -1725,7 +1731,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Garen/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Garen/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Garen/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Gnar",
@@ -1749,7 +1756,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Gnar/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gnar/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gnar/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Gragas",
@@ -1778,7 +1786,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Gragas/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gragas/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gragas/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Graves",
@@ -1847,7 +1856,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Graves/95.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Graves/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Graves/icon.png",
+    "skinsCount": 12
   },
   {
     "id": "Gwen",
@@ -1901,7 +1911,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Gwen/95.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gwen/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Gwen/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Hecarim",
@@ -1930,7 +1941,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Hecarim/31.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Hecarim/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Hecarim/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Heimerdinger",
@@ -1954,7 +1966,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Heimerdinger/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Heimerdinger/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Heimerdinger/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Hwei",
@@ -1973,7 +1986,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Hwei/1.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Hwei/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Hwei/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Illaoi",
@@ -2012,7 +2026,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Illaoi/27.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Illaoi/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Illaoi/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Irelia",
@@ -2066,7 +2081,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Irelia/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Irelia/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Irelia/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Ivern",
@@ -2100,7 +2116,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ivern/20.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ivern/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ivern/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Janna",
@@ -2149,7 +2166,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Janna/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Janna/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Janna/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "JarvanIV",
@@ -2157,7 +2175,8 @@
     "title": "o Exemplo de Demacia",
     "icon": "JarvanIV.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/JarvanIV/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/JarvanIV/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Jax",
@@ -2206,7 +2225,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Jax/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jax/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jax/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Jayce",
@@ -2260,7 +2280,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Jayce/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jayce/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jayce/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Jhin",
@@ -2314,7 +2335,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Jhin/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jhin/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jhin/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Jinx",
@@ -2393,7 +2415,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Jinx/99.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jinx/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Jinx/icon.png",
+    "skinsCount": 14
   },
   {
     "id": "Kaisa",
@@ -2401,7 +2424,8 @@
     "title": "a Filha do Vazio",
     "icon": "Kaisa.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kaisa/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kaisa/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Kalista",
@@ -2425,7 +2449,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kalista/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kalista/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kalista/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Karma",
@@ -2469,7 +2494,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Karma/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Karma/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Karma/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Karthus",
@@ -2528,7 +2554,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Karthus/26.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Karthus/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Karthus/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Kassadin",
@@ -2562,7 +2589,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kassadin/24.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kassadin/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kassadin/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Katarina",
@@ -2616,7 +2644,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Katarina/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Katarina/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Katarina/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Kayle",
@@ -2655,7 +2684,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kayle/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kayle/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kayle/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Kayn",
@@ -2684,7 +2714,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kayn/20.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kayn/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kayn/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Kennen",
@@ -2723,7 +2754,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kennen/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kennen/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kennen/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Khazix",
@@ -2731,7 +2763,8 @@
     "title": "o Ceifador do Vazio",
     "icon": "Khazix.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Khazix/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Khazix/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Kindred",
@@ -2760,7 +2793,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kindred/22.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kindred/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kindred/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Kled",
@@ -2794,26 +2828,17 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Kled/18.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kled/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Kled/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "KogMaw",
     "name": "Kog'Maw",
     "title": "a Boca do Abismo",
     "icon": "KogMaw.png",
-    "skins": [ 
-      {
-        "id": 0,
-        "name": "Kog'Maw",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/KogMaw/0.jpg"
-      },
-      {
-        "id": 46,
-        "name": "Kog'Maw Pergaminhos Shan Hai",
-        "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/KogMaw/46.jpg"
-      }
-    ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/KogMaw/icon.png"
+    "skins": [],
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/KogMaw/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "KSante",
@@ -2821,7 +2846,8 @@
     "title": "o Orgulho de Nazumah.",
     "icon": "KSante.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/KSante/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/KSante/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Leblanc",
@@ -2829,7 +2855,8 @@
     "title": "a Farsante",
     "icon": "Leblanc.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Leblanc/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Leblanc/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "LeeSin",
@@ -2837,7 +2864,8 @@
     "title": "o Monge Cego",
     "icon": "LeeSin.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/LeeSin/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/LeeSin/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Leona",
@@ -2886,7 +2914,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Leona/34.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Leona/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Leona/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Lillia",
@@ -2925,7 +2954,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Lillia/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lillia/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lillia/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Lissandra",
@@ -2954,7 +2984,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Lissandra/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lissandra/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lissandra/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Lucian",
@@ -3003,7 +3034,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Lucian/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lucian/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lucian/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Lulu",
@@ -3062,7 +3094,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Lulu/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lulu/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lulu/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Lux",
@@ -3141,7 +3174,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Lux/99.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lux/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Lux/icon.png",
+    "skinsCount": 14
   },
   {
     "id": "Malphite",
@@ -3195,7 +3229,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Malphite/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Malphite/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Malphite/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Malzahar",
@@ -3269,7 +3304,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Malzahar/39.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Malzahar/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Malzahar/icon.png",
+    "skinsCount": 13
   },
   {
     "id": "Maokai",
@@ -3293,7 +3329,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Maokai/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Maokai/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Maokai/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "MasterYi",
@@ -3301,7 +3338,8 @@
     "title": "o Espadachim Wuju",
     "icon": "MasterYi.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/MasterYi/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/MasterYi/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Milio",
@@ -3320,7 +3358,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Milio/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Milio/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Milio/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "MissFortune",
@@ -3328,7 +3367,8 @@
     "title": "a Caçadora de Recompensas",
     "icon": "MissFortune.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/MissFortune/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/MissFortune/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "MonkeyKing",
@@ -3336,7 +3376,8 @@
     "title": "o Macaco Rei",
     "icon": "MonkeyKing.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/MonkeyKing/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/MonkeyKing/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Mordekaiser",
@@ -3365,7 +3406,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Mordekaiser/44.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Mordekaiser/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Mordekaiser/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Morgana",
@@ -3404,7 +3446,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Morgana/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Morgana/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Morgana/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Naafiri",
@@ -3428,7 +3471,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Naafiri/11.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Naafiri/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Naafiri/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Nami",
@@ -3482,7 +3526,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Nami/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nami/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nami/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Nasus",
@@ -3536,7 +3581,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Nasus/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nasus/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nasus/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Nautilus",
@@ -3570,7 +3616,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Nautilus/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nautilus/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nautilus/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Neeko",
@@ -3624,7 +3671,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Neeko/40.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Neeko/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Neeko/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Nidalee",
@@ -3643,7 +3691,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Nidalee/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nidalee/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nidalee/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Nilah",
@@ -3672,7 +3721,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Nilah/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nilah/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nilah/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Nocturne",
@@ -3691,7 +3741,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Nocturne/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nocturne/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nocturne/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Nunu",
@@ -3699,7 +3750,8 @@
     "title": "o Garoto e seu Yeti",
     "icon": "Nunu.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nunu/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Nunu/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Olaf",
@@ -3743,7 +3795,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Olaf/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Olaf/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Olaf/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Orianna",
@@ -3792,7 +3845,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Orianna/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Orianna/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Orianna/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Ornn",
@@ -3816,7 +3870,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ornn/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ornn/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ornn/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Pantheon",
@@ -3865,7 +3920,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Pantheon/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Pantheon/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Pantheon/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Poppy",
@@ -3884,7 +3940,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Poppy/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Poppy/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Poppy/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Pyke",
@@ -3918,7 +3975,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Pyke/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Pyke/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Pyke/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Qiyana",
@@ -3972,7 +4030,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Qiyana/40.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Qiyana/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Qiyana/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Quinn",
@@ -4016,7 +4075,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Quinn/14.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Quinn/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Quinn/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Rakan",
@@ -4070,7 +4130,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Rakan/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rakan/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rakan/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Rammus",
@@ -4094,7 +4155,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Rammus/8.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rammus/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rammus/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "RekSai",
@@ -4102,7 +4164,8 @@
     "title": "a Escavadora do Vazio",
     "icon": "RekSai.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/RekSai/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/RekSai/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Rell",
@@ -4121,7 +4184,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Rell/10.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rell/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rell/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Renata",
@@ -4129,7 +4193,8 @@
     "title": "a Baronesa da Química",
     "icon": "Renata.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Renata/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Renata/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Renekton",
@@ -4178,7 +4243,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Renekton/26.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Renekton/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Renekton/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Rengar",
@@ -4212,7 +4278,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Rengar/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rengar/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rengar/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Riven",
@@ -4276,7 +4343,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Riven/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Riven/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Riven/icon.png",
+    "skinsCount": 11
   },
   {
     "id": "Rumble",
@@ -4295,7 +4363,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Rumble/4.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rumble/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Rumble/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Ryze",
@@ -4314,7 +4383,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ryze/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ryze/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ryze/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Samira",
@@ -4353,7 +4423,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Samira/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Samira/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Samira/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Sejuani",
@@ -4427,7 +4498,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Sejuani/36.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sejuani/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sejuani/icon.png",
+    "skinsCount": 13
   },
   {
     "id": "Senna",
@@ -4461,7 +4533,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Senna/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Senna/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Senna/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Seraphine",
@@ -4510,7 +4583,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Seraphine/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Seraphine/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Seraphine/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Sett",
@@ -4564,7 +4638,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Sett/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sett/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sett/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Shaco",
@@ -4648,7 +4723,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Shaco/54.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Shaco/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Shaco/icon.png",
+    "skinsCount": 15
   },
   {
     "id": "Shen",
@@ -4682,7 +4758,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Shen/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Shen/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Shen/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Shyvana",
@@ -4726,7 +4803,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Shyvana/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Shyvana/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Shyvana/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Singed",
@@ -4760,7 +4838,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Singed/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Singed/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Singed/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Sion",
@@ -4784,7 +4863,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Sion/5.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sion/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sion/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Sivir",
@@ -4813,7 +4893,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Sivir/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sivir/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sivir/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Skarner",
@@ -4852,7 +4933,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Skarner/5.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Skarner/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Skarner/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Smolder",
@@ -4871,7 +4953,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Smolder/1.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Smolder/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Smolder/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Sona",
@@ -4930,7 +5013,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Sona/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sona/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sona/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Soraka",
@@ -4974,7 +5058,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Soraka/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Soraka/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Soraka/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Swain",
@@ -5003,7 +5088,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Swain/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Swain/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Swain/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Sylas",
@@ -5057,7 +5143,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Sylas/46.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sylas/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Sylas/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Syndra",
@@ -5086,7 +5173,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Syndra/44.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Syndra/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Syndra/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "TahmKench",
@@ -5094,7 +5182,8 @@
     "title": "o Rei do Rio",
     "icon": "TahmKench.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/TahmKench/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/TahmKench/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Taliyah",
@@ -5133,7 +5222,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Taliyah/21.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Taliyah/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Taliyah/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Talon",
@@ -5172,7 +5262,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Talon/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Talon/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Talon/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Taric",
@@ -5216,7 +5307,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Taric/18.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Taric/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Taric/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Teemo",
@@ -5275,7 +5367,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Teemo/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Teemo/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Teemo/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Thresh",
@@ -5344,7 +5437,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Thresh/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Thresh/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Thresh/icon.png",
+    "skinsCount": 12
   },
   {
     "id": "Tristana",
@@ -5403,7 +5497,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Tristana/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Tristana/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Tristana/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Trundle",
@@ -5457,7 +5552,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Trundle/21.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Trundle/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Trundle/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Tryndamere",
@@ -5511,7 +5607,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Tryndamere/92.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Tryndamere/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Tryndamere/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "TwistedFate",
@@ -5519,7 +5616,8 @@
     "title": "o Mestre das Cartas",
     "icon": "TwistedFate.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/TwistedFate/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/TwistedFate/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Twitch",
@@ -5553,7 +5651,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Twitch/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Twitch/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Twitch/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Udyr",
@@ -5597,7 +5696,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Udyr/6.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Udyr/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Udyr/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Urgot",
@@ -5631,7 +5731,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Urgot/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Urgot/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Urgot/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Varus",
@@ -5690,7 +5791,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Varus/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Varus/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Varus/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Vayne",
@@ -5764,7 +5866,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Vayne/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vayne/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vayne/icon.png",
+    "skinsCount": 13
   },
   {
     "id": "Veigar",
@@ -5813,7 +5916,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Veigar/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Veigar/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Veigar/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Velkoz",
@@ -5821,7 +5925,8 @@
     "title": "o Olho do Vazio",
     "icon": "Velkoz.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Velkoz/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Velkoz/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Vex",
@@ -5855,7 +5960,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Vex/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vex/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vex/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Vi",
@@ -5914,7 +6020,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Vi/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vi/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vi/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Viego",
@@ -5948,7 +6055,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Viego/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Viego/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Viego/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Viktor",
@@ -5972,7 +6080,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Viktor/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Viktor/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Viktor/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Vladimir",
@@ -6001,7 +6110,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Vladimir/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vladimir/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Vladimir/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Volibear",
@@ -6035,7 +6145,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Volibear/94.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Volibear/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Volibear/icon.png",
+    "skinsCount": 5
   },
   {
     "id": "Warwick",
@@ -6059,7 +6170,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Warwick/35.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Warwick/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Warwick/icon.png",
+    "skinsCount": 3
   },
   {
     "id": "Xayah",
@@ -6118,7 +6230,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Xayah/95.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Xayah/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Xayah/icon.png",
+    "skinsCount": 10
   },
   {
     "id": "Xerath",
@@ -6172,7 +6285,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Xerath/30.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Xerath/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Xerath/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "XinZhao",
@@ -6180,7 +6294,8 @@
     "title": "o Senescal de Demacia",
     "icon": "XinZhao.png",
     "skins": [],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/XinZhao/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/XinZhao/icon.png",
+    "skinsCount": 0
   },
   {
     "id": "Yasuo",
@@ -6259,7 +6374,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Yasuo/99.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yasuo/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yasuo/icon.png",
+    "skinsCount": 14
   },
   {
     "id": "Yone",
@@ -6308,7 +6424,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Yone/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yone/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yone/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Yorick",
@@ -6362,7 +6479,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Yorick/40.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yorick/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yorick/icon.png",
+    "skinsCount": 9
   },
   {
     "id": "Yuumi",
@@ -6406,7 +6524,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Yuumi/96.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yuumi/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Yuumi/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Zac",
@@ -6450,7 +6569,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Zac/24.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zac/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zac/icon.png",
+    "skinsCount": 7
   },
   {
     "id": "Zed",
@@ -6499,7 +6619,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Zed/90.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zed/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zed/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Zeri",
@@ -6538,7 +6659,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Zeri/93.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zeri/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zeri/icon.png",
+    "skinsCount": 6
   },
   {
     "id": "Ziggs",
@@ -6587,7 +6709,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Ziggs/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ziggs/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Ziggs/icon.png",
+    "skinsCount": 8
   },
   {
     "id": "Zilean",
@@ -6606,7 +6729,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Zilean/5.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zilean/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zilean/icon.png",
+    "skinsCount": 2
   },
   {
     "id": "Zoe",
@@ -6635,7 +6759,8 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Zoe/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zoe/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zoe/icon.png",
+    "skinsCount": 4
   },
   {
     "id": "Zyra",
@@ -6664,6 +6789,7 @@
         "imageUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/skins/Zyra/91.jpg"
       }
     ],
-    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zyra/icon.png"
+    "iconUrl": "https://res.cloudinary.com/dl8eung7z/image/upload/allskinwr/icons/Zyra/icon.png",
+    "skinsCount": 4
   }
 ]

@@ -23,8 +23,20 @@ function buildOfficialNameMap(officialChampions) {
   return map;
 }
 
+// champion -> skinId -> customName (do public json)
+function buildCustomNameMap(publicChampions) {
+  const map = {};
+  for (const champ of publicChampions) {
+    map[champ.name] = {};
+    for (const skin of champ.skins ?? []) {
+      map[champ.name][skin.id] = skin.name;
+    }
+  }
+  return map;
+}
+
 // lê a pasta e monta skins existentes (fonte da verdade de existência)
-function getSkinsFromFolder(officialNameMap) {
+function getSkinsFromFolder(officialNameMap, customNameMap) {
   const files = fs.readdirSync(SKINS_DIR).filter((f) => f.endsWith(".jpg"));
   const result = {};
 
@@ -34,8 +46,11 @@ function getSkinsFromFolder(officialNameMap) {
 
     if (!result[champion]) result[champion] = [];
 
+    // prioridade: oficial -> custom -> fallback
     const name =
-      officialNameMap?.[champion]?.[skinId] ?? `${champion} Skin ${skinId}`;
+      officialNameMap?.[champion]?.[skinId] ??
+      customNameMap?.[champion]?.[skinId] ??
+      `${champion} Skin ${skinId}`;
 
     result[champion].push({
       id: skinId,
@@ -56,15 +71,17 @@ function main() {
   const publicChampions = JSON.parse(fs.readFileSync(PUBLIC_JSON, "utf-8"));
 
   const officialNameMap = buildOfficialNameMap(officialChampions);
-  const skinsByChampion = getSkinsFromFolder(officialNameMap);
+  const customNameMap = buildCustomNameMap(publicChampions);
 
-  // atualiza SOMENTE skins no json público, preservando o resto (iconUrl etc)
+  const skinsByChampion = getSkinsFromFolder(officialNameMap, customNameMap);
+
   for (const champ of publicChampions) {
     champ.skins = skinsByChampion[champ.name] ?? [];
+    champ.skinsCount = champ.skins.length; // ✅ novo campo
   }
 
   fs.writeFileSync(PUBLIC_JSON, JSON.stringify(publicChampions, null, 2));
-  console.log("✅ champions.json atualizado (nomes oficiais restaurados)");
+  console.log("✅ champions.json atualizado (nomes preservados + skinsCount)");
 }
 
 main();

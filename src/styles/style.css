@@ -17,6 +17,7 @@
 @import './domains/ui/badge.css';
 @import './domains/ui/btn.css';
 @import './domains/ui/btn-theme.css';
+@import './domains/ui/select.css';
 
 /* Champion / Carousel */
 @import './domains/champion/champion-list.css';
@@ -30,3 +31,6 @@
 @import './pages/home.css';
 @import './pages/about.css';
 @import './pages/champions.css';
+
+
+

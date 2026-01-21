@@ -103,23 +103,25 @@
           </p>
         </div>
 
-        <div class="champion-input">
+        <div class="champion-select champion-input">
           <label class="champion-input__label" for="champion-input"
-            >Selecione um campeão</label
-          >
-          <input
-            id="champion-input"
-            class="form-control champion-input__input"
-            list="champion-input__list"
-            placeholder="Buscar campeão..."
-          />
+            >Selecione um campeão</label>
+            <div class="champion-select__field">
 
-          <datalist id="champion-input__list" class="champion-input__list">
-            <option value="Ahri"></option>
-            <option value="Akali"></option>
-            <option value="Ambessa"></option>
-            <option value="Annie"></option>
-          </datalist>
+              <i class="bi bi-search"></i>
+              <select
+              id="champion-input"
+              class="champion-input__input w-100"
+              placeholder="Buscar campeão..."
+              data-width="100%"
+              >
+              <option value=""></option>
+              <option value="Ahri">Ahri</option>
+              <option value="Akali">Akali</option>
+              <option value="Ambessa">Ambessa</option>
+              <option value="Annie">Annie</option>
+            </select>
+          </div>
         </div>
 
         <div class="champion-title">

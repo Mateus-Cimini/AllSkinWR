@@ -1,0 +1,222 @@
+/* ============================= */
+/* Select2 (Bootstrap 5) - AllSkinWR */
+/* Light: branco/dourado/cinza */
+/* Dark: dourado + azul (surfaces) */
+/* ============================= */
+
+.champion-select {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* wrapper do campo */
+.champion-select__field {
+  position: relative;
+}
+
+
+/* ícone lupa */
+.champion-select__field .bi-search {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  pointer-events: none;
+  color: var(--color-text-muted);
+  font-size: 16px;
+}
+
+/* força largura total */
+.champion-select__field .select2-container {
+  width: 100% !important;
+}
+
+/* ============================= */
+/* INPUT (base)                  */
+/* ============================= */
+
+.champion-select__field
+.select2-container--bootstrap-5
+.select2-selection {
+  height: 48px;
+  border-radius: 14px;
+  border: 1px solid var(--color-border-soft);
+  background: var(--color-surface-input);
+  display: flex;
+  align-items: center;
+  padding-left: 42px;  /* espaço lupa */
+  padding-right: 42px; /* espaço seta/clear */
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  transition: border-color 160ms ease, background-color 160ms ease;
+}
+
+/* texto do selecionado */
+.champion-select__field
+.select2-container--bootstrap-5
+.select2-selection--single
+.select2-selection__rendered {
+  padding: 0;
+  line-height: 1;
+  font-size: 14px;
+  color: var(--color-text-main);
+}
+
+/* placeholder */
+.champion-select__field
+.select2-container--bootstrap-5
+.select2-selection__placeholder {
+  color: var(--color-text-muted);
+}
+
+/* seta */
+.champion-select__field
+.select2-container--bootstrap-5
+.select2-selection__arrow {
+  right: 14px;
+  height: 100%;
+}
+
+
+
+/* botão clear (X) */
+.champion-select__field
+.select2-container--bootstrap-5
+.select2-selection__clear {
+  color: var(--color-text-muted);
+  margin-right: 6px;
+}
+
+/* ============================= */
+/* BORDAS (sem azul)             */
+/* Regras por estado usando :has */
+/* ============================= */
+
+/* 1) VAZIO + FECHADO -> borda MUTED (do jeito que você pediu) */
+.champion-select__field
+.select2-container--bootstrap-5:not(.select2-container--open):not(.select2-container--focus)
+.select2-selection:has(.select2-selection__placeholder) {
+  border-color: var(--color-text-muted) !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+
+
+
+
+/* 2) COM VALOR (fechado) -> borda GOLD */
+.champion-select__field
+.select2-container--bootstrap-5:not(.select2-container--open):not(.select2-container--focus)
+.select2-selection:not(:has(.select2-selection__placeholder)) {
+  border-color: var(--color-accent-gold) !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+
+/* 3) ABERTO ou FOCADO -> borda GOLD (mata azul) */
+.champion-select__field
+.select2-container--bootstrap-5.select2-container--open
+.select2-selection,
+.champion-select__field
+.select2-container--bootstrap-5.select2-container--focus
+.select2-selection {
+  border-color: var(--color-accent-gold) !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* ============================= */
+/* DROPDOWN                      */
+/* ============================= */
+
+/* fundo do dropdown (força, sem branco bugado) */
+.select2-container--bootstrap-5 .select2-dropdown {
+  background: var(--color-surface-main) !important;
+  border: 1px solid var(--color-border-soft) !important;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.10);
+}
+
+
+/* dropdown aberto -> borda GOLD */
+.select2-container--bootstrap-5.select2-container--open .select2-dropdown {
+  border-color: var(--color-accent-gold) !important;
+}
+
+/* lista */
+.select2-container--bootstrap-5 .select2-results,
+.select2-container--bootstrap-5 .select2-results__options {
+  background: var(--color-surface-main) !important;
+}
+
+/* ============================= */
+/* SEARCH do dropdown (sem azul) */
+/* ============================= */
+
+.select2-container--bootstrap-5 .select2-search__field {
+  background: var(--color-surface-input) !important;
+  color: var(--color-text-main) !important;
+  border: 1px solid var(--color-border-soft) !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.select2-container--bootstrap-5 .select2-search__field:focus {
+  border-color: var(--color-accent-gold) !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* ============================= */
+/* OPTIONS (hover != selected)   */
+/* ============================= */
+
+/* base */
+.select2-container--bootstrap-5 .select2-results__option {
+  padding: 10px 14px;
+  font-size: 14px;
+  color: var(--color-text-main) !important;
+  background: transparent !important;
+  
+}
+
+
+
+
+/* SELECIONADA -> dourado mais forte (DIFERENTE do hover) */
+.select2-container--bootstrap-5 .select2-results__option--selected,
+.select2-container--bootstrap-5 .select2-results__option[aria-selected="true"] {
+  background: color-mix(in srgb, var(--color-surface-main) 55%, var(--color-accent-gold) 45%) !important;
+  color: var(--color-text-main) !important;
+}
+
+.select2-container--bootstrap-5 .select2-results__option[aria-selected="true"] {
+    background-color: var(--color-border-soft) !important;
+}
+
+/* hover em cima da selecionada -> ainda diferente */
+.select2-container--bootstrap-5
+.select2-results__option--selected.select2-results__option--highlighted {
+  background: color-mix(in srgb, var(--color-surface-main) 65%, var(--color-accent-gold) 35%) !important;
+}
+
+/* remove qualquer outline/azul restante interno */
+.select2-container--bootstrap-5 *:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+
+.select2-container--bootstrap-5 .select2-selection,
+.select2-container--bootstrap-5 .select2-search__field {
+    background-color: var(--color-surface-badge) !important;
+}
+
+
+.select2-container--bootstrap-5:not(.select2-container--open) .select2-selection:hover {
+    background-color: var(--color-border-soft) !important;
+}
