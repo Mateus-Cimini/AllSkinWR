@@ -1,0 +1,9022 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "title": "a Espada Darkin",
+    "icon": "Aatrox.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Aatrox"
+      },
+      {
+        "id": 1,
+        "name": "Aatrox Justiceiro"
+      },
+      {
+        "id": 2,
+        "name": "Mech Aatrox"
+      },
+      {
+        "id": 3,
+        "name": "Aatrox Caçador dos Mares"
+      },
+      {
+        "id": 7,
+        "name": "Aatrox Lua Sangrenta"
+      },
+      {
+        "id": 8,
+        "name": "Aatrox Lua Sangrenta de Prestígio"
+      },
+      {
+        "id": 9,
+        "name": "Aatrox Vitorioso"
+      },
+      {
+        "id": 11,
+        "name": "Aatrox Odisseia"
+      },
+      {
+        "id": 20,
+        "name": "Aatrox Lua Sangrenta de Prestígio (2022)"
+      },
+      {
+        "id": 21,
+        "name": "Aatrox Eclipse Lunar"
+      },
+      {
+        "id": 30,
+        "name": "Aatrox DRX"
+      },
+      {
+        "id": 31,
+        "name": "Aatrox DRX de Prestígio"
+      },
+      {
+        "id": 33,
+        "name": "Aatrox Primordiano"
+      }
+    ]
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "title": "a Raposa de Nove Caudas",
+    "icon": "Ahri.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ahri"
+      },
+      {
+        "id": 1,
+        "name": "Ahri da Dinastia"
+      },
+      {
+        "id": 2,
+        "name": "Ahri Noturna"
+      },
+      {
+        "id": 3,
+        "name": "Ahri Raposa Flamejante"
+      },
+      {
+        "id": 4,
+        "name": "Ahri Estrela do Pop"
+      },
+      {
+        "id": 5,
+        "name": "Ahri Desafiante"
+      },
+      {
+        "id": 6,
+        "name": "Ahri Colegial"
+      },
+      {
+        "id": 7,
+        "name": "Ahri Fliperama"
+      },
+      {
+        "id": 14,
+        "name": "Ahri Guardiã Estelar"
+      },
+      {
+        "id": 15,
+        "name": "Ahri K/DA"
+      },
+      {
+        "id": 16,
+        "name": "Ahri K/DA de Prestígio"
+      },
+      {
+        "id": 17,
+        "name": "Ahri Sabugueiro"
+      },
+      {
+        "id": 27,
+        "name": "Ahri Florescer Espiritual"
+      },
+      {
+        "id": 28,
+        "name": "Ahri K/DA ALL OUT"
+      },
+      {
+        "id": 42,
+        "name": "Ahri Congregação das Bruxas"
+      },
+      {
+        "id": 65,
+        "name": "Ahri K/DA de Prestígio (2022)"
+      },
+      {
+        "id": 66,
+        "name": "Ahri Arcana"
+      },
+      {
+        "id": 76,
+        "name": "Ahri Lua Nevada"
+      },
+      {
+        "id": 85,
+        "name": "Ahri Lenda Ascendida"
+      },
+      {
+        "id": 86,
+        "name": "Ahri Lenda Imortalizada"
+      }
+    ]
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "title": "a Assassina Renegada",
+    "icon": "Akali.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Akali"
+      },
+      {
+        "id": 1,
+        "name": "Akali Sinistra"
+      },
+      {
+        "id": 2,
+        "name": "Akali Infernal"
+      },
+      {
+        "id": 3,
+        "name": "Akali Esportista"
+      },
+      {
+        "id": 4,
+        "name": "Akali Enfermeira"
+      },
+      {
+        "id": 5,
+        "name": "Akali Lua Sangrenta"
+      },
+      {
+        "id": 6,
+        "name": "Akali Presas de Prata"
+      },
+      {
+        "id": 7,
+        "name": "Akali Caçadora de Cabeças"
+      },
+      {
+        "id": 8,
+        "name": "Akali Sashimi"
+      },
+      {
+        "id": 9,
+        "name": "Akali K/DA"
+      },
+      {
+        "id": 13,
+        "name": "Akali K/DA de Prestígio"
+      },
+      {
+        "id": 14,
+        "name": "PROJETO: Akali"
+      },
+      {
+        "id": 15,
+        "name": "Akali True Damage"
+      },
+      {
+        "id": 32,
+        "name": "Akali K/DA ALL OUT"
+      },
+      {
+        "id": 50,
+        "name": "Akali Pesadelo na Cidade do Crime"
+      },
+      {
+        "id": 60,
+        "name": "Akali K/DA de Prestígio (2022)"
+      },
+      {
+        "id": 61,
+        "name": "Akali Guardiã Estelar"
+      },
+      {
+        "id": 68,
+        "name": "Akali DRX"
+      },
+      {
+        "id": 70,
+        "name": "Akali Congregação das Bruxas"
+      },
+      {
+        "id": 71,
+        "name": "Akali Congregação das Bruxas de Prestígio"
+      },
+      {
+        "id": 82,
+        "name": "Akali Empírea"
+      }
+    ]
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "title": "o Sentinela Rebelde",
+    "icon": "Akshan.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Akshan"
+      },
+      {
+        "id": 1,
+        "name": "Akshan Ciberpop"
+      },
+      {
+        "id": 10,
+        "name": "Akshan Rosa de Cristal"
+      },
+      {
+        "id": 20,
+        "name": "Akshan Três Honras"
+      }
+    ]
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "title": "o Minotauro",
+    "icon": "Alistar.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Alistar"
+      },
+      {
+        "id": 1,
+        "name": "Alistar Negro"
+      },
+      {
+        "id": 2,
+        "name": "Alistar Dourado"
+      },
+      {
+        "id": 3,
+        "name": "Alistar Toureiro"
+      },
+      {
+        "id": 4,
+        "name": "Alistar Velho Oeste"
+      },
+      {
+        "id": 5,
+        "name": "Alistar Indomável"
+      },
+      {
+        "id": 6,
+        "name": "Alistar Infernal"
+      },
+      {
+        "id": 7,
+        "name": "Alistar Zagueiro"
+      },
+      {
+        "id": 8,
+        "name": "Alistar Saqueador"
+      },
+      {
+        "id": 9,
+        "name": "SKT T1 Alistar"
+      },
+      {
+        "id": 10,
+        "name": "Alistar Vaquinha"
+      },
+      {
+        "id": 19,
+        "name": "Alistar Hextec"
+      },
+      {
+        "id": 20,
+        "name": "Alistar Conquistador"
+      },
+      {
+        "id": 22,
+        "name": "Alistar Gelo Sombrio"
+      },
+      {
+        "id": 29,
+        "name": "Alistar Fera Lunar"
+      }
+    ]
+  },
+  {
+    "id": "Ambessa",
+    "name": "Ambessa",
+    "title": "Matriarca da Guerra",
+    "icon": "Ambessa.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ambessa"
+      },
+      {
+        "id": 1,
+        "name": "Ambessa Escolhida do Lobo"
+      }
+    ]
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "title": "a Múmia Triste",
+    "icon": "Amumu.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Amumu"
+      },
+      {
+        "id": 1,
+        "name": "Amumu Faraó"
+      },
+      {
+        "id": 2,
+        "name": "Amumu Jogos de Inverno"
+      },
+      {
+        "id": 3,
+        "name": "Emumu"
+      },
+      {
+        "id": 4,
+        "name": "Amumu Presente de Grego"
+      },
+      {
+        "id": 5,
+        "name": "Amumu Quase-Rei do Baile"
+      },
+      {
+        "id": 6,
+        "name": "Amumu, o Minicavaleiro"
+      },
+      {
+        "id": 7,
+        "name": "Amumu, o Robozinho Triste"
+      },
+      {
+        "id": 8,
+        "name": "Amumu Festa Surpresa"
+      },
+      {
+        "id": 17,
+        "name": "Amumu Infernal"
+      },
+      {
+        "id": 23,
+        "name": "Amumu Hextec"
+      },
+      {
+        "id": 24,
+        "name": "Amumu Príncipe Abóbora"
+      },
+      {
+        "id": 34,
+        "name": "Amumu de Porcelana"
+      },
+      {
+        "id": 44,
+        "name": "Amumu Coração Despedaçado"
+      }
+    ]
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "title": "a Criofênix",
+    "icon": "Anivia.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Anivia"
+      },
+      {
+        "id": 1,
+        "name": "Anivia Espírito de Equipe"
+      },
+      {
+        "id": 2,
+        "name": "Anivia de Rapina"
+      },
+      {
+        "id": 3,
+        "name": "Anivia Caçadora de Noxus"
+      },
+      {
+        "id": 4,
+        "name": "Anivia Hextec"
+      },
+      {
+        "id": 5,
+        "name": "Anivia Gelo Sombrio"
+      },
+      {
+        "id": 6,
+        "name": "Anivia Pré-histórica"
+      },
+      {
+        "id": 7,
+        "name": "Carnanivia"
+      },
+      {
+        "id": 8,
+        "name": "Anivia de Papel"
+      },
+      {
+        "id": 17,
+        "name": "Anivia Asas Cósmicas"
+      },
+      {
+        "id": 27,
+        "name": "Anivia Fênix Divina"
+      },
+      {
+        "id": 37,
+        "name": "Morceganivia Feiticeira"
+      },
+      {
+        "id": 46,
+        "name": "Anivia Vitoriosa"
+      }
+    ]
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "title": "a Criança Sombria",
+    "icon": "Annie.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Annie"
+      },
+      {
+        "id": 1,
+        "name": "Annie Gótica"
+      },
+      {
+        "id": 2,
+        "name": "Annie Chapeuzinho"
+      },
+      {
+        "id": 3,
+        "name": "Annie no País das Maravilhas"
+      },
+      {
+        "id": 4,
+        "name": "Annie Rainha do Baile"
+      },
+      {
+        "id": 5,
+        "name": "Annie do Raio de Gelo"
+      },
+      {
+        "id": 6,
+        "name": "Annie ao Contrário"
+      },
+      {
+        "id": 7,
+        "name": "Annie Frankenstibbers"
+      },
+      {
+        "id": 8,
+        "name": "Annie Panda"
+      },
+      {
+        "id": 9,
+        "name": "Annie Queridinha"
+      },
+      {
+        "id": 10,
+        "name": "Annie Hextec"
+      },
+      {
+        "id": 11,
+        "name": "Annie Supergaláctica"
+      },
+      {
+        "id": 12,
+        "name": "Annieversário"
+      },
+      {
+        "id": 13,
+        "name": "Annie Fera Lunar"
+      },
+      {
+        "id": 22,
+        "name": "Annie Kawaii Café"
+      },
+      {
+        "id": 31,
+        "name": "Annie Noite Apavorante"
+      },
+      {
+        "id": 40,
+        "name": "Annie Bênção do Inverno"
+      },
+      {
+        "id": 50,
+        "name": "Annie Princesa de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "title": "a Arma dos Devotos",
+    "icon": "Aphelios.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Aphelios"
+      },
+      {
+        "id": 1,
+        "name": "Aphelios Emissário da Escuridão"
+      },
+      {
+        "id": 9,
+        "name": "Aphelios Fera Lunar"
+      },
+      {
+        "id": 18,
+        "name": "Aphelios EDG"
+      },
+      {
+        "id": 20,
+        "name": "Aphelios Florescer Espiritual"
+      },
+      {
+        "id": 30,
+        "name": "Aphelios HEARTSTEEL"
+      }
+    ]
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "title": "a Arqueira do Gelo",
+    "icon": "Ashe.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ashe"
+      },
+      {
+        "id": 1,
+        "name": "Ashe de Freljord"
+      },
+      {
+        "id": 2,
+        "name": "Ashe de Sherwood"
+      },
+      {
+        "id": 3,
+        "name": "Ashe Bretã"
+      },
+      {
+        "id": 4,
+        "name": "Ashe Rainha"
+      },
+      {
+        "id": 5,
+        "name": "Ashe Ametista"
+      },
+      {
+        "id": 6,
+        "name": "Ashe Cupido Mortal"
+      },
+      {
+        "id": 7,
+        "name": "Ashe Saqueadora"
+      },
+      {
+        "id": 8,
+        "name": "PROJETO: Ashe"
+      },
+      {
+        "id": 9,
+        "name": "Ashe Mundial 2017"
+      },
+      {
+        "id": 11,
+        "name": "Ashe Rainha Cósmica"
+      },
+      {
+        "id": 17,
+        "name": "Ashe Velho Oeste"
+      },
+      {
+        "id": 23,
+        "name": "Ashe Dragoa Feérica"
+      },
+      {
+        "id": 32,
+        "name": "Ashe Congregação das Bruxas"
+      },
+      {
+        "id": 43,
+        "name": "Ashe Canção do Oceano"
+      },
+      {
+        "id": 52,
+        "name": "Ashe Imperatriz Lunar"
+      },
+      {
+        "id": 63,
+        "name": "Ashe DRX"
+      },
+      {
+        "id": 65,
+        "name": "Ashe Crystalis Motus"
+      },
+      {
+        "id": 67,
+        "name": "Ashe Infernal"
+      }
+    ]
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "title": "o Forjador de Estrelas",
+    "icon": "AurelionSol.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Aurelion Sol"
+      },
+      {
+        "id": 1,
+        "name": "Aurelion Sol Senhor das Cinzas"
+      },
+      {
+        "id": 2,
+        "name": "Mech Aurelion Sol"
+      },
+      {
+        "id": 11,
+        "name": "Aurelion Sol Dragão da Tormenta"
+      },
+      {
+        "id": 21,
+        "name": "Aurelion Sol Tinta Sombria"
+      },
+      {
+        "id": 31,
+        "name": "Aurelion Sol Protetor de Porcelana"
+      }
+    ]
+  },
+  {
+    "id": "Aurora",
+    "name": "Aurora",
+    "title": "a Bruxa Entre Mundos",
+    "icon": "Aurora.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Aurora"
+      },
+      {
+        "id": 1,
+        "name": "Aurora Coelha de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "title": "o Imperador das Areias",
+    "icon": "Azir.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Azir"
+      },
+      {
+        "id": 1,
+        "name": "Azir Galáctico"
+      },
+      {
+        "id": 2,
+        "name": "Azir Senhor dos Túmulos"
+      },
+      {
+        "id": 3,
+        "name": "SKT T1 Azir"
+      },
+      {
+        "id": 4,
+        "name": "Azir Reinos Combatentes"
+      },
+      {
+        "id": 5,
+        "name": "Azir Sabugueiro"
+      },
+      {
+        "id": 14,
+        "name": "Azir Mundial 2022"
+      },
+      {
+        "id": 19,
+        "name": "Azirvogado"
+      }
+    ]
+  },
+  {
+    "id": "Bard",
+    "name": "Bardo",
+    "title": "o Protetor Andarilho",
+    "icon": "Bard.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Bardo"
+      },
+      {
+        "id": 1,
+        "name": "Bardo Sabugueiro"
+      },
+      {
+        "id": 5,
+        "name": "Bardo Dia Nevado"
+      },
+      {
+        "id": 6,
+        "name": "Bardo Bardo"
+      },
+      {
+        "id": 8,
+        "name": "Bardo Astronauta"
+      },
+      {
+        "id": 17,
+        "name": "Bardo Kawaii Café"
+      },
+      {
+        "id": 26,
+        "name": "Bardo Pergaminhos Shan Hai"
+      },
+      {
+        "id": 35,
+        "name": "Bardo T1"
+      }
+    ]
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "title": "a Imperatriz do Vazio",
+    "icon": "Belveth.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Bel'Veth"
+      },
+      {
+        "id": 1,
+        "name": "Bel'Veth Chefona"
+      },
+      {
+        "id": 10,
+        "name": "Bel'Veth Matriarca Cósmica"
+      },
+      {
+        "id": 19,
+        "name": "Bel'Veth Primordiana"
+      }
+    ]
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "title": "o Grande Golem a Vapor",
+    "icon": "Blitzcrank.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Blitzcrank"
+      },
+      {
+        "id": 1,
+        "name": "Blitzcrank Enferrujado"
+      },
+      {
+        "id": 2,
+        "name": "Blitzcrank Goleiro"
+      },
+      {
+        "id": 3,
+        "name": "Blitzcrank Nocaute"
+      },
+      {
+        "id": 4,
+        "name": "Blitzcrank Tunado em Piltover"
+      },
+      {
+        "id": 5,
+        "name": "Certamente não é o Blitzcrank"
+      },
+      {
+        "id": 6,
+        "name": "iBlitzcrank"
+      },
+      {
+        "id": 7,
+        "name": "Riot Blitzcrank"
+      },
+      {
+        "id": 11,
+        "name": "Blitzcrank Chefão"
+      },
+      {
+        "id": 20,
+        "name": "Blitzcrank Lanceiro Renegado"
+      },
+      {
+        "id": 21,
+        "name": "Blitzcrank Lanceiro Redentor"
+      },
+      {
+        "id": 22,
+        "name": "Blitzcrank Caldeirão da Bruxa"
+      },
+      {
+        "id": 29,
+        "name": "Blitz e Crank Embalos no Espaço"
+      },
+      {
+        "id": 36,
+        "name": "Blitzcrank Vitorioso"
+      },
+      {
+        "id": 47,
+        "name": "Blitzcrank Zenith Games"
+      },
+      {
+        "id": 56,
+        "name": "Bzzztcrank"
+      }
+    ]
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "title": "a Vingança Flamejante",
+    "icon": "Brand.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Brand"
+      },
+      {
+        "id": 1,
+        "name": "Brand Pós-Apocalipse"
+      },
+      {
+        "id": 2,
+        "name": "Brand Vândalo"
+      },
+      {
+        "id": 3,
+        "name": "Brand Criogênico"
+      },
+      {
+        "id": 4,
+        "name": "Brand Zumbi"
+      },
+      {
+        "id": 5,
+        "name": "Brand Fogo Espiritual"
+      },
+      {
+        "id": 6,
+        "name": "Brand Chefão"
+      },
+      {
+        "id": 7,
+        "name": "Brand Arco Celeste"
+      },
+      {
+        "id": 8,
+        "name": "Brand Dragão Eterno"
+      },
+      {
+        "id": 21,
+        "name": "Brand Galante"
+      },
+      {
+        "id": 22,
+        "name": "Brand Galante de Prestígio"
+      },
+      {
+        "id": 33,
+        "name": "Brand Demônios Urbanos"
+      },
+      {
+        "id": 42,
+        "name": "Brand Empíreo"
+      }
+    ]
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "title": "o Coração de Freljord",
+    "icon": "Braum.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Braum"
+      },
+      {
+        "id": 1,
+        "name": "Braum Caçador de Dragões"
+      },
+      {
+        "id": 2,
+        "name": "Braum El Tigre"
+      },
+      {
+        "id": 3,
+        "name": "Braum Coração de Leão"
+      },
+      {
+        "id": 10,
+        "name": "Braum Noel"
+      },
+      {
+        "id": 11,
+        "name": "Braum Cidade do Crime"
+      },
+      {
+        "id": 24,
+        "name": "Braum Frenesi Açucarado"
+      },
+      {
+        "id": 33,
+        "name": "Braum Curtindo o Verão"
+      }
+    ]
+  },
+  {
+    "id": "Briar",
+    "name": "Briar",
+    "title": "a Fome Contida",
+    "icon": "Briar.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Briar"
+      },
+      {
+        "id": 1,
+        "name": "Briar Demônios Urbanos"
+      },
+      {
+        "id": 10,
+        "name": "Briar Primordiana"
+      }
+    ]
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "title": "a Xerife de Piltover",
+    "icon": "Caitlyn.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Caitlyn"
+      },
+      {
+        "id": 1,
+        "name": "Caitlyn da Resistência"
+      },
+      {
+        "id": 2,
+        "name": "Xerife Caitlyn"
+      },
+      {
+        "id": 3,
+        "name": "Caitlyn Caçadora"
+      },
+      {
+        "id": 4,
+        "name": "Caitlyn Guerrilheira do Ártico"
+      },
+      {
+        "id": 5,
+        "name": "Caitlyn Policial"
+      },
+      {
+        "id": 6,
+        "name": "Caitlyn Caçadora de Cabeças"
+      },
+      {
+        "id": 10,
+        "name": "Caitlyn Espectro Lunar"
+      },
+      {
+        "id": 11,
+        "name": "Pulsefire Caitlyn"
+      },
+      {
+        "id": 13,
+        "name": "Caitlyn Curtindo o Verão"
+      },
+      {
+        "id": 19,
+        "name": "Caitlyn Fliperama"
+      },
+      {
+        "id": 20,
+        "name": "Caitlyn Fliperama de Prestígio"
+      },
+      {
+        "id": 22,
+        "name": "Caitlyn Academia de Batalha"
+      },
+      {
+        "id": 28,
+        "name": "Caitlyn Defensora de Arcane"
+      },
+      {
+        "id": 29,
+        "name": "Caitlyn Fliperama de Prestígio (2022)"
+      },
+      {
+        "id": 30,
+        "name": "Caitlyn Lua Nevada"
+      },
+      {
+        "id": 39,
+        "name": "Caitlyn Coração Apaixonado"
+      },
+      {
+        "id": 48,
+        "name": "Caitlyn DRX"
+      },
+      {
+        "id": 50,
+        "name": "Caitlyn Comandante de Arcane"
+      },
+      {
+        "id": 51,
+        "name": "Caitlyn Comandante de Arcane de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "title": "a Sombra de Aço",
+    "icon": "Camille.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Camille"
+      },
+      {
+        "id": 1,
+        "name": "Camille Cibernética"
+      },
+      {
+        "id": 2,
+        "name": "Camille Congregação das Bruxas"
+      },
+      {
+        "id": 10,
+        "name": "IG Camille"
+      },
+      {
+        "id": 11,
+        "name": "Camille Arcana"
+      },
+      {
+        "id": 21,
+        "name": "Camille Comandante de Ataque"
+      },
+      {
+        "id": 31,
+        "name": "Camille Bênção do Inverno"
+      },
+      {
+        "id": 32,
+        "name": "Camille Bênção do Inverno de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "title": "o Abraço da Serpente",
+    "icon": "Cassiopeia.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Cassiopeia"
+      },
+      {
+        "id": 1,
+        "name": "Cassiopeia Velho Oeste"
+      },
+      {
+        "id": 2,
+        "name": "Cassiopeia Sereia"
+      },
+      {
+        "id": 3,
+        "name": "Cassiopeia Helênica"
+      },
+      {
+        "id": 4,
+        "name": "Cassiopeia Presas de Jade"
+      },
+      {
+        "id": 8,
+        "name": "Cassiopeia Eternum"
+      },
+      {
+        "id": 9,
+        "name": "Cassiopeia Florescer Espiritual"
+      },
+      {
+        "id": 18,
+        "name": "Cassiopeia Congregação das Bruxas"
+      },
+      {
+        "id": 28,
+        "name": "Cassiopeia Feiticeira"
+      }
+    ]
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "title": "o Terror do Vazio",
+    "icon": "Chogath.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Cho'Gath"
+      },
+      {
+        "id": 1,
+        "name": "Cho'Gath Terror Noturno"
+      },
+      {
+        "id": 2,
+        "name": "Cho'Gath Cavalheiro"
+      },
+      {
+        "id": 3,
+        "name": "Cho'Gath do Lago Ness"
+      },
+      {
+        "id": 4,
+        "name": "Cho'Gath Jurássico"
+      },
+      {
+        "id": 5,
+        "name": "Cho'Gath Máquina de Combate Primum"
+      },
+      {
+        "id": 6,
+        "name": "Cho'Gath Pré-histórico"
+      },
+      {
+        "id": 7,
+        "name": "Cho'Gath Estrela Negra"
+      },
+      {
+        "id": 14,
+        "name": "Cho'Gath Pergaminhos Shan Hai"
+      },
+      {
+        "id": 23,
+        "name": "Cho'Gath Pacto Quebrado"
+      },
+      {
+        "id": 32,
+        "name": "Cho'Gath Terror de Brinquedo"
+      }
+    ]
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "title": "o Bombardeiro Ousado",
+    "icon": "Corki.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Corki"
+      },
+      {
+        "id": 1,
+        "name": "Corki OVNI"
+      },
+      {
+        "id": 2,
+        "name": "Corki no Bobsleigh"
+      },
+      {
+        "id": 3,
+        "name": "Corki Barão Vermelho"
+      },
+      {
+        "id": 4,
+        "name": "Corki Caranga Envenenada"
+      },
+      {
+        "id": 5,
+        "name": "Corki Montado em Urf"
+      },
+      {
+        "id": 6,
+        "name": "Corki Asas de Dragão"
+      },
+      {
+        "id": 7,
+        "name": "Fnatic Corki"
+      },
+      {
+        "id": 8,
+        "name": "Corki Fliperama"
+      },
+      {
+        "id": 18,
+        "name": "Corki Corgi"
+      },
+      {
+        "id": 26,
+        "name": "Corki Astronauta"
+      }
+    ]
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "title": "a Mão de Noxus",
+    "icon": "Darius.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Darius"
+      },
+      {
+        "id": 1,
+        "name": "Lorde Darius"
+      },
+      {
+        "id": 2,
+        "name": "Darius Bioforja"
+      },
+      {
+        "id": 3,
+        "name": "Darius Rei dos Bretões"
+      },
+      {
+        "id": 4,
+        "name": "Darius Mestre da Enterrada"
+      },
+      {
+        "id": 8,
+        "name": "Darius Colegial"
+      },
+      {
+        "id": 14,
+        "name": "Darius Nova Temível"
+      },
+      {
+        "id": 15,
+        "name": "Deus-Rei Darius"
+      },
+      {
+        "id": 16,
+        "name": "Darius Velho Oeste"
+      },
+      {
+        "id": 24,
+        "name": "Darius Fera Lunar"
+      },
+      {
+        "id": 33,
+        "name": "Darius Pesadelo na Cidade do Crime"
+      },
+      {
+        "id": 43,
+        "name": "Darius Florescer Espiritual"
+      },
+      {
+        "id": 54,
+        "name": "Darius de Porcelana"
+      },
+      {
+        "id": 64,
+        "name": "Deus-Rei Darius Divino"
+      }
+    ]
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "title": "o Escárnio da Lua",
+    "icon": "Diana.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Diana"
+      },
+      {
+        "id": 1,
+        "name": "Diana Valquíria Sombria"
+      },
+      {
+        "id": 2,
+        "name": "Diana Deusa Lunar"
+      },
+      {
+        "id": 3,
+        "name": "Diana Infernal"
+      },
+      {
+        "id": 11,
+        "name": "Diana Lua Sangrenta"
+      },
+      {
+        "id": 12,
+        "name": "Diana Águas Sombrias"
+      },
+      {
+        "id": 18,
+        "name": "Diana Caçadora de Dragões"
+      },
+      {
+        "id": 25,
+        "name": "Diana Rainha de Batalha"
+      },
+      {
+        "id": 26,
+        "name": "Diana Rainha de Batalha de Prestígio"
+      },
+      {
+        "id": 27,
+        "name": "Diana Sentinela"
+      },
+      {
+        "id": 37,
+        "name": "Diana Fogos de Artifício"
+      },
+      {
+        "id": 47,
+        "name": "Diana Bênção do Inverno"
+      },
+      {
+        "id": 54,
+        "name": "Diana Escamas Celestiais"
+      },
+      {
+        "id": 64,
+        "name": "Diana Cosmos Negro"
+      },
+      {
+        "id": 65,
+        "name": "Diana Cosmos Negro de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "title": "o Carrasco de Noxus",
+    "icon": "Draven.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Draven"
+      },
+      {
+        "id": 1,
+        "name": "Draven Ceifador de Almas"
+      },
+      {
+        "id": 2,
+        "name": "Draven Gladiador"
+      },
+      {
+        "id": 3,
+        "name": "Draven Locutor"
+      },
+      {
+        "id": 4,
+        "name": "Draven Curtindo o Verão"
+      },
+      {
+        "id": 5,
+        "name": "Draven Caçador de Feras"
+      },
+      {
+        "id": 6,
+        "name": "Draven Draven"
+      },
+      {
+        "id": 12,
+        "name": "Draven Noel"
+      },
+      {
+        "id": 13,
+        "name": "Draven Reinos Mech"
+      },
+      {
+        "id": 20,
+        "name": "Draven Destruído"
+      },
+      {
+        "id": 29,
+        "name": "Draven Galante"
+      },
+      {
+        "id": 39,
+        "name": "Draven Noite Apavorante"
+      },
+      {
+        "id": 48,
+        "name": "Draven La Ilusión"
+      }
+    ]
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "title": "o Louco de Zaun",
+    "icon": "DrMundo.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Dr. Mundo"
+      },
+      {
+        "id": 1,
+        "name": "Dr. Mulko"
+      },
+      {
+        "id": 2,
+        "name": "Sr. Mundoverso"
+      },
+      {
+        "id": 3,
+        "name": "Diretor Mundo"
+      },
+      {
+        "id": 4,
+        "name": "Mundo Mundo"
+      },
+      {
+        "id": 5,
+        "name": "Mundo Carrasco"
+      },
+      {
+        "id": 6,
+        "name": "Mundo Enfurecido"
+      },
+      {
+        "id": 7,
+        "name": "TPA Mundo"
+      },
+      {
+        "id": 8,
+        "name": "Mundo Curtindo o Verão"
+      },
+      {
+        "id": 9,
+        "name": "Mundo El Macho"
+      },
+      {
+        "id": 10,
+        "name": "Mundo Príncipe Congelado"
+      },
+      {
+        "id": 21,
+        "name": "Dr. Mundo Demônios Urbanos"
+      }
+    ]
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "title": "o Rapaz que Estilhaçou o Tempo",
+    "icon": "Ekko.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ekko"
+      },
+      {
+        "id": 1,
+        "name": "Ekko Tempestade de Areia"
+      },
+      {
+        "id": 2,
+        "name": "Ekko Colegial"
+      },
+      {
+        "id": 3,
+        "name": "PROJETO: Ekko"
+      },
+      {
+        "id": 11,
+        "name": "SKT T1 Ekko"
+      },
+      {
+        "id": 12,
+        "name": "Ekko Gostosuras ou Travessuras"
+      },
+      {
+        "id": 19,
+        "name": "Ekko True Damage"
+      },
+      {
+        "id": 28,
+        "name": "Pulsefire Ekko"
+      },
+      {
+        "id": 36,
+        "name": "Ekko Fogolume de Arcane"
+      },
+      {
+        "id": 45,
+        "name": "Ekko Guardião Estelar"
+      },
+      {
+        "id": 46,
+        "name": "Ekko Guardião Estelar de Prestígio"
+      },
+      {
+        "id": 56,
+        "name": "Ekko True Damage Revelação"
+      },
+      {
+        "id": 57,
+        "name": "Ekko Batalha Final de Arcane"
+      }
+    ]
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "title": "a Aranha Rainha",
+    "icon": "Elise.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Elise"
+      },
+      {
+        "id": 1,
+        "name": "Elise Florescência Mortal"
+      },
+      {
+        "id": 2,
+        "name": "Elise Vitoriosa"
+      },
+      {
+        "id": 3,
+        "name": "Elise Lua Sangrenta"
+      },
+      {
+        "id": 4,
+        "name": "SKT T1 Elise"
+      },
+      {
+        "id": 5,
+        "name": "Elise Supergaláctica"
+      },
+      {
+        "id": 6,
+        "name": "Elise Feiticeira"
+      },
+      {
+        "id": 15,
+        "name": "Elise Rosa Definhada"
+      },
+      {
+        "id": 24,
+        "name": "Elise Congregação das Bruxas"
+      }
+    ]
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "title": "o Abraço da Agonia",
+    "icon": "Evelynn.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Evelynn"
+      },
+      {
+        "id": 1,
+        "name": "Evelynn Sombria"
+      },
+      {
+        "id": 2,
+        "name": "Evelynn Mascarada"
+      },
+      {
+        "id": 3,
+        "name": "Evelynn Dançarina de Tango"
+      },
+      {
+        "id": 4,
+        "name": "Evelynn Infiltradora"
+      },
+      {
+        "id": 5,
+        "name": "Evelynn Lua Sangrenta"
+      },
+      {
+        "id": 6,
+        "name": "Evelynn K/DA"
+      },
+      {
+        "id": 7,
+        "name": "Evelynn K/DA de Prestígio"
+      },
+      {
+        "id": 8,
+        "name": "Evelynn Frenesi Açucarado"
+      },
+      {
+        "id": 15,
+        "name": "Evelynn K/DA ALL OUT"
+      },
+      {
+        "id": 24,
+        "name": "Evelynn Congregação das Bruxas"
+      },
+      {
+        "id": 31,
+        "name": "Evelynn K/DA de Prestígio (2022)"
+      },
+      {
+        "id": 32,
+        "name": "Evelynn Florescer Espiritual"
+      },
+      {
+        "id": 42,
+        "name": "Evelynn Soul Fighter"
+      },
+      {
+        "id": 52,
+        "name": "Evelynn Velho Oeste"
+      },
+      {
+        "id": 53,
+        "name": "Evelynn Velho Oeste de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "title": "o Explorador Pródigo",
+    "icon": "Ezreal.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ezreal"
+      },
+      {
+        "id": 1,
+        "name": "Ezreal de Nottingham"
+      },
+      {
+        "id": 2,
+        "name": "Ezreal Atacante"
+      },
+      {
+        "id": 3,
+        "name": "Ezreal Gélido"
+      },
+      {
+        "id": 4,
+        "name": "Ezreal Explorador"
+      },
+      {
+        "id": 5,
+        "name": "Pulsefire Ezreal"
+      },
+      {
+        "id": 6,
+        "name": "TPA Ezreal"
+      },
+      {
+        "id": 7,
+        "name": "Ezreal Galante"
+      },
+      {
+        "id": 8,
+        "name": "Ezreal Ás de Espadas"
+      },
+      {
+        "id": 9,
+        "name": "Ezreal Fliperama"
+      },
+      {
+        "id": 18,
+        "name": "Ezreal Guardião Estelar"
+      },
+      {
+        "id": 19,
+        "name": "SSG Ezreal"
+      },
+      {
+        "id": 20,
+        "name": "Ezreal Pijaminha Estelar"
+      },
+      {
+        "id": 21,
+        "name": "Ezreal Academia de Batalha"
+      },
+      {
+        "id": 22,
+        "name": "Ezreal PsyOps"
+      },
+      {
+        "id": 23,
+        "name": "Ezreal PsyOps de Prestígio"
+      },
+      {
+        "id": 25,
+        "name": "Ezreal Protetor de Porcelana"
+      },
+      {
+        "id": 33,
+        "name": "Ezreal Corte das Fadas"
+      },
+      {
+        "id": 43,
+        "name": "Ezreal HEARTSTEEL"
+      },
+      {
+        "id": 44,
+        "name": "Ezreal Escamas Celestiais"
+      },
+      {
+        "id": 54,
+        "name": "Ezreal Escamas Celestiais de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "title": "o Terror Ancestral",
+    "icon": "Fiddlesticks.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Fiddlesticks"
+      },
+      {
+        "id": 1,
+        "name": "Fiddlesticks Espectral"
+      },
+      {
+        "id": 2,
+        "name": "Fiddlesticks Union Jack"
+      },
+      {
+        "id": 3,
+        "name": "Fiddlesticks Velho Oeste"
+      },
+      {
+        "id": 4,
+        "name": "Fiddlesticks Cabeça de Abóbora"
+      },
+      {
+        "id": 5,
+        "name": "Fiddlesticks Perna-de-Pau"
+      },
+      {
+        "id": 6,
+        "name": "Fiddlesticks Festa Surpresa"
+      },
+      {
+        "id": 7,
+        "name": "Fiddlesticks Doces Trevosos"
+      },
+      {
+        "id": 8,
+        "name": "Fiddlesticks Ascendente"
+      },
+      {
+        "id": 9,
+        "name": "Fiddlesticks Pretoriano"
+      },
+      {
+        "id": 27,
+        "name": "Fiddlesticks Nêmesis Estelar"
+      },
+      {
+        "id": 37,
+        "name": "Fiddlesticks Lua Sangrenta"
+      }
+    ]
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "title": "a Grande Duelista",
+    "icon": "Fiora.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Fiora"
+      },
+      {
+        "id": 1,
+        "name": "Fiora Guardiã Real"
+      },
+      {
+        "id": 2,
+        "name": "Fiora Corvo Noturno"
+      },
+      {
+        "id": 3,
+        "name": "Fiora Diretora"
+      },
+      {
+        "id": 4,
+        "name": "PROJETO: Fiora"
+      },
+      {
+        "id": 5,
+        "name": "Fiora Curtindo o Verão"
+      },
+      {
+        "id": 22,
+        "name": "Fiora Espada Alada"
+      },
+      {
+        "id": 23,
+        "name": "Fiora Paixão Cortante"
+      },
+      {
+        "id": 31,
+        "name": "IG Fiora"
+      },
+      {
+        "id": 41,
+        "name": "Pulsefire Fiora"
+      },
+      {
+        "id": 50,
+        "name": "Fiora Fera Lunar"
+      },
+      {
+        "id": 51,
+        "name": "Fiora Fera Lunar de Prestígio"
+      },
+      {
+        "id": 60,
+        "name": "Fiora Feiticeira"
+      },
+      {
+        "id": 69,
+        "name": "Fiora Corte das Fadas"
+      },
+      {
+        "id": 80,
+        "name": "Fiora Dracomante"
+      },
+      {
+        "id": 89,
+        "name": "Fiora Rainha de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "title": "o Trapaceiro das Marés",
+    "icon": "Fizz.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Fizz"
+      },
+      {
+        "id": 1,
+        "name": "Fizz Atlante"
+      },
+      {
+        "id": 2,
+        "name": "Fizz da Tundra"
+      },
+      {
+        "id": 3,
+        "name": "Fizz Pescador"
+      },
+      {
+        "id": 4,
+        "name": "Fizz do Vazio"
+      },
+      {
+        "id": 8,
+        "name": "Fizz Pelo Branquinho"
+      },
+      {
+        "id": 9,
+        "name": "Fizz Supergaláctico"
+      },
+      {
+        "id": 10,
+        "name": "Fizz Esquadrão Ômega"
+      },
+      {
+        "id": 14,
+        "name": "Fizz Doguinho"
+      },
+      {
+        "id": 15,
+        "name": "Fizz Doguinho de Prestígio"
+      },
+      {
+        "id": 16,
+        "name": "Lúcifizz"
+      },
+      {
+        "id": 25,
+        "name": "Fizz Doguinho de Prestígio (2022)"
+      },
+      {
+        "id": 26,
+        "name": "Fizz Astronauta"
+      },
+      {
+        "id": 35,
+        "name": "Fizz Pastor de Chuvas"
+      }
+    ]
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "title": "o Colosso",
+    "icon": "Galio.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Galio"
+      },
+      {
+        "id": 1,
+        "name": "Galio Enfeitiçado"
+      },
+      {
+        "id": 2,
+        "name": "Galio Hextec"
+      },
+      {
+        "id": 3,
+        "name": "Patrulheiro Galio"
+      },
+      {
+        "id": 4,
+        "name": "Galio Guardião das Trevas"
+      },
+      {
+        "id": 5,
+        "name": "Galio Galante"
+      },
+      {
+        "id": 6,
+        "name": "Frangalio"
+      },
+      {
+        "id": 13,
+        "name": "Galio Infernal"
+      },
+      {
+        "id": 19,
+        "name": "Galio Guardião Dracônico"
+      },
+      {
+        "id": 28,
+        "name": "Galio Criador Mítico"
+      }
+    ]
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "title": "o Terror dos Doze Mares",
+    "icon": "Gangplank.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Gangplank"
+      },
+      {
+        "id": 1,
+        "name": "Gangplank Fantasma"
+      },
+      {
+        "id": 2,
+        "name": "Gangplank Milícia"
+      },
+      {
+        "id": 3,
+        "name": "Gangplank Marujo"
+      },
+      {
+        "id": 4,
+        "name": "Gangplank Soldadinho de Chumbo"
+      },
+      {
+        "id": 5,
+        "name": "Gangplank Forças Especiais"
+      },
+      {
+        "id": 6,
+        "name": "Gangplank Sultão"
+      },
+      {
+        "id": 7,
+        "name": "Capitão Gangplank"
+      },
+      {
+        "id": 8,
+        "name": "Gangplank Nova Temível"
+      },
+      {
+        "id": 14,
+        "name": "Gangplank Curtindo o Verão"
+      },
+      {
+        "id": 21,
+        "name": "FPX Gangplank"
+      },
+      {
+        "id": 23,
+        "name": "Gangplank, o Traidor"
+      },
+      {
+        "id": 33,
+        "name": "PROJETO: Gangplank"
+      }
+    ]
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "title": "o Poder de Demacia",
+    "icon": "Garen.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Garen"
+      },
+      {
+        "id": 1,
+        "name": "Garen Sanguinário"
+      },
+      {
+        "id": 2,
+        "name": "Garen Legião do Deserto"
+      },
+      {
+        "id": 3,
+        "name": "Patrulheiro Garen"
+      },
+      {
+        "id": 4,
+        "name": "Garen Cavaleiro do Terror"
+      },
+      {
+        "id": 5,
+        "name": "Garen Errante"
+      },
+      {
+        "id": 6,
+        "name": "Garen Legionário de Aço"
+      },
+      {
+        "id": 10,
+        "name": "Garen Almirante Fugitivo"
+      },
+      {
+        "id": 11,
+        "name": "Garen Reinos Combatentes"
+      },
+      {
+        "id": 13,
+        "name": "Deus-Rei Garen"
+      },
+      {
+        "id": 14,
+        "name": "Garen Demacia Vice"
+      },
+      {
+        "id": 22,
+        "name": "Garen Reinos Mech"
+      },
+      {
+        "id": 23,
+        "name": "Garen Reinos Mech de Prestígio"
+      },
+      {
+        "id": 24,
+        "name": "Garen Academia de Batalha"
+      },
+      {
+        "id": 33,
+        "name": "Garen Criador Mítico"
+      },
+      {
+        "id": 44,
+        "name": "Deus-Rei Garen Caído"
+      }
+    ]
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "title": "o Yordle Pré-Histórico",
+    "icon": "Gnar.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Gnar"
+      },
+      {
+        "id": 1,
+        "name": "Gnarossauro"
+      },
+      {
+        "id": 2,
+        "name": "Gnar Cavalheiro"
+      },
+      {
+        "id": 3,
+        "name": "Gnar Dia Nevado"
+      },
+      {
+        "id": 4,
+        "name": "Gnar El León"
+      },
+      {
+        "id": 13,
+        "name": "Gnar Supergaláctico"
+      },
+      {
+        "id": 14,
+        "name": "SSG Gnar"
+      },
+      {
+        "id": 15,
+        "name": "Gnar Astronauta"
+      },
+      {
+        "id": 22,
+        "name": "Gnar Sabugueiro"
+      },
+      {
+        "id": 31,
+        "name": "Gnar La Ilusión"
+      }
+    ]
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "title": "o Badernista",
+    "icon": "Gragas.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Gragas"
+      },
+      {
+        "id": 1,
+        "name": "Gragas Mergulhador"
+      },
+      {
+        "id": 2,
+        "name": "Gragas Caipira"
+      },
+      {
+        "id": 3,
+        "name": "Gragas Noel"
+      },
+      {
+        "id": 4,
+        "name": "Gragas, o Ilustre"
+      },
+      {
+        "id": 5,
+        "name": "Gragas Vândalo"
+      },
+      {
+        "id": 6,
+        "name": "Gragas Oktoberfest"
+      },
+      {
+        "id": 7,
+        "name": "Gragas Fã de Carteirinha"
+      },
+      {
+        "id": 8,
+        "name": "Fnatic Gragas"
+      },
+      {
+        "id": 9,
+        "name": "Gragas Quebra-Barris"
+      },
+      {
+        "id": 10,
+        "name": "Gragas Operação no Ártico"
+      },
+      {
+        "id": 11,
+        "name": "Gragas Vigia"
+      },
+      {
+        "id": 20,
+        "name": "Gragas Embalos no Espaço"
+      },
+      {
+        "id": 29,
+        "name": "Gragas Velho Oeste"
+      },
+      {
+        "id": 39,
+        "name": "Gragas Fã de Música"
+      }
+    ]
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "title": "o Foragido",
+    "icon": "Graves.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Graves"
+      },
+      {
+        "id": 1,
+        "name": "Graves Mercenário"
+      },
+      {
+        "id": 2,
+        "name": "Graves Fugitivo"
+      },
+      {
+        "id": 3,
+        "name": "Graves Cidade do Crime"
+      },
+      {
+        "id": 4,
+        "name": "Riot Graves"
+      },
+      {
+        "id": 5,
+        "name": "Graves Curtindo o Verão"
+      },
+      {
+        "id": 6,
+        "name": "Graves Degolador"
+      },
+      {
+        "id": 7,
+        "name": "Graves Dia Nevado"
+      },
+      {
+        "id": 14,
+        "name": "Graves Vitorioso"
+      },
+      {
+        "id": 18,
+        "name": "Graves Pretoriano"
+      },
+      {
+        "id": 25,
+        "name": "Graves Professor da Academia"
+      },
+      {
+        "id": 35,
+        "name": "Graves Sentinela"
+      },
+      {
+        "id": 42,
+        "name": "Graves EDG"
+      },
+      {
+        "id": 45,
+        "name": "Graves de Porcelana"
+      }
+    ]
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "title": "A Costureira Encantada",
+    "icon": "Gwen.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Gwen"
+      },
+      {
+        "id": 1,
+        "name": "Gwen Embalos no Espaço"
+      },
+      {
+        "id": 11,
+        "name": "Gwen Kawaii Café"
+      },
+      {
+        "id": 20,
+        "name": "Gwen Soul Fighter"
+      },
+      {
+        "id": 30,
+        "name": "Gwen Rainha de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "title": "a Sombra da Guerra",
+    "icon": "Hecarim.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Hecarim"
+      },
+      {
+        "id": 1,
+        "name": "Hecarim Cavaleiro Sanguinário"
+      },
+      {
+        "id": 2,
+        "name": "Hecarim Ceifador"
+      },
+      {
+        "id": 3,
+        "name": "Hecarim-sem-Cabeça"
+      },
+      {
+        "id": 4,
+        "name": "Hecarim Fliperama"
+      },
+      {
+        "id": 5,
+        "name": "Hecarim Sabugueiro"
+      },
+      {
+        "id": 6,
+        "name": "Hecarim Quebra-mundos"
+      },
+      {
+        "id": 7,
+        "name": "Hecarim Lanceiro Zero"
+      },
+      {
+        "id": 8,
+        "name": "Hecarim Velho Oeste"
+      },
+      {
+        "id": 14,
+        "name": "Hecarim Cavalaria Cósmica"
+      },
+      {
+        "id": 22,
+        "name": "Hecarim Arcana"
+      },
+      {
+        "id": 31,
+        "name": "Hecarim Bênção do Inverno"
+      }
+    ]
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "title": "o Inventor Idolatrado",
+    "icon": "Heimerdinger.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Heimerdinger"
+      },
+      {
+        "id": 1,
+        "name": "Heimerdinger Invasor Marciano"
+      },
+      {
+        "id": 2,
+        "name": "Heimerdinger em Manutenção"
+      },
+      {
+        "id": 3,
+        "name": "Heimerdinger Tunando em Piltover"
+      },
+      {
+        "id": 4,
+        "name": "Heimerdinger Boneco de Neve"
+      },
+      {
+        "id": 5,
+        "name": "Heimerdinger Substâncias Perigosas"
+      },
+      {
+        "id": 6,
+        "name": "Heimerdinger Treinador de Dragões"
+      },
+      {
+        "id": 15,
+        "name": "Heimerdinger Curtindo o Verão"
+      },
+      {
+        "id": 24,
+        "name": "Heimeldinger"
+      },
+      {
+        "id": 33,
+        "name": "Professor Heimerdinger de Arcane"
+      }
+    ]
+  },
+  {
+    "id": "Hwei",
+    "name": "Hwei",
+    "title": "o Visionário",
+    "icon": "Hwei.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Hwei"
+      },
+      {
+        "id": 1,
+        "name": "Hwei Bênção do Inverno"
+      }
+    ]
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "title": "a Sacerdotisa Cráquem",
+    "icon": "Illaoi.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Illaoi"
+      },
+      {
+        "id": 1,
+        "name": "Illaoi Portadora do Vazio"
+      },
+      {
+        "id": 2,
+        "name": "Illaoi da Resistência"
+      },
+      {
+        "id": 10,
+        "name": "Illaoi Evocadora Cósmica"
+      },
+      {
+        "id": 18,
+        "name": "Illaoi Lua Nevada"
+      },
+      {
+        "id": 27,
+        "name": "Illaoi Ursa de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "title": "a Dançarina das Lâminas",
+    "icon": "Irelia.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Irelia"
+      },
+      {
+        "id": 1,
+        "name": "Irelia Lâminas Noturnas"
+      },
+      {
+        "id": 2,
+        "name": "Irelia Aviadora"
+      },
+      {
+        "id": 3,
+        "name": "Irelia Ninja"
+      },
+      {
+        "id": 4,
+        "name": "Irelia Lâminas Gélidas"
+      },
+      {
+        "id": 5,
+        "name": "Irelia Ordem do Lótus"
+      },
+      {
+        "id": 6,
+        "name": "Irelia Espada Divina"
+      },
+      {
+        "id": 15,
+        "name": "IG Irelia"
+      },
+      {
+        "id": 16,
+        "name": "PROJETO: Irelia"
+      },
+      {
+        "id": 17,
+        "name": "PROJETO: Irelia de Prestígio"
+      },
+      {
+        "id": 18,
+        "name": "Irelia Velho Oeste"
+      },
+      {
+        "id": 26,
+        "name": "Irelia Sentinela"
+      },
+      {
+        "id": 36,
+        "name": "PROJETO: Irelia de Prestígio (2022)"
+      },
+      {
+        "id": 37,
+        "name": "Irelia Criadora Mítica"
+      },
+      {
+        "id": 45,
+        "name": "Irelia de Porcelana"
+      }
+    ]
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "title": "o Pai do Verde",
+    "icon": "Ivern.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ivern"
+      },
+      {
+        "id": 1,
+        "name": "Ivern Rei dos Doces"
+      },
+      {
+        "id": 2,
+        "name": "Ivern Mestre da Enterrada"
+      },
+      {
+        "id": 11,
+        "name": "Ivern Deus Antigo"
+      },
+      {
+        "id": 20,
+        "name": "Ivern Astronauta"
+      }
+    ]
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "title": "a Fúria da Tormenta",
+    "icon": "Janna.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Janna"
+      },
+      {
+        "id": 1,
+        "name": "Janna Tempestuosa"
+      },
+      {
+        "id": 2,
+        "name": "Janna Hextec"
+      },
+      {
+        "id": 3,
+        "name": "Janna Rainha Gélida"
+      },
+      {
+        "id": 4,
+        "name": "Janna Vitoriosa"
+      },
+      {
+        "id": 5,
+        "name": "Janna Previsão do Tempo"
+      },
+      {
+        "id": 6,
+        "name": "Fnatic Janna"
+      },
+      {
+        "id": 7,
+        "name": "Janna Guardiã Estelar"
+      },
+      {
+        "id": 8,
+        "name": "Janna Espada Sagrada"
+      },
+      {
+        "id": 13,
+        "name": "Janna Feiticeira"
+      },
+      {
+        "id": 20,
+        "name": "Janna Guardiã das Areias"
+      },
+      {
+        "id": 27,
+        "name": "Janna Rainha de Batalha"
+      },
+      {
+        "id": 36,
+        "name": "Janna Rosa de Cristal"
+      },
+      {
+        "id": 45,
+        "name": "Janna Aura Cibernética"
+      },
+      {
+        "id": 46,
+        "name": "Janna Aura Cibernética de Prestígio"
+      },
+      {
+        "id": 56,
+        "name": "Janna Escamas Celestiais"
+      }
+    ]
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "title": "o Exemplo de Demacia",
+    "icon": "JarvanIV.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Jarvan IV"
+      },
+      {
+        "id": 1,
+        "name": "Patrulheiro Jarvan IV"
+      },
+      {
+        "id": 2,
+        "name": "Jarvan IV Caçador de Dragões"
+      },
+      {
+        "id": 3,
+        "name": "Jarvan IV Forja das Trevas"
+      },
+      {
+        "id": 4,
+        "name": "Jarvan IV Vitorioso"
+      },
+      {
+        "id": 5,
+        "name": "Jarvan IV Reinos Combatentes"
+      },
+      {
+        "id": 6,
+        "name": "Fnatic Jarvan IV"
+      },
+      {
+        "id": 7,
+        "name": "Jarvan IV Estrela Negra"
+      },
+      {
+        "id": 8,
+        "name": "SSG Jarvan IV"
+      },
+      {
+        "id": 9,
+        "name": "Jarvan IV Hextec"
+      },
+      {
+        "id": 11,
+        "name": "Jarvan IV Curtindo o Verão"
+      },
+      {
+        "id": 21,
+        "name": "Jarvan IV Fera Lunar"
+      },
+      {
+        "id": 30,
+        "name": "Jarvan IV Mundial 2021"
+      },
+      {
+        "id": 35,
+        "name": "Jarvan IV Emissário da Escuridão"
+      }
+    ]
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "title": "o Grão-Mestre das Armas",
+    "icon": "Jax.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Jax"
+      },
+      {
+        "id": 1,
+        "name": "O Super Jax"
+      },
+      {
+        "id": 2,
+        "name": "Jax Vândalo"
+      },
+      {
+        "id": 3,
+        "name": "Jax Pescador"
+      },
+      {
+        "id": 4,
+        "name": "PAX Jax"
+      },
+      {
+        "id": 5,
+        "name": "Jaximus"
+      },
+      {
+        "id": 6,
+        "name": "Jax Oriental"
+      },
+      {
+        "id": 7,
+        "name": "Jax Nêmesis"
+      },
+      {
+        "id": 8,
+        "name": "SKT T1 Jax"
+      },
+      {
+        "id": 12,
+        "name": "Jax Vigia"
+      },
+      {
+        "id": 13,
+        "name": "Jax Cajado Divino"
+      },
+      {
+        "id": 14,
+        "name": "Jax Reinos Mech"
+      },
+      {
+        "id": 20,
+        "name": "Jax Conquistador"
+      },
+      {
+        "id": 21,
+        "name": "Jax Conquistador de Prestígio"
+      },
+      {
+        "id": 22,
+        "name": "Jax Empíreo"
+      },
+      {
+        "id": 32,
+        "name": "Neo PAX Jax"
+      },
+      {
+        "id": 33,
+        "name": "PROJETO: Jax"
+      }
+    ]
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "title": "o Defensor do Amanhã",
+    "icon": "Jayce.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Jayce"
+      },
+      {
+        "id": 1,
+        "name": "Jayce Blindado"
+      },
+      {
+        "id": 2,
+        "name": "Jayce Galante"
+      },
+      {
+        "id": 3,
+        "name": "Jayce Esquecido"
+      },
+      {
+        "id": 4,
+        "name": "Jayce, o Martelo Iluminado"
+      },
+      {
+        "id": 5,
+        "name": "Jayce Academia de Batalha"
+      },
+      {
+        "id": 15,
+        "name": "Jayce da Resistência"
+      },
+      {
+        "id": 24,
+        "name": "Jayce Inventor de Arcane"
+      },
+      {
+        "id": 25,
+        "name": "Jayce Zenith Games"
+      },
+      {
+        "id": 34,
+        "name": "Jayce T1"
+      },
+      {
+        "id": 35,
+        "name": "Jayce Sobrevivente de Arcane"
+      },
+      {
+        "id": 36,
+        "name": "Jayce T1 de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "title": "o Virtuoso",
+    "icon": "Jhin.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Jhin"
+      },
+      {
+        "id": 1,
+        "name": "Jhin Velho Oeste"
+      },
+      {
+        "id": 2,
+        "name": "Jhin Lua Sangrenta"
+      },
+      {
+        "id": 3,
+        "name": "SKT T1 Jhin"
+      },
+      {
+        "id": 4,
+        "name": "PROJETO: Jhin"
+      },
+      {
+        "id": 5,
+        "name": "Jhin Cosmos Negro"
+      },
+      {
+        "id": 14,
+        "name": "Jhin Pergaminhos Shan Hai"
+      },
+      {
+        "id": 23,
+        "name": "Jhin DWG"
+      },
+      {
+        "id": 25,
+        "name": "Jhin Empíreo"
+      },
+      {
+        "id": 36,
+        "name": "Jhin Soul Fighter"
+      },
+      {
+        "id": 37,
+        "name": "Jhin Erradicação do Cosmos Negro"
+      }
+    ]
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "title": "o Gatilho Desenfreado",
+    "icon": "Jinx.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Jinx"
+      },
+      {
+        "id": 1,
+        "name": "Jinx Cidade do Crime"
+      },
+      {
+        "id": 2,
+        "name": "Jinx Fogos de Artifício"
+      },
+      {
+        "id": 3,
+        "name": "Jinx Caça-Zumbis"
+      },
+      {
+        "id": 4,
+        "name": "Jinx Guardiã Estelar"
+      },
+      {
+        "id": 12,
+        "name": "Jinx Duende Ambiciosa"
+      },
+      {
+        "id": 13,
+        "name": "Jinx Odisseia"
+      },
+      {
+        "id": 20,
+        "name": "PROJETO: Jinx"
+      },
+      {
+        "id": 29,
+        "name": "Jinx Cupido Mortal"
+      },
+      {
+        "id": 37,
+        "name": "Jinx Inimiga de Arcane"
+      },
+      {
+        "id": 38,
+        "name": "Jinx Felina de Batalha"
+      },
+      {
+        "id": 40,
+        "name": "Jinx Felina de Batalha de Prestígio"
+      },
+      {
+        "id": 51,
+        "name": "Jinx Kawaii Café"
+      },
+      {
+        "id": 60,
+        "name": "Jinx Fragmentada de Arcane"
+      },
+      {
+        "id": 62,
+        "name": "Jinx T1"
+      }
+    ]
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "title": "a Filha do Vazio",
+    "icon": "Kaisa.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kai'Sa"
+      },
+      {
+        "id": 1,
+        "name": "Kai'Sa Disparos Angelicais"
+      },
+      {
+        "id": 14,
+        "name": "Kai'Sa K/DA"
+      },
+      {
+        "id": 15,
+        "name": "Kai'Sa K/DA de Prestígio"
+      },
+      {
+        "id": 16,
+        "name": "IG Kai'Sa"
+      },
+      {
+        "id": 17,
+        "name": "Kai'Sa Fliperama"
+      },
+      {
+        "id": 26,
+        "name": "Kai'Sa K/DA ALL OUT"
+      },
+      {
+        "id": 27,
+        "name": "Kai'Sa K/DA ALL OUT de Prestígio"
+      },
+      {
+        "id": 29,
+        "name": "Kai'Sa Dragoa da Laguna"
+      },
+      {
+        "id": 39,
+        "name": "Kai'Sa K/DA de Prestígio (2022)"
+      },
+      {
+        "id": 40,
+        "name": "Kai'Sa Guardiã Estelar"
+      },
+      {
+        "id": 48,
+        "name": "Kai'Sa Tinta Sombria"
+      },
+      {
+        "id": 59,
+        "name": "Kai'Sa Escamas Celestiais"
+      },
+      {
+        "id": 69,
+        "name": "Kai'Sa Estrela Negra"
+      }
+    ]
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "title": "a Lança da Vingança",
+    "icon": "Kalista.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kalista"
+      },
+      {
+        "id": 1,
+        "name": "Kalista Lua Sangrenta"
+      },
+      {
+        "id": 2,
+        "name": "Kalista Mundial 2015"
+      },
+      {
+        "id": 3,
+        "name": "SKT T1 Kalista"
+      },
+      {
+        "id": 5,
+        "name": "Kalista Saqueadora"
+      },
+      {
+        "id": 14,
+        "name": "Kalista Corte das Fadas"
+      }
+    ]
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "title": "a Iluminada",
+    "icon": "Karma.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Karma"
+      },
+      {
+        "id": 1,
+        "name": "Karma Deusa do Sol"
+      },
+      {
+        "id": 2,
+        "name": "Karma Flor de Cerejeira"
+      },
+      {
+        "id": 3,
+        "name": "Karma Tradicional"
+      },
+      {
+        "id": 4,
+        "name": "Karma Ordem do Lótus"
+      },
+      {
+        "id": 5,
+        "name": "Karma Vigia"
+      },
+      {
+        "id": 6,
+        "name": "Karma Inverno Mágico"
+      },
+      {
+        "id": 7,
+        "name": "Karma Conquistadora"
+      },
+      {
+        "id": 8,
+        "name": "Karma Estrela Negra"
+      },
+      {
+        "id": 19,
+        "name": "Karma Emissária da Luz"
+      },
+      {
+        "id": 26,
+        "name": "Karma Odisseia"
+      },
+      {
+        "id": 27,
+        "name": "Karma Destruída"
+      },
+      {
+        "id": 44,
+        "name": "Karma Dragoa da Tranquilidade"
+      },
+      {
+        "id": 54,
+        "name": "Karma Rainha das Fadas"
+      },
+      {
+        "id": 61,
+        "name": "Karma Infernal"
+      }
+    ]
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "title": "a Voz Mortal",
+    "icon": "Karthus.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Karthus"
+      },
+      {
+        "id": 1,
+        "name": "Karthus Cerimônia das Trevas"
+      },
+      {
+        "id": 2,
+        "name": "Karthus da Liberdade"
+      },
+      {
+        "id": 3,
+        "name": "Karthus Lacaio da Morte"
+      },
+      {
+        "id": 4,
+        "name": "Karthus Pentakill"
+      },
+      {
+        "id": 5,
+        "name": "Fnatic Karthus"
+      },
+      {
+        "id": 9,
+        "name": "Karthus Bane-luz"
+      },
+      {
+        "id": 10,
+        "name": "Karthus Infernal"
+      },
+      {
+        "id": 17,
+        "name": "Karthus Pentakill III: Lost Chapter"
+      },
+      {
+        "id": 26,
+        "name": "Karthus Sabugueiro"
+      }
+    ]
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "title": "o Andarilho do Vazio",
+    "icon": "Kassadin.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kassadin"
+      },
+      {
+        "id": 1,
+        "name": "Kassadin do Festival"
+      },
+      {
+        "id": 2,
+        "name": "Kassadin das Profundezas"
+      },
+      {
+        "id": 3,
+        "name": "Kassadin Pré-Vazio"
+      },
+      {
+        "id": 4,
+        "name": "Kassadin Emissário das Trevas"
+      },
+      {
+        "id": 5,
+        "name": "Kassadin Rapinante Cósmico"
+      },
+      {
+        "id": 6,
+        "name": "Conde Kassadin"
+      },
+      {
+        "id": 14,
+        "name": "Kassadin Hextec"
+      },
+      {
+        "id": 15,
+        "name": "Kassadin Lâmina do Trovão"
+      },
+      {
+        "id": 24,
+        "name": "Kassadin Dracomante"
+      }
+    ]
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "title": "a Lâmina Sinistra",
+    "icon": "Katarina.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Katarina"
+      },
+      {
+        "id": 1,
+        "name": "Katarina Mercenária"
+      },
+      {
+        "id": 2,
+        "name": "Katarina Árbitra"
+      },
+      {
+        "id": 3,
+        "name": "Katarina Águas de Sentina"
+      },
+      {
+        "id": 4,
+        "name": "Katarina Gatinha"
+      },
+      {
+        "id": 5,
+        "name": "Katarina Comandante"
+      },
+      {
+        "id": 6,
+        "name": "Katarina Tempestade de Areia"
+      },
+      {
+        "id": 7,
+        "name": "Katarina Noite Infeliz"
+      },
+      {
+        "id": 8,
+        "name": "Katarina Reinos Combatentes"
+      },
+      {
+        "id": 9,
+        "name": "PROJETO: Katarina"
+      },
+      {
+        "id": 10,
+        "name": "Katarina Jurada de Morte"
+      },
+      {
+        "id": 12,
+        "name": "Katarina Academia de Batalha"
+      },
+      {
+        "id": 21,
+        "name": "Katarina Lua Sangrenta"
+      },
+      {
+        "id": 29,
+        "name": "Katarina Rainha de Batalha"
+      },
+      {
+        "id": 37,
+        "name": "Katarina Velho Oeste"
+      },
+      {
+        "id": 47,
+        "name": "Katarina Corte das Fadas"
+      },
+      {
+        "id": 48,
+        "name": "Katarina Corte das Fadas de Prestígio"
+      },
+      {
+        "id": 59,
+        "name": "Katarina Escolhida do Lobo"
+      }
+    ]
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "title": "a Justa",
+    "icon": "Kayle.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kayle"
+      },
+      {
+        "id": 1,
+        "name": "Kayle Prateada"
+      },
+      {
+        "id": 2,
+        "name": "Kayle Viridiana"
+      },
+      {
+        "id": 3,
+        "name": "Kayle Transcendida"
+      },
+      {
+        "id": 4,
+        "name": "Kayle Nascida para a Batalha"
+      },
+      {
+        "id": 5,
+        "name": "Kayle Juíza"
+      },
+      {
+        "id": 6,
+        "name": "Kayle Asas Etéreas"
+      },
+      {
+        "id": 7,
+        "name": "Riot Kayle"
+      },
+      {
+        "id": 8,
+        "name": "Kayle Inquisidora de Ferro"
+      },
+      {
+        "id": 9,
+        "name": "Pentakayle"
+      },
+      {
+        "id": 15,
+        "name": "Kayle PsyOps"
+      },
+      {
+        "id": 24,
+        "name": "Kayle Caçadora de Dragões"
+      },
+      {
+        "id": 33,
+        "name": "Kayle Pentakill III: Lost Chapter"
+      },
+      {
+        "id": 42,
+        "name": "Kayle Devoradora do Sol"
+      },
+      {
+        "id": 57,
+        "name": "Kayle Jornada Imortal"
+      },
+      {
+        "id": 66,
+        "name": "Kayle Empírea"
+      },
+      {
+        "id": 67,
+        "name": "Kayle Empírea de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "title": "o Ceifador das Sombras",
+    "icon": "Kayn.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kayn"
+      },
+      {
+        "id": 1,
+        "name": "Kayn Caçador de Almas"
+      },
+      {
+        "id": 2,
+        "name": "Kayn Odisseia"
+      },
+      {
+        "id": 8,
+        "name": "Kayn Emissário da Escuridão"
+      },
+      {
+        "id": 9,
+        "name": "Kayn Emissário da Escuridão de Prestígio"
+      },
+      {
+        "id": 15,
+        "name": "Kayn Lua Nevada"
+      },
+      {
+        "id": 20,
+        "name": "Kayn HEARTSTEEL"
+      }
+    ]
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "title": "o Coração da Tempestade",
+    "icon": "Kennen.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kennen"
+      },
+      {
+        "id": 1,
+        "name": "Kennen Mortífero"
+      },
+      {
+        "id": 2,
+        "name": "Kennen Mestre do Pântano"
+      },
+      {
+        "id": 3,
+        "name": "Kennen Carateca"
+      },
+      {
+        "id": 4,
+        "name": "Kennen Clínico Geral"
+      },
+      {
+        "id": 5,
+        "name": "Kennen Operação no Ártico"
+      },
+      {
+        "id": 6,
+        "name": "Kennen Lua Sangrenta"
+      },
+      {
+        "id": 7,
+        "name": "Super Kennen"
+      },
+      {
+        "id": 8,
+        "name": "Kennen Infernal"
+      },
+      {
+        "id": 23,
+        "name": "Kennen DWG"
+      },
+      {
+        "id": 25,
+        "name": "Kennen Astronauta"
+      }
+    ]
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "title": "o Ceifador do Vazio",
+    "icon": "Khazix.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kha'Zix"
+      },
+      {
+        "id": 1,
+        "name": "Mech Kha'Zix"
+      },
+      {
+        "id": 2,
+        "name": "Kha'Zix Guardião das Areias"
+      },
+      {
+        "id": 3,
+        "name": "Kha'Zix Florescência Mortal"
+      },
+      {
+        "id": 4,
+        "name": "Kha'Zix Estrela Negra"
+      },
+      {
+        "id": 11,
+        "name": "Kha'Zix Mundial 2018"
+      },
+      {
+        "id": 60,
+        "name": "Kha'Zix Odisseia"
+      },
+      {
+        "id": 69,
+        "name": "Kha'Zix Guardião Lunar"
+      },
+      {
+        "id": 79,
+        "name": "Kha'Zix Crystalis Indomitus"
+      }
+    ]
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "title": "os Caçadores Eternos",
+    "icon": "Kindred.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kindred"
+      },
+      {
+        "id": 1,
+        "name": "Kindred Fogo Sombrio"
+      },
+      {
+        "id": 2,
+        "name": "Kindred Supergalácticos"
+      },
+      {
+        "id": 3,
+        "name": "Kindred Florescer Espiritual"
+      },
+      {
+        "id": 12,
+        "name": "Kindred de Porcelana"
+      },
+      {
+        "id": 22,
+        "name": "Kindred Doguinho e Ovelha"
+      },
+      {
+        "id": 23,
+        "name": "Kindred DRX"
+      },
+      {
+        "id": 33,
+        "name": "Kindred de Porcelana de Prestígio"
+      },
+      {
+        "id": 34,
+        "name": "Kindred Escolhidos do Lobo"
+      }
+    ]
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "title": "o Cavaleiro Intratável",
+    "icon": "Kled.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kled"
+      },
+      {
+        "id": 1,
+        "name": "Sir Kled"
+      },
+      {
+        "id": 2,
+        "name": "Conde Klédula"
+      },
+      {
+        "id": 9,
+        "name": "Kled Saqueador"
+      },
+      {
+        "id": 18,
+        "name": "Kled Cabeça de Ração"
+      }
+    ]
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "title": "a Boca do Abismo",
+    "icon": "KogMaw.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Kog'Maw"
+      },
+      {
+        "id": 1,
+        "name": "Kog'Maw Taturana"
+      },
+      {
+        "id": 2,
+        "name": "Kog'Maw Escaravelho"
+      },
+      {
+        "id": 3,
+        "name": "Kog'Maw Monarca"
+      },
+      {
+        "id": 4,
+        "name": "Kog'Maw Rena"
+      },
+      {
+        "id": 5,
+        "name": "Kog'Maw Leão Chinês"
+      },
+      {
+        "id": 6,
+        "name": "Kog'Maw das Profundezas"
+      },
+      {
+        "id": 7,
+        "name": "Kog'Maw Jurássico"
+      },
+      {
+        "id": 8,
+        "name": "Kog'Maw Máquina de Combate"
+      },
+      {
+        "id": 9,
+        "name": "Pug'Maw"
+      },
+      {
+        "id": 10,
+        "name": "Kog'Maw Hextec"
+      },
+      {
+        "id": 19,
+        "name": "Kog'Maw Arcanista"
+      },
+      {
+        "id": 28,
+        "name": "Kog'Mel"
+      },
+      {
+        "id": 37,
+        "name": "Zap'Maw"
+      },
+      {
+        "id": 46,
+        "name": "Kog'Maw Pergaminhos Shan Hai"
+      },
+      {
+        "id": 55,
+        "name": "Kog'Maw Vitorioso"
+      }
+    ]
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "title": "o Orgulho de Nazumah.",
+    "icon": "KSante.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "K'Sante"
+      },
+      {
+        "id": 1,
+        "name": "K'Sante Empíreo"
+      },
+      {
+        "id": 2,
+        "name": "K'Sante Empíreo de Prestígio"
+      },
+      {
+        "id": 8,
+        "name": "K'Sante HEARTSTEEL"
+      }
+    ]
+  },
+  {
+    "id": "Leblanc",
+    "name": "LeBlanc",
+    "title": "a Farsante",
+    "icon": "Leblanc.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "LeBlanc"
+      },
+      {
+        "id": 1,
+        "name": "LeBlanc Cruel"
+      },
+      {
+        "id": 2,
+        "name": "LeBlanc Prestigiosa"
+      },
+      {
+        "id": 3,
+        "name": "LeBlanc Natalina"
+      },
+      {
+        "id": 4,
+        "name": "LeBlanc Corvinata"
+      },
+      {
+        "id": 5,
+        "name": "LeBlanc Sabugueiro"
+      },
+      {
+        "id": 12,
+        "name": "LeBlanc Cibernética"
+      },
+      {
+        "id": 19,
+        "name": "IG LeBlanc"
+      },
+      {
+        "id": 20,
+        "name": "LeBlanc Congregação das Bruxas"
+      },
+      {
+        "id": 29,
+        "name": "LeBlanc Mundial 2020"
+      },
+      {
+        "id": 33,
+        "name": "LeBlanc Congregação das Bruxas de Prestígio"
+      },
+      {
+        "id": 35,
+        "name": "LeBlanc Galante"
+      },
+      {
+        "id": 45,
+        "name": "LeBlanc Feiticeira"
+      },
+      {
+        "id": 55,
+        "name": "LeBlanc Lenda Ascendida"
+      }
+    ]
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "title": "o Monge Cego",
+    "icon": "LeeSin.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Lee Sin"
+      },
+      {
+        "id": 1,
+        "name": "Lee Sin Tradicional"
+      },
+      {
+        "id": 2,
+        "name": "Lee Sin Acólito"
+      },
+      {
+        "id": 3,
+        "name": "Lee Sin Punhos de Aço"
+      },
+      {
+        "id": 4,
+        "name": "Lee Sin Muay Thai"
+      },
+      {
+        "id": 5,
+        "name": "Lee Sin Curtindo o Verão"
+      },
+      {
+        "id": 6,
+        "name": "SKT T1 Lee Sin"
+      },
+      {
+        "id": 10,
+        "name": "Lee Sin Nocaute"
+      },
+      {
+        "id": 11,
+        "name": "Lee Sin Punhos Divinos"
+      },
+      {
+        "id": 12,
+        "name": "Lee Sin Armador de Jogadas"
+      },
+      {
+        "id": 27,
+        "name": "Lee Sin Emissário da Escuridão"
+      },
+      {
+        "id": 28,
+        "name": "Lee Sin Emissário da Escuridão de Prestígio"
+      },
+      {
+        "id": 29,
+        "name": "FPX Lee Sin"
+      },
+      {
+        "id": 31,
+        "name": "Lee Sin Dragão da Tormenta"
+      },
+      {
+        "id": 39,
+        "name": "Lee Sin Emissário da Escuridão de Prestígio (2022)"
+      },
+      {
+        "id": 41,
+        "name": "Lee Sin Zenith Games"
+      },
+      {
+        "id": 51,
+        "name": "Lee Sin Escamas Celestiais"
+      },
+      {
+        "id": 52,
+        "name": "Lee Sin Escamas Celestiais Divinas"
+      },
+      {
+        "id": 68,
+        "name": "Lee Sin T1"
+      }
+    ]
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "title": "a Alvorada Radiante",
+    "icon": "Leona.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Leona"
+      },
+      {
+        "id": 1,
+        "name": "Leona Valquíria"
+      },
+      {
+        "id": 2,
+        "name": "Leona Paladina"
+      },
+      {
+        "id": 3,
+        "name": "Leona Solari de Ferro"
+      },
+      {
+        "id": 4,
+        "name": "Leona Curtindo o Verão"
+      },
+      {
+        "id": 8,
+        "name": "PROJETO: Leona"
+      },
+      {
+        "id": 9,
+        "name": "Leona Churrasqueira"
+      },
+      {
+        "id": 10,
+        "name": "Leona Eclipse Solar"
+      },
+      {
+        "id": 11,
+        "name": "Leona Eclipse Lunar"
+      },
+      {
+        "id": 12,
+        "name": "Leona Reinos Mech"
+      },
+      {
+        "id": 21,
+        "name": "Leona Academia de Batalha"
+      },
+      {
+        "id": 22,
+        "name": "Leona DWG"
+      },
+      {
+        "id": 23,
+        "name": "Leona Academia de Batalha de Prestígio"
+      },
+      {
+        "id": 33,
+        "name": "Leona Galante"
+      },
+      {
+        "id": 34,
+        "name": "Leona Velho Oeste"
+      },
+      {
+        "id": 50,
+        "name": "Leona Crystalis Motus"
+      },
+      {
+        "id": 52,
+        "name": "Leona Leoa de Batalha"
+      },
+      {
+        "id": 53,
+        "name": "Leona Leoa de Batalha de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "title": "o Florir Receoso",
+    "icon": "Lillia.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Lillia"
+      },
+      {
+        "id": 1,
+        "name": "Lillia Florescer Espiritual"
+      },
+      {
+        "id": 10,
+        "name": "Lillia Emissária da Escuridão"
+      },
+      {
+        "id": 19,
+        "name": "Lillia Pergaminhos Shan Hai"
+      },
+      {
+        "id": 28,
+        "name": "Lillia Corte das Fadas"
+      }
+    ]
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "title": "a Bruxa Gélida",
+    "icon": "Lissandra.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Lissandra"
+      },
+      {
+        "id": 1,
+        "name": "Lissandra Hematita"
+      },
+      {
+        "id": 2,
+        "name": "Lissandra Donzela de Ferro"
+      },
+      {
+        "id": 3,
+        "name": "Lissandra Cibernética"
+      },
+      {
+        "id": 4,
+        "name": "Lissandra Congregação das Bruxas"
+      },
+      {
+        "id": 12,
+        "name": "Lissandra Cosmos Negro"
+      },
+      {
+        "id": 23,
+        "name": "Lissandra de Porcelana"
+      },
+      {
+        "id": 33,
+        "name": "Lissandra de Porcelana de Prestígio"
+      },
+      {
+        "id": 34,
+        "name": "Lissandra Embalos no Espaço"
+      }
+    ]
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "title": "o Purificador",
+    "icon": "Lucian.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Lucian"
+      },
+      {
+        "id": 1,
+        "name": "Lucian Mercenário"
+      },
+      {
+        "id": 2,
+        "name": "Lucian Atacante"
+      },
+      {
+        "id": 6,
+        "name": "PROJETO: Lucian"
+      },
+      {
+        "id": 7,
+        "name": "Lucian Cupido Mortal"
+      },
+      {
+        "id": 8,
+        "name": "Lucian Velho Oeste"
+      },
+      {
+        "id": 9,
+        "name": "Lucian Demacia Vice"
+      },
+      {
+        "id": 18,
+        "name": "Pulsefire Lucian"
+      },
+      {
+        "id": 19,
+        "name": "Pulsefire Lucian de Prestígio"
+      },
+      {
+        "id": 25,
+        "name": "Lucian Vitorioso"
+      },
+      {
+        "id": 31,
+        "name": "Lucian Arcana"
+      },
+      {
+        "id": 40,
+        "name": "Lucian Paladino de Ataque"
+      },
+      {
+        "id": 52,
+        "name": "Lucian Bênção do Inverno"
+      }
+    ]
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "title": "a Fada Feiticeira",
+    "icon": "Lulu.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Lulu"
+      },
+      {
+        "id": 1,
+        "name": "Lulu Doceira Macabra"
+      },
+      {
+        "id": 2,
+        "name": "Lulu Perversa"
+      },
+      {
+        "id": 3,
+        "name": "Lulu Treinadora de Dragões"
+      },
+      {
+        "id": 4,
+        "name": "Lulu Inverno Mágico"
+      },
+      {
+        "id": 5,
+        "name": "Lulu Curtindo o Verão"
+      },
+      {
+        "id": 6,
+        "name": "Lulu Guardiã Estelar"
+      },
+      {
+        "id": 14,
+        "name": "Lulu Feiticeira Cósmica"
+      },
+      {
+        "id": 15,
+        "name": "Lulu Pijaminha Estelar"
+      },
+      {
+        "id": 26,
+        "name": "Lulu Embalos no Espaço"
+      },
+      {
+        "id": 27,
+        "name": "Lulu Embalos no Espaço de Prestígio"
+      },
+      {
+        "id": 37,
+        "name": "Lulu Domadora de Monstros"
+      },
+      {
+        "id": 46,
+        "name": "Lulu Kawaii Café"
+      }
+    ]
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "title": "a Dama da Luz",
+    "icon": "Lux.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Lux"
+      },
+      {
+        "id": 1,
+        "name": "Lux Feiticeira"
+      },
+      {
+        "id": 2,
+        "name": "Lux Ladra Arcana"
+      },
+      {
+        "id": 3,
+        "name": "Patrulheira Lux"
+      },
+      {
+        "id": 4,
+        "name": "Lux Imperial"
+      },
+      {
+        "id": 5,
+        "name": "Lux Legionária de Aço"
+      },
+      {
+        "id": 6,
+        "name": "Lux Guardiã Estelar"
+      },
+      {
+        "id": 7,
+        "name": "Lux Elementalista"
+      },
+      {
+        "id": 8,
+        "name": "Lux Imperatriz Lunar"
+      },
+      {
+        "id": 14,
+        "name": "Lux Pijaminha Estelar"
+      },
+      {
+        "id": 15,
+        "name": "Lux Academia de Batalha"
+      },
+      {
+        "id": 16,
+        "name": "Lux Academia de Batalha de Prestígio"
+      },
+      {
+        "id": 17,
+        "name": "Lux Cosmos Negro"
+      },
+      {
+        "id": 18,
+        "name": "Lux Cósmica"
+      },
+      {
+        "id": 19,
+        "name": "Lux Embalos no Espaço"
+      },
+      {
+        "id": 29,
+        "name": "Lux de Porcelana"
+      },
+      {
+        "id": 38,
+        "name": "Lux Soul Fighter"
+      },
+      {
+        "id": 39,
+        "name": "Lux Academia de Batalha de Prestígio (2022)"
+      },
+      {
+        "id": 40,
+        "name": "Lux de Porcelana de Prestígio"
+      },
+      {
+        "id": 42,
+        "name": "Lux Empírea"
+      },
+      {
+        "id": 61,
+        "name": "Lux Corte das Fadas"
+      }
+    ]
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "title": "o Fragmento do Monolito",
+    "icon": "Malphite.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Malphite"
+      },
+      {
+        "id": 1,
+        "name": "Malphite Irlandês"
+      },
+      {
+        "id": 2,
+        "name": "Malphite Recife de Coral"
+      },
+      {
+        "id": 3,
+        "name": "Malphite de Mármore"
+      },
+      {
+        "id": 4,
+        "name": "Malphite de Obsidiana"
+      },
+      {
+        "id": 5,
+        "name": "Malphite Glacial"
+      },
+      {
+        "id": 6,
+        "name": "Mech Malphite"
+      },
+      {
+        "id": 7,
+        "name": "Malphite Barca de Ferro"
+      },
+      {
+        "id": 16,
+        "name": "Malphite Odisseia"
+      },
+      {
+        "id": 23,
+        "name": "Malphite Estrela Negra"
+      },
+      {
+        "id": 24,
+        "name": "Malphite Estrela Negra de Prestígio"
+      },
+      {
+        "id": 25,
+        "name": "FPX Malphite"
+      },
+      {
+        "id": 27,
+        "name": "Malphite Deus Antigo"
+      },
+      {
+        "id": 37,
+        "name": "Malphite Guardião Lunar"
+      }
+    ]
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "title": "o Profeta do Vazio",
+    "icon": "Malzahar.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Malzahar"
+      },
+      {
+        "id": 1,
+        "name": "Malzahar Vizir"
+      },
+      {
+        "id": 2,
+        "name": "Malzahar Príncipe das Sombras"
+      },
+      {
+        "id": 3,
+        "name": "Malzahar Gênio da Lâmpada"
+      },
+      {
+        "id": 4,
+        "name": "Malzahar Suserano"
+      },
+      {
+        "id": 5,
+        "name": "Malzahar Dia Nevado"
+      },
+      {
+        "id": 6,
+        "name": "Malzahar Chefão"
+      },
+      {
+        "id": 7,
+        "name": "Malzahar Hextec"
+      },
+      {
+        "id": 9,
+        "name": "Malzahar Quebra-mundos"
+      },
+      {
+        "id": 18,
+        "name": "Melzahar"
+      },
+      {
+        "id": 28,
+        "name": "Malzahar Galante"
+      },
+      {
+        "id": 38,
+        "name": "Malzahar Três Honras"
+      },
+      {
+        "id": 39,
+        "name": "Malzahar Empíreo"
+      }
+    ]
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "title": "o Ente Sinistro",
+    "icon": "Maokai.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Maokai"
+      },
+      {
+        "id": 1,
+        "name": "Maokai de Carvão"
+      },
+      {
+        "id": 2,
+        "name": "Maokai Xamanista"
+      },
+      {
+        "id": 3,
+        "name": "Maokai Natalino"
+      },
+      {
+        "id": 4,
+        "name": "Maokai Assombrado"
+      },
+      {
+        "id": 5,
+        "name": "Maokai Goleiro"
+      },
+      {
+        "id": 6,
+        "name": "Miaukai"
+      },
+      {
+        "id": 7,
+        "name": "Maokai Vitorioso"
+      },
+      {
+        "id": 16,
+        "name": "Maokai Quebra-mundos"
+      },
+      {
+        "id": 24,
+        "name": "Maokai Astronauta"
+      },
+      {
+        "id": 33,
+        "name": "Maokai DRX"
+      }
+    ]
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "title": "o Espadachim Wuju",
+    "icon": "MasterYi.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Master Yi"
+      },
+      {
+        "id": 1,
+        "name": "Master Yi Assassino"
+      },
+      {
+        "id": 2,
+        "name": "Master Yi, o Escolhido"
+      },
+      {
+        "id": 3,
+        "name": "Master Yi de Ionia"
+      },
+      {
+        "id": 4,
+        "name": "Samurai Yi"
+      },
+      {
+        "id": 5,
+        "name": "Master Yi Caçador de Cabeças"
+      },
+      {
+        "id": 9,
+        "name": "PROJETO: Yi"
+      },
+      {
+        "id": 10,
+        "name": "Master Yi Espada Cósmica"
+      },
+      {
+        "id": 11,
+        "name": "Yi Espada Eterna"
+      },
+      {
+        "id": 17,
+        "name": "Yi Boneco de Neve"
+      },
+      {
+        "id": 24,
+        "name": "Master Yi Lua Sangrenta"
+      },
+      {
+        "id": 33,
+        "name": "Master Yi PsyOps"
+      },
+      {
+        "id": 42,
+        "name": "Master Yi Galante"
+      },
+      {
+        "id": 52,
+        "name": "Master Yi Florescer Espiritual"
+      },
+      {
+        "id": 53,
+        "name": "Master Yi Florescer Espiritual de Prestígio"
+      },
+      {
+        "id": 89,
+        "name": "Master Yi Tinta Sombria"
+      },
+      {
+        "id": 96,
+        "name": "Master Yi Escamas Celestiais"
+      }
+    ]
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "title": "A Chama Gentil",
+    "icon": "Milio.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Milio"
+      },
+      {
+        "id": 1,
+        "name": "Milio Corte das Fadas"
+      },
+      {
+        "id": 11,
+        "name": "Milio Pastor de Chuvas"
+      }
+    ]
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "title": "a Caçadora de Recompensas",
+    "icon": "MissFortune.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Miss Fortune"
+      },
+      {
+        "id": 1,
+        "name": "Miss Fortune Vaqueira"
+      },
+      {
+        "id": 2,
+        "name": "Miss Fortune de Waterloo"
+      },
+      {
+        "id": 3,
+        "name": "Miss Fortune Agente Secreta"
+      },
+      {
+        "id": 4,
+        "name": "Miss Fortune Natalina"
+      },
+      {
+        "id": 5,
+        "name": "Miss Fortune Guerreira das Estradas"
+      },
+      {
+        "id": 6,
+        "name": "Miss Fortune Cidade do Crime"
+      },
+      {
+        "id": 7,
+        "name": "Miss Fortune Fliperama"
+      },
+      {
+        "id": 8,
+        "name": "Capitã Fortune"
+      },
+      {
+        "id": 9,
+        "name": "Miss Fortune Curtindo o Verão"
+      },
+      {
+        "id": 15,
+        "name": "Miss Fortune Guardiã Estelar"
+      },
+      {
+        "id": 16,
+        "name": "Miss Fortune Vingadora Exocósmica"
+      },
+      {
+        "id": 17,
+        "name": "Miss Fortune Pijaminha Estelar"
+      },
+      {
+        "id": 18,
+        "name": "Miss Fortune Feiticeira"
+      },
+      {
+        "id": 20,
+        "name": "Miss Fortune Feiticeira de Prestígio"
+      },
+      {
+        "id": 21,
+        "name": "Miss Fortune Destruída"
+      },
+      {
+        "id": 31,
+        "name": "Miss Fortune Coelha de Batalha"
+      },
+      {
+        "id": 32,
+        "name": "Almirante Miss Fortune Coelha de Batalha"
+      },
+      {
+        "id": 33,
+        "name": "Miss Fortune Feiticeira de Prestígio (2022)"
+      },
+      {
+        "id": 40,
+        "name": "Miss Fortune Pacto Quebrado"
+      },
+      {
+        "id": 41,
+        "name": "Miss Fortune Pacto Quebrado de Prestígio"
+      },
+      {
+        "id": 50,
+        "name": "Miss Fortune de Porcelana"
+      },
+      {
+        "id": 60,
+        "name": "Miss Fortune Rainha de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Wukong",
+    "title": "o Macaco Rei",
+    "icon": "MonkeyKing.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Wukong"
+      },
+      {
+        "id": 1,
+        "name": "Wukong Incandescente"
+      },
+      {
+        "id": 2,
+        "name": "General Wukong"
+      },
+      {
+        "id": 3,
+        "name": "Wukong Dragão de Jade"
+      },
+      {
+        "id": 4,
+        "name": "Wukong do Submundo"
+      },
+      {
+        "id": 5,
+        "name": "Wukong Radiante"
+      },
+      {
+        "id": 6,
+        "name": "Wukong Estrato Lanceiro"
+      },
+      {
+        "id": 7,
+        "name": "Wukong Academia de Batalha"
+      },
+      {
+        "id": 16,
+        "name": "Wukong Sabugueiro"
+      }
+    ]
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "title": "o Revenã de Ferro",
+    "icon": "Mordekaiser.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Mordekaiser"
+      },
+      {
+        "id": 1,
+        "name": "Mordekaiser Dracônico"
+      },
+      {
+        "id": 2,
+        "name": "Mordekaiser Infernal"
+      },
+      {
+        "id": 3,
+        "name": "Mordekaiser Pentakill"
+      },
+      {
+        "id": 4,
+        "name": "Lorde Mordekaiser"
+      },
+      {
+        "id": 5,
+        "name": "Mordekaiser Rei de Paus"
+      },
+      {
+        "id": 6,
+        "name": "Mordekaiser Estrela Negra"
+      },
+      {
+        "id": 13,
+        "name": "PROJETO: Mordekaiser"
+      },
+      {
+        "id": 23,
+        "name": "Mordekaiser Pentakill III: Lost Chapter"
+      },
+      {
+        "id": 32,
+        "name": "Mordekaiser Velho Oeste"
+      },
+      {
+        "id": 42,
+        "name": "Mordekaiser Cavaleiro Zumbi das Cinzas"
+      },
+      {
+        "id": 44,
+        "name": "Mordekaiser Deus Antigo"
+      }
+    ]
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "title": "a Caída",
+    "icon": "Morgana.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Morgana"
+      },
+      {
+        "id": 1,
+        "name": "Morgana Exilada"
+      },
+      {
+        "id": 2,
+        "name": "Morgana Pesadelo Culinário"
+      },
+      {
+        "id": 3,
+        "name": "Morgana Mestra das Lâminas"
+      },
+      {
+        "id": 4,
+        "name": "Morgana Espinhos Negros"
+      },
+      {
+        "id": 5,
+        "name": "Morgana Noiva Fantasma"
+      },
+      {
+        "id": 6,
+        "name": "Morgana Vitoriosa"
+      },
+      {
+        "id": 10,
+        "name": "Morgana Espectro Lunar"
+      },
+      {
+        "id": 11,
+        "name": "Morgana Feiticeira"
+      },
+      {
+        "id": 17,
+        "name": "Morgana Imperatriz Majestosa"
+      },
+      {
+        "id": 26,
+        "name": "Morgana Congregação das Bruxas"
+      },
+      {
+        "id": 39,
+        "name": "Morgana Emissária da Luz"
+      },
+      {
+        "id": 41,
+        "name": "Morgana Feiticeira de Prestígio"
+      },
+      {
+        "id": 50,
+        "name": "Morgana Nêmesis Estelar"
+      },
+      {
+        "id": 60,
+        "name": "Morgana Lua Nevada"
+      },
+      {
+        "id": 70,
+        "name": "Morgana de Porcelana"
+      }
+    ]
+  },
+  {
+    "id": "Naafiri",
+    "name": "Naafiri",
+    "title": "Fera das Cem Mordidas",
+    "icon": "Naafiri.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Naafiri"
+      },
+      {
+        "id": 1,
+        "name": "Naafiri Soul Fighter"
+      },
+      {
+        "id": 11,
+        "name": "PROJETO: Naafiri"
+      }
+    ]
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "title": "a Conjuradora das Marés",
+    "icon": "Nami.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nami"
+      },
+      {
+        "id": 1,
+        "name": "Nami Koi"
+      },
+      {
+        "id": 2,
+        "name": "Nami Iara"
+      },
+      {
+        "id": 3,
+        "name": "Nami, a Sereia-Boi"
+      },
+      {
+        "id": 7,
+        "name": "Nami das Profundezas"
+      },
+      {
+        "id": 8,
+        "name": "SKT T1 Nami"
+      },
+      {
+        "id": 9,
+        "name": "Nami Cibernética"
+      },
+      {
+        "id": 15,
+        "name": "Nami Cajado Esplendoroso"
+      },
+      {
+        "id": 24,
+        "name": "Nami Destino Cósmico"
+      },
+      {
+        "id": 32,
+        "name": "Nami Feiticeira"
+      },
+      {
+        "id": 41,
+        "name": "Nami Embalos no Espaço"
+      },
+      {
+        "id": 42,
+        "name": "Nami Embalos no Espaço de Prestígio"
+      },
+      {
+        "id": 51,
+        "name": "Nami Congregação das Bruxas"
+      }
+    ]
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "title": "o Curador das Areias",
+    "icon": "Nasus.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nasus"
+      },
+      {
+        "id": 1,
+        "name": "Nasus Galáctico"
+      },
+      {
+        "id": 2,
+        "name": "Nasus Faraônico"
+      },
+      {
+        "id": 3,
+        "name": "Nasus Cavaleiro do Terror"
+      },
+      {
+        "id": 4,
+        "name": "Riot Nasus K-9"
+      },
+      {
+        "id": 5,
+        "name": "Nasus Infernal"
+      },
+      {
+        "id": 6,
+        "name": "Nasus Arquiduque"
+      },
+      {
+        "id": 10,
+        "name": "Nasus Quebra-mundos"
+      },
+      {
+        "id": 11,
+        "name": "Nasus Guardião Lunar"
+      },
+      {
+        "id": 16,
+        "name": "Nasus Máquina de Combate"
+      },
+      {
+        "id": 25,
+        "name": "Nasus Embalos no Espaço"
+      },
+      {
+        "id": 35,
+        "name": "Nasus Titã Blindado"
+      },
+      {
+        "id": 45,
+        "name": "Nasus Emissário da Escuridão"
+      }
+    ]
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "title": "o Titã das Profundezas",
+    "icon": "Nautilus.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nautilus"
+      },
+      {
+        "id": 1,
+        "name": "Nautilus Abissal"
+      },
+      {
+        "id": 2,
+        "name": "Nautilus Subterrâneo"
+      },
+      {
+        "id": 3,
+        "name": "AstroNautilus"
+      },
+      {
+        "id": 4,
+        "name": "Nautilus Vigia"
+      },
+      {
+        "id": 5,
+        "name": "Nautilus Quebra-mundos"
+      },
+      {
+        "id": 6,
+        "name": "Nautilus Conquistador"
+      },
+      {
+        "id": 9,
+        "name": "Nautilus Pergaminhos Shan Hai"
+      },
+      {
+        "id": 18,
+        "name": "Nautilus Noite Apavorante"
+      },
+      {
+        "id": 27,
+        "name": "Nautilus Paladino Cósmico"
+      },
+      {
+        "id": 36,
+        "name": "Nautilus Crystalis Indomitus"
+      }
+    ]
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "title": "a Camaleoa Curiosa",
+    "icon": "Neeko.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Neeko"
+      },
+      {
+        "id": 1,
+        "name": "Neeko Inverno Mágico"
+      },
+      {
+        "id": 10,
+        "name": "Neeko Guardiã Estelar"
+      },
+      {
+        "id": 11,
+        "name": "Neeko Guardiã Estelar de Prestígio"
+      },
+      {
+        "id": 12,
+        "name": "Neeko Pergaminhos Shan Hai"
+      },
+      {
+        "id": 21,
+        "name": "Neeko Guardiã Estelar de Prestígio (2022)"
+      },
+      {
+        "id": 22,
+        "name": "Neeko Feiticeira"
+      },
+      {
+        "id": 31,
+        "name": "Neeko Demônios Urbanos"
+      },
+      {
+        "id": 40,
+        "name": "Neeko Cosplayer"
+      }
+    ]
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "title": "a Caçadora Bestial",
+    "icon": "Nidalee.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nidalee"
+      },
+      {
+        "id": 1,
+        "name": "Nidalee Nevada"
+      },
+      {
+        "id": 2,
+        "name": "Nidalee Leopardo"
+      },
+      {
+        "id": 3,
+        "name": "Nidalee Camareira Francesa"
+      },
+      {
+        "id": 4,
+        "name": "Nidalee Faraônica"
+      },
+      {
+        "id": 5,
+        "name": "Nidalee Feiticeira"
+      },
+      {
+        "id": 6,
+        "name": "Nidalee Caçadora de Cabeças"
+      },
+      {
+        "id": 7,
+        "name": "Nidalee Reinos Combatentes"
+      },
+      {
+        "id": 8,
+        "name": "Nidalee Desafiante"
+      },
+      {
+        "id": 9,
+        "name": "Nidalee Supergaláctica"
+      },
+      {
+        "id": 11,
+        "name": "Nidalee Emissária da Luz"
+      },
+      {
+        "id": 18,
+        "name": "Nidalee Caçadora Cósmica"
+      },
+      {
+        "id": 27,
+        "name": "Nidalee DWG"
+      },
+      {
+        "id": 29,
+        "name": "Nidalee Canção do Oceano"
+      },
+      {
+        "id": 39,
+        "name": "Nidalee Gatinha"
+      },
+      {
+        "id": 48,
+        "name": "Nidalee La Ilusión"
+      }
+    ]
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "title": "a Alegria Irrestrita",
+    "icon": "Nilah.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nilah"
+      },
+      {
+        "id": 1,
+        "name": "Nilah Guardiã Estelar"
+      },
+      {
+        "id": 11,
+        "name": "Nilah Congregação das Bruxas"
+      }
+    ]
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "title": "o Eterno Pesadelo",
+    "icon": "Nocturne.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nocturne"
+      },
+      {
+        "id": 1,
+        "name": "Nocturne Terror Congelante"
+      },
+      {
+        "id": 2,
+        "name": "Nocturne do Vazio"
+      },
+      {
+        "id": 3,
+        "name": "Nocturne Devastador"
+      },
+      {
+        "id": 4,
+        "name": "Nocturne Assombroso"
+      },
+      {
+        "id": 5,
+        "name": "Nocturne Eternum"
+      },
+      {
+        "id": 6,
+        "name": "Nocturne Revenã Maldito"
+      },
+      {
+        "id": 7,
+        "name": "Nocturne Deus Antigo"
+      },
+      {
+        "id": 16,
+        "name": "Nocturne Hextec"
+      },
+      {
+        "id": 17,
+        "name": "Nocturne Pacto Quebrado"
+      },
+      {
+        "id": 26,
+        "name": "Nocturne Empíreo"
+      }
+    ]
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu e Willump",
+    "title": "o Garoto e seu Yeti",
+    "icon": "Nunu.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Nunu e Willump"
+      },
+      {
+        "id": 1,
+        "name": "Nunu e Willump Pé-Grande"
+      },
+      {
+        "id": 2,
+        "name": "Nunu e Willump Natalinos"
+      },
+      {
+        "id": 3,
+        "name": "Nunu e Willump Bicho-Papão"
+      },
+      {
+        "id": 4,
+        "name": "Nunu e Willump Robótico"
+      },
+      {
+        "id": 5,
+        "name": "Nunu e Willump Demolidor"
+      },
+      {
+        "id": 6,
+        "name": "TPA Nunu e Willump"
+      },
+      {
+        "id": 7,
+        "name": "Nunu e Willump Zumbi"
+      },
+      {
+        "id": 8,
+        "name": "Nunu e Willump de Papel"
+      },
+      {
+        "id": 16,
+        "name": "Nunu e Willump Embalos no Espaço"
+      },
+      {
+        "id": 26,
+        "name": "Nunu e Mellump"
+      },
+      {
+        "id": 35,
+        "name": "Nunu e Willump Paladinos Cósmicos"
+      },
+      {
+        "id": 44,
+        "name": "Nunu e Willump Noite Apavorante"
+      }
+    ]
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "title": "o Berserker",
+    "icon": "Olaf.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Olaf"
+      },
+      {
+        "id": 1,
+        "name": "Olaf Esquecido"
+      },
+      {
+        "id": 2,
+        "name": "Olaf Glacial"
+      },
+      {
+        "id": 3,
+        "name": "Brolaf"
+      },
+      {
+        "id": 4,
+        "name": "Olaf Pentakill"
+      },
+      {
+        "id": 5,
+        "name": "Olaf Saqueador"
+      },
+      {
+        "id": 6,
+        "name": "Olaf Açougueiro"
+      },
+      {
+        "id": 15,
+        "name": "SKT T1 Olaf"
+      },
+      {
+        "id": 16,
+        "name": "Olaf Caçador de Dragões"
+      },
+      {
+        "id": 25,
+        "name": "Olaf Sentinela"
+      },
+      {
+        "id": 35,
+        "name": "Olaf Pentakill III: Lost Chapter"
+      },
+      {
+        "id": 44,
+        "name": "Olaf Infernal"
+      }
+    ]
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "title": "a Donzela Mecânica",
+    "icon": "Orianna.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Orianna"
+      },
+      {
+        "id": 1,
+        "name": "Orianna Gótica"
+      },
+      {
+        "id": 2,
+        "name": "Orianna Fantoche Macabro"
+      },
+      {
+        "id": 3,
+        "name": "Orianna Artesã das Lâminas"
+      },
+      {
+        "id": 4,
+        "name": "TPA Orianna"
+      },
+      {
+        "id": 5,
+        "name": "Orianna Inverno Mágico"
+      },
+      {
+        "id": 6,
+        "name": "Orianna Cupido Mortal"
+      },
+      {
+        "id": 7,
+        "name": "Orianna Estrela Negra"
+      },
+      {
+        "id": 8,
+        "name": "Orianna Vitoriosa"
+      },
+      {
+        "id": 11,
+        "name": "Orianna Curtindo o Verão"
+      },
+      {
+        "id": 20,
+        "name": "Abelhianna"
+      },
+      {
+        "id": 29,
+        "name": "Orianna Guardiã Estelar"
+      },
+      {
+        "id": 38,
+        "name": "Orianna T1"
+      }
+    ]
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "title": "O Fogo sob a Montanha",
+    "icon": "Ornn.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ornn"
+      },
+      {
+        "id": 1,
+        "name": "Ornn Senhor do Trovão"
+      },
+      {
+        "id": 2,
+        "name": "Ornn Sabugueiro"
+      },
+      {
+        "id": 11,
+        "name": "Ornn Embalos no Espaço"
+      },
+      {
+        "id": 20,
+        "name": "Ornn Piuí Tic Tac"
+      }
+    ]
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "title": "a Lança Indestrutível",
+    "icon": "Pantheon.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Pantheon"
+      },
+      {
+        "id": 1,
+        "name": "Pantheon Mirmidão"
+      },
+      {
+        "id": 2,
+        "name": "Pantheon Implacável"
+      },
+      {
+        "id": 3,
+        "name": "Pantheon Perseu"
+      },
+      {
+        "id": 4,
+        "name": "Pantheon Blindado"
+      },
+      {
+        "id": 5,
+        "name": "Pantheon Gladiador"
+      },
+      {
+        "id": 6,
+        "name": "Pantheon Caçador de Dragões"
+      },
+      {
+        "id": 7,
+        "name": "Pantheon Caça-Zumbis"
+      },
+      {
+        "id": 8,
+        "name": "Tortheon"
+      },
+      {
+        "id": 16,
+        "name": "Pulsefire Pantheon"
+      },
+      {
+        "id": 25,
+        "name": "Pantheon Destruído"
+      },
+      {
+        "id": 26,
+        "name": "Pantheon Ascendente de Prestígio"
+      },
+      {
+        "id": 36,
+        "name": "Pantheon Conquistador das Cinzas"
+      },
+      {
+        "id": 38,
+        "name": "Pantheon Escolhido do Lobo"
+      }
+    ]
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "title": "a Guardiã do Martelo",
+    "icon": "Poppy.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Poppy"
+      },
+      {
+        "id": 1,
+        "name": "Poppy de Noxus"
+      },
+      {
+        "id": 2,
+        "name": "Poppirulito"
+      },
+      {
+        "id": 3,
+        "name": "Poppy Ferreira"
+      },
+      {
+        "id": 4,
+        "name": "Poppy Boneca de Pano"
+      },
+      {
+        "id": 5,
+        "name": "Poppy Guerreira Real"
+      },
+      {
+        "id": 6,
+        "name": "Poppy Martelo Escarlate"
+      },
+      {
+        "id": 7,
+        "name": "Poppy Guardiã Estelar"
+      },
+      {
+        "id": 14,
+        "name": "Poppy Cervo da Neve"
+      },
+      {
+        "id": 15,
+        "name": "Poppy Hextec"
+      },
+      {
+        "id": 16,
+        "name": "Poppy Astronauta"
+      },
+      {
+        "id": 24,
+        "name": "Poppy Feiticeira"
+      },
+      {
+        "id": 33,
+        "name": "Poppy Kawaii Café"
+      }
+    ]
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "title": "o Estripador das Águas Sangrentas",
+    "icon": "Pyke.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Pyke"
+      },
+      {
+        "id": 1,
+        "name": "Pyke Espectro das Areias"
+      },
+      {
+        "id": 9,
+        "name": "Pyke Lua Sangrenta"
+      },
+      {
+        "id": 16,
+        "name": "PROJETO: Pyke"
+      },
+      {
+        "id": 25,
+        "name": "Pyke PsyOps"
+      },
+      {
+        "id": 34,
+        "name": "Pyke Sentinela"
+      },
+      {
+        "id": 44,
+        "name": "Pyke Guerreiro das Cinzas"
+      },
+      {
+        "id": 45,
+        "name": "Pyke Empíreo"
+      },
+      {
+        "id": 53,
+        "name": "Pyke Soul Fighter"
+      },
+      {
+        "id": 54,
+        "name": "Pyke Soul Fighter de Prestígio"
+      },
+      {
+        "id": 64,
+        "name": "Pyke Noite Apavorante"
+      }
+    ]
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "title": "a Imperatriz dos Elementos",
+    "icon": "Qiyana.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Qiyana"
+      },
+      {
+        "id": 1,
+        "name": "Qiyana Chefona"
+      },
+      {
+        "id": 2,
+        "name": "Qiyana True Damage"
+      },
+      {
+        "id": 10,
+        "name": "Qiyana True Damage de Prestígio"
+      },
+      {
+        "id": 11,
+        "name": "Qiyana Rainha de Batalha"
+      },
+      {
+        "id": 20,
+        "name": "Qiyana Lâmina do Trovão"
+      },
+      {
+        "id": 21,
+        "name": "Qiyana True Damage de Prestígio (2022)"
+      },
+      {
+        "id": 30,
+        "name": "Qiyana Imperatriz Lunar"
+      },
+      {
+        "id": 40,
+        "name": "Qiyana La Ilusión"
+      }
+    ]
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "title": "as Asas de Demacia",
+    "icon": "Quinn.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Quinn"
+      },
+      {
+        "id": 1,
+        "name": "Quinn Fênix"
+      },
+      {
+        "id": 2,
+        "name": "Quinn Exploradora Bretã"
+      },
+      {
+        "id": 3,
+        "name": "Quinn Corsária"
+      },
+      {
+        "id": 4,
+        "name": "Quinn Cupido Mortal"
+      },
+      {
+        "id": 5,
+        "name": "Quinn Vigia"
+      },
+      {
+        "id": 14,
+        "name": "Quinn Guardiã Estelar"
+      }
+    ]
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "title": "O Charmoso",
+    "icon": "Rakan.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Rakan"
+      },
+      {
+        "id": 1,
+        "name": "Rakan Aurora Cósmica"
+      },
+      {
+        "id": 2,
+        "name": "Rakan Queridinho"
+      },
+      {
+        "id": 3,
+        "name": "SSG Rakan"
+      },
+      {
+        "id": 4,
+        "name": "IG Rakan"
+      },
+      {
+        "id": 5,
+        "name": "Rakan Guardião Estelar"
+      },
+      {
+        "id": 9,
+        "name": "Rakan Sabugueiro"
+      },
+      {
+        "id": 18,
+        "name": "Rakan Arcana"
+      },
+      {
+        "id": 27,
+        "name": "Rakan Pacto Quebrado"
+      },
+      {
+        "id": 36,
+        "name": "Rakan Guardião Estelar Redimido"
+      },
+      {
+        "id": 37,
+        "name": "Rakan Dracomante"
+      },
+      {
+        "id": 38,
+        "name": "Rakan Dracomante de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "title": "o Tatu Blindado",
+    "icon": "Rammus.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Rammus"
+      },
+      {
+        "id": 1,
+        "name": "Rammus Rei"
+      },
+      {
+        "id": 2,
+        "name": "Rammus Cromo"
+      },
+      {
+        "id": 3,
+        "name": "Rammus de Lava"
+      },
+      {
+        "id": 4,
+        "name": "Rammus de Freljord"
+      },
+      {
+        "id": 5,
+        "name": "Rammus Ninja"
+      },
+      {
+        "id": 6,
+        "name": "Rammus Blindado"
+      },
+      {
+        "id": 7,
+        "name": "Rammus Guardião das Areias"
+      },
+      {
+        "id": 8,
+        "name": "Rammus Zagueiro"
+      },
+      {
+        "id": 16,
+        "name": "Rammus Hextec"
+      },
+      {
+        "id": 17,
+        "name": "Rammus Astronauta"
+      },
+      {
+        "id": 26,
+        "name": "Rammus Defensor Jaquinha"
+      }
+    ]
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "title": "a Escavadora do Vazio",
+    "icon": "RekSai.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Rek'Sai"
+      },
+      {
+        "id": 1,
+        "name": "Rek'Sai Eternum"
+      },
+      {
+        "id": 2,
+        "name": "Rek'Sai Curtindo o Verão"
+      },
+      {
+        "id": 9,
+        "name": "Rek'Sai Gelo Sombrio"
+      },
+      {
+        "id": 17,
+        "name": "Rek'Sai Sabugueiro"
+      },
+      {
+        "id": 26,
+        "name": "Rek'Sai Primordiana"
+      }
+    ]
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "title": "a Dama de Ferro",
+    "icon": "Rell.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Rell"
+      },
+      {
+        "id": 1,
+        "name": "Rell Rainha de Batalha"
+      },
+      {
+        "id": 10,
+        "name": "Rell Guardiã Estelar"
+      },
+      {
+        "id": 20,
+        "name": "Rell Velho Oeste"
+      }
+    ]
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "title": "a Baronesa da Química",
+    "icon": "Renata.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Renata Glasc"
+      },
+      {
+        "id": 1,
+        "name": "Almirante Glasc"
+      },
+      {
+        "id": 10,
+        "name": "Renata Glasc Noite Apavorante"
+      },
+      {
+        "id": 20,
+        "name": "Renata Glasc La Ilusión"
+      },
+      {
+        "id": 21,
+        "name": "Renata Glasc La Ilusión de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "title": "o Carniceiro das Areias",
+    "icon": "Renekton.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Renekton"
+      },
+      {
+        "id": 1,
+        "name": "Renekton Galáctico"
+      },
+      {
+        "id": 2,
+        "name": "Renekton Australiano"
+      },
+      {
+        "id": 3,
+        "name": "Renekton Fúria Sanguinária"
+      },
+      {
+        "id": 4,
+        "name": "Renekton das Guerras Rúnicas"
+      },
+      {
+        "id": 5,
+        "name": "Renekton Terra Abrasada"
+      },
+      {
+        "id": 6,
+        "name": "Renekton Curtindo o Verão"
+      },
+      {
+        "id": 7,
+        "name": "Renekton Pré-histórico"
+      },
+      {
+        "id": 8,
+        "name": "SKT T1 Renekton"
+      },
+      {
+        "id": 9,
+        "name": "Bonekton"
+      },
+      {
+        "id": 17,
+        "name": "Renekton Hextec"
+      },
+      {
+        "id": 18,
+        "name": "Renekton Gelo Sombrio"
+      },
+      {
+        "id": 26,
+        "name": "PROJETO: Renekton"
+      },
+      {
+        "id": 33,
+        "name": "Renekton Emissário da Luz"
+      },
+      {
+        "id": 42,
+        "name": "Renekton Mundial 2023"
+      }
+    ]
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "title": "o Acossador da Alcateia",
+    "icon": "Rengar.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Rengar"
+      },
+      {
+        "id": 1,
+        "name": "Rengar Caçador de Cabeças"
+      },
+      {
+        "id": 2,
+        "name": "Rengar Caçador Noturno"
+      },
+      {
+        "id": 3,
+        "name": "Rengar SSW"
+      },
+      {
+        "id": 8,
+        "name": "Mech Rengar"
+      },
+      {
+        "id": 15,
+        "name": "Rengato"
+      },
+      {
+        "id": 23,
+        "name": "Rengar Guardião das Areias"
+      },
+      {
+        "id": 30,
+        "name": "Rengar Sentinela"
+      },
+      {
+        "id": 40,
+        "name": "Rengar Demônios Urbanos"
+      }
+    ]
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "title": "a Exilada",
+    "icon": "Riven.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Riven"
+      },
+      {
+        "id": 1,
+        "name": "Riven Redimida"
+      },
+      {
+        "id": 2,
+        "name": "Riven Elite Carmesim"
+      },
+      {
+        "id": 3,
+        "name": "Riven Coelha de Batalha"
+      },
+      {
+        "id": 4,
+        "name": "Riven Mundial 2012"
+      },
+      {
+        "id": 5,
+        "name": "Riven Espada Dracônica"
+      },
+      {
+        "id": 6,
+        "name": "Riven Fliperama"
+      },
+      {
+        "id": 7,
+        "name": "Riven Mundial 2012 Revigorada"
+      },
+      {
+        "id": 16,
+        "name": "Riven Emissária da Luz"
+      },
+      {
+        "id": 18,
+        "name": "Pulsefire Riven"
+      },
+      {
+        "id": 20,
+        "name": "Riven Espada Valorosa"
+      },
+      {
+        "id": 22,
+        "name": "Riven Espada Valorosa de Prestígio"
+      },
+      {
+        "id": 23,
+        "name": "Riven Florescer Espiritual"
+      },
+      {
+        "id": 34,
+        "name": "Riven Sentinela"
+      },
+      {
+        "id": 44,
+        "name": "Riven Coelha de Batalha Prime"
+      },
+      {
+        "id": 45,
+        "name": "Riven Espada Valorosa de Prestígio (2022)"
+      },
+      {
+        "id": 55,
+        "name": "Riven Pacto Quebrado"
+      },
+      {
+        "id": 63,
+        "name": "Riven Emboscada Primordial"
+      }
+    ]
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "title": "a Ameaça Mecânica",
+    "icon": "Rumble.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Rumble"
+      },
+      {
+        "id": 1,
+        "name": "Rumble de Férias"
+      },
+      {
+        "id": 2,
+        "name": "Rumble Ratazana do Mar"
+      },
+      {
+        "id": 3,
+        "name": "Rumble Supergaláctico"
+      },
+      {
+        "id": 4,
+        "name": "Rumble Barão das Terras Áridas"
+      },
+      {
+        "id": 13,
+        "name": "Rumble Embalos no Espaço"
+      },
+      {
+        "id": 23,
+        "name": "Rumble Kawaii Café"
+      }
+    ]
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "title": "o Mago Rúnico",
+    "icon": "Ryze.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ryze"
+      },
+      {
+        "id": 1,
+        "name": "Ryze Jovem"
+      },
+      {
+        "id": 2,
+        "name": "Ryze Tribal"
+      },
+      {
+        "id": 3,
+        "name": "Tio Ryze"
+      },
+      {
+        "id": 4,
+        "name": "Ryze Triunfante"
+      },
+      {
+        "id": 5,
+        "name": "Mestre Ryze"
+      },
+      {
+        "id": 6,
+        "name": "Ryze Zumbi"
+      },
+      {
+        "id": 7,
+        "name": "Ryze Cristal Negro"
+      },
+      {
+        "id": 8,
+        "name": "Ryze Pirata"
+      },
+      {
+        "id": 9,
+        "name": "Ryze Barba Branca"
+      },
+      {
+        "id": 10,
+        "name": "SKT T1 Ryze"
+      },
+      {
+        "id": 11,
+        "name": "Ryze Mundial 2019"
+      },
+      {
+        "id": 13,
+        "name": "Ryze Guardião das Areias"
+      },
+      {
+        "id": 20,
+        "name": "Ryze Arcana"
+      }
+    ]
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "title": "a Rosa do Deserto",
+    "icon": "Samira.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Samira"
+      },
+      {
+        "id": 1,
+        "name": "Samira PsyOps"
+      },
+      {
+        "id": 10,
+        "name": "Samira Embalos no Espaço"
+      },
+      {
+        "id": 20,
+        "name": "Samira Velho Oeste"
+      },
+      {
+        "id": 30,
+        "name": "Samira Soul Fighter"
+      }
+    ]
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "title": "a Fúria do Norte",
+    "icon": "Sejuani.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Sejuani"
+      },
+      {
+        "id": 1,
+        "name": "Sejuani Presas de Sabre"
+      },
+      {
+        "id": 2,
+        "name": "Sejuani Amazona das Trevas"
+      },
+      {
+        "id": 3,
+        "name": "Sejuani Tradicional"
+      },
+      {
+        "id": 4,
+        "name": "Sejuani Cavalaria Ursina"
+      },
+      {
+        "id": 5,
+        "name": "Sejuani Montada em Poro"
+      },
+      {
+        "id": 6,
+        "name": "Sejuani Caçadora de Feras"
+      },
+      {
+        "id": 7,
+        "name": "Sejuani Auryn"
+      },
+      {
+        "id": 8,
+        "name": "Sejuani Fogos de Artifício"
+      },
+      {
+        "id": 15,
+        "name": "Sejuani Hextec"
+      },
+      {
+        "id": 16,
+        "name": "PROJETO: Sejuani"
+      },
+      {
+        "id": 26,
+        "name": "Sejuani Eclipse Solar"
+      },
+      {
+        "id": 36,
+        "name": "Sejuani Vitoriosa"
+      }
+    ]
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "title": "A Redentora",
+    "icon": "Senna.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Senna"
+      },
+      {
+        "id": 1,
+        "name": "Senna True Damage"
+      },
+      {
+        "id": 9,
+        "name": "Senna True Damage de Prestígio"
+      },
+      {
+        "id": 10,
+        "name": "Senna Velho Oeste"
+      },
+      {
+        "id": 16,
+        "name": "PROJETO: Senna"
+      },
+      {
+        "id": 26,
+        "name": "Senna Eclipse Lunar"
+      },
+      {
+        "id": 27,
+        "name": "Senna Eclipse Lunar de Prestígio"
+      },
+      {
+        "id": 36,
+        "name": "Senna Feiticeira"
+      },
+      {
+        "id": 46,
+        "name": "Senna Guardiã Estelar"
+      },
+      {
+        "id": 56,
+        "name": "Senna Bênção do Inverno"
+      }
+    ]
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "title": "a Cantora Sonhadora",
+    "icon": "Seraphine.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Seraphine"
+      },
+      {
+        "id": 1,
+        "name": "Seraphine K/DA ALL OUT Indie"
+      },
+      {
+        "id": 2,
+        "name": "Seraphine K/DA ALL OUT Rumo ao Estrelato"
+      },
+      {
+        "id": 3,
+        "name": "Seraphine K/DA ALL OUT Superstar"
+      },
+      {
+        "id": 4,
+        "name": "Seraphine Fênix Graciosa"
+      },
+      {
+        "id": 14,
+        "name": "Seraphine Canção do Oceano"
+      },
+      {
+        "id": 15,
+        "name": "Seraphine Canção do Oceano de Prestígio"
+      },
+      {
+        "id": 24,
+        "name": "Seraphine Corte das Fadas"
+      },
+      {
+        "id": 34,
+        "name": "Seraphine Guardiã Estelar"
+      },
+      {
+        "id": 43,
+        "name": "Seraphine Ave de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "title": "o Chefe",
+    "icon": "Sett.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Sett"
+      },
+      {
+        "id": 1,
+        "name": "Sett Reinos Mech"
+      },
+      {
+        "id": 8,
+        "name": "Sett Dragão de Obsidiana"
+      },
+      {
+        "id": 9,
+        "name": "Sett Dragão de Obsidiana de Prestígio"
+      },
+      {
+        "id": 10,
+        "name": "Sett Curtindo o Verão"
+      },
+      {
+        "id": 19,
+        "name": "Sett Fogos de Artifício"
+      },
+      {
+        "id": 38,
+        "name": "Sett Florescer Espiritual"
+      },
+      {
+        "id": 45,
+        "name": "Sett Soul Fighter"
+      },
+      {
+        "id": 56,
+        "name": "Sett HEARTSTEEL"
+      }
+    ]
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "title": "o Bufão Demoníaco",
+    "icon": "Shaco.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Shaco"
+      },
+      {
+        "id": 1,
+        "name": "Shaco Chapeleiro Maluco"
+      },
+      {
+        "id": 2,
+        "name": "Shaco Bobo da Corte"
+      },
+      {
+        "id": 3,
+        "name": "Shaco Quebra-nozes"
+      },
+      {
+        "id": 4,
+        "name": "Shaco de Brinquedo"
+      },
+      {
+        "id": 5,
+        "name": "Shaco do Manicômio"
+      },
+      {
+        "id": 6,
+        "name": "Shaco Goseong"
+      },
+      {
+        "id": 7,
+        "name": "Shacoringa"
+      },
+      {
+        "id": 8,
+        "name": "Shaco Estrela Negra"
+      },
+      {
+        "id": 15,
+        "name": "Shaco Arcanista"
+      },
+      {
+        "id": 23,
+        "name": "Shaco Pesadelo na Cidade do Crime"
+      },
+      {
+        "id": 33,
+        "name": "Shaco Bênção do Inverno"
+      },
+      {
+        "id": 43,
+        "name": "Shaco Soul Fighter"
+      },
+      {
+        "id": 44,
+        "name": "Shaco Soul Fighter de Prestígio"
+      },
+      {
+        "id": 54,
+        "name": "Shaco Noite Apavorante"
+      }
+    ]
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "title": "o Olho do Crepúsculo",
+    "icon": "Shen.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Shen"
+      },
+      {
+        "id": 1,
+        "name": "Shen Gélido"
+      },
+      {
+        "id": 2,
+        "name": "Shen de Armadura Dourada"
+      },
+      {
+        "id": 3,
+        "name": "Cirurgião Shen"
+      },
+      {
+        "id": 4,
+        "name": "Shen Lua Sangrenta"
+      },
+      {
+        "id": 5,
+        "name": "Shen Mestre Samurai"
+      },
+      {
+        "id": 6,
+        "name": "TPA Shen"
+      },
+      {
+        "id": 15,
+        "name": "Pulsefire Shen"
+      },
+      {
+        "id": 16,
+        "name": "Shen Infernal"
+      },
+      {
+        "id": 22,
+        "name": "Shen PsyOps"
+      },
+      {
+        "id": 40,
+        "name": "Shen Lâmina do Trovão"
+      },
+      {
+        "id": 49,
+        "name": "Shen Guardião das Cinzas"
+      }
+    ]
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "title": "a Meio-Dragão",
+    "icon": "Shyvana.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Shyvana"
+      },
+      {
+        "id": 1,
+        "name": "Shyvana de Armadura de Ferro"
+      },
+      {
+        "id": 2,
+        "name": "Shyvana Garras-de-Crânio"
+      },
+      {
+        "id": 3,
+        "name": "Shyvana Chamas Negras"
+      },
+      {
+        "id": 4,
+        "name": "Shyvana Dragão de Gelo"
+      },
+      {
+        "id": 5,
+        "name": "Shyvana Mundial 2014"
+      },
+      {
+        "id": 6,
+        "name": "Shyvana Supergaláctica"
+      },
+      {
+        "id": 8,
+        "name": "Shyvana Destruída"
+      },
+      {
+        "id": 17,
+        "name": "Shyvana Jornada Imortal"
+      }
+    ]
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "title": "o Químico Louco",
+    "icon": "Singed.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Singed"
+      },
+      {
+        "id": 1,
+        "name": "Singed Pelotão Riot"
+      },
+      {
+        "id": 2,
+        "name": "Singed Hextec"
+      },
+      {
+        "id": 3,
+        "name": "Singed Surfista"
+      },
+      {
+        "id": 4,
+        "name": "Singed Cientista Louco"
+      },
+      {
+        "id": 5,
+        "name": "Singed Aprimorado"
+      },
+      {
+        "id": 6,
+        "name": "Singed Dia Nevado"
+      },
+      {
+        "id": 7,
+        "name": "Singed SSW"
+      },
+      {
+        "id": 8,
+        "name": "Singed Flagelo Negro"
+      },
+      {
+        "id": 9,
+        "name": "Singed Apicultor"
+      },
+      {
+        "id": 10,
+        "name": "Singed da Resistência"
+      },
+      {
+        "id": 19,
+        "name": "Singed Astronauta"
+      },
+      {
+        "id": 28,
+        "name": "Singed Laboratório de Cintila de Arcane"
+      }
+    ]
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "title": "o Colosso Morto-Vivo",
+    "icon": "Sion.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Sion"
+      },
+      {
+        "id": 1,
+        "name": "Sion Hextec"
+      },
+      {
+        "id": 2,
+        "name": "Sion Bárbaro"
+      },
+      {
+        "id": 3,
+        "name": "Sion Lenhador"
+      },
+      {
+        "id": 4,
+        "name": "Sion Anunciador da Guerra"
+      },
+      {
+        "id": 5,
+        "name": "Mech Zero Sion"
+      },
+      {
+        "id": 14,
+        "name": "Sion Quebra-mundos"
+      },
+      {
+        "id": 22,
+        "name": "Sion Gelo Sombrio"
+      },
+      {
+        "id": 30,
+        "name": "Sion Velho Oeste"
+      },
+      {
+        "id": 40,
+        "name": "Sion Paladino Cósmico"
+      }
+    ]
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "title": "a Mestra da Batalha",
+    "icon": "Sivir.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Sivir"
+      },
+      {
+        "id": 1,
+        "name": "Sivir, a Princesa Guerreira"
+      },
+      {
+        "id": 2,
+        "name": "Sivir Maravilha"
+      },
+      {
+        "id": 3,
+        "name": "Sivir Caçadora"
+      },
+      {
+        "id": 4,
+        "name": "Sivir Gatuna"
+      },
+      {
+        "id": 5,
+        "name": "PAX Sivir"
+      },
+      {
+        "id": 6,
+        "name": "Sivir Tempestade de Neve"
+      },
+      {
+        "id": 7,
+        "name": "Sivir Vigia"
+      },
+      {
+        "id": 8,
+        "name": "Sivir Vitoriosa"
+      },
+      {
+        "id": 9,
+        "name": "Neo PAX Sivir"
+      },
+      {
+        "id": 10,
+        "name": "Sivir Entregadora de Pizza"
+      },
+      {
+        "id": 16,
+        "name": "Sivir Lua Sangrenta"
+      },
+      {
+        "id": 25,
+        "name": "Sivir Odisseia"
+      },
+      {
+        "id": 34,
+        "name": "Sivir Kawaii Café"
+      },
+      {
+        "id": 43,
+        "name": "Sivir Eclipse Solar"
+      },
+      {
+        "id": 50,
+        "name": "Sivir Criadora Mítica"
+      },
+      {
+        "id": 51,
+        "name": "Sivir Criadora Mítica de Prestígio"
+      },
+      {
+        "id": 61,
+        "name": "Sivir Emboscada Primordial"
+      },
+      {
+        "id": 70,
+        "name": "Aniversivir"
+      }
+    ]
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "title": "o Soberano Primordial",
+    "icon": "Skarner.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Skarner"
+      },
+      {
+        "id": 1,
+        "name": "Skarner Escorpião do Deserto"
+      },
+      {
+        "id": 2,
+        "name": "Skarner Runas da Terra"
+      },
+      {
+        "id": 3,
+        "name": "Skarner Máquina de Combate Alfa"
+      },
+      {
+        "id": 4,
+        "name": "Skarner Guardião das Areias"
+      },
+      {
+        "id": 5,
+        "name": "Skarner Ferrão Cósmico"
+      }
+    ]
+  },
+  {
+    "id": "Smolder",
+    "name": "Smolder",
+    "title": "o Filhote Flamejante",
+    "icon": "Smolder.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Smolder"
+      },
+      {
+        "id": 1,
+        "name": "Smolder Escamas Celestiais"
+      }
+    ]
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "title": "a Mestra das Cordas",
+    "icon": "Sona.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Sona"
+      },
+      {
+        "id": 1,
+        "name": "Sona Musa"
+      },
+      {
+        "id": 2,
+        "name": "Sona Pentakill"
+      },
+      {
+        "id": 3,
+        "name": "Sona Noite Feliz"
+      },
+      {
+        "id": 4,
+        "name": "Sona Guqin"
+      },
+      {
+        "id": 5,
+        "name": "Sona Fliperama"
+      },
+      {
+        "id": 6,
+        "name": "DJ Sona"
+      },
+      {
+        "id": 7,
+        "name": "Sona Queridinha"
+      },
+      {
+        "id": 9,
+        "name": "Sona Odisseia"
+      },
+      {
+        "id": 17,
+        "name": "Sona PsyOps"
+      },
+      {
+        "id": 26,
+        "name": "Sona Pentakill III: Lost Chapter"
+      },
+      {
+        "id": 35,
+        "name": "Sona Guardiã Estelar"
+      },
+      {
+        "id": 45,
+        "name": "Sona Jornada Imortal"
+      },
+      {
+        "id": 46,
+        "name": "Sona Jornada Imortal de Prestígio"
+      },
+      {
+        "id": 56,
+        "name": "Sona Vitoriosa"
+      }
+    ]
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "title": "a Filha das Estrelas",
+    "icon": "Soraka.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Soraka"
+      },
+      {
+        "id": 1,
+        "name": "Soraka Dríade"
+      },
+      {
+        "id": 2,
+        "name": "Soraka Divina"
+      },
+      {
+        "id": 3,
+        "name": "Soraka Celestina"
+      },
+      {
+        "id": 4,
+        "name": "Soraka Ceifadora"
+      },
+      {
+        "id": 5,
+        "name": "Soraka Ordem da Banana"
+      },
+      {
+        "id": 6,
+        "name": "Soraka Cibernética"
+      },
+      {
+        "id": 7,
+        "name": "Soraka Guardiã Estelar"
+      },
+      {
+        "id": 8,
+        "name": "Soraka Pijaminha Estelar"
+      },
+      {
+        "id": 9,
+        "name": "Soraka Inverno Mágico"
+      },
+      {
+        "id": 15,
+        "name": "Soraka Emissária da Luz"
+      },
+      {
+        "id": 16,
+        "name": "Soraka Emissária da Escuridão"
+      },
+      {
+        "id": 17,
+        "name": "Soraka Guardiã Estelar de Prestígio"
+      },
+      {
+        "id": 18,
+        "name": "Soraka Kawaii Café"
+      },
+      {
+        "id": 27,
+        "name": "Soraka Florescer Espiritual"
+      },
+      {
+        "id": 37,
+        "name": "Soraka Jornada Imortal"
+      },
+      {
+        "id": 44,
+        "name": "Soraka Corte das Fadas"
+      }
+    ]
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "title": "o Grande General Noxiano",
+    "icon": "Swain.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Swain"
+      },
+      {
+        "id": 1,
+        "name": "Swain da Fronteira Polar"
+      },
+      {
+        "id": 2,
+        "name": "Swain Águas de Sentina"
+      },
+      {
+        "id": 3,
+        "name": "Swain Tirano"
+      },
+      {
+        "id": 4,
+        "name": "Swain Mestre dos Dragões"
+      },
+      {
+        "id": 11,
+        "name": "Swain Hextec"
+      },
+      {
+        "id": 12,
+        "name": "Swain Rosa de Cristal"
+      },
+      {
+        "id": 21,
+        "name": "Swain Bênção do Inverno"
+      },
+      {
+        "id": 32,
+        "name": "Swain Escolhido do Lobo"
+      },
+      {
+        "id": 33,
+        "name": "Swain Escolhido do Lobo de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "title": "o Abjugado",
+    "icon": "Sylas.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Sylas"
+      },
+      {
+        "id": 1,
+        "name": "Sylas Espectro Lunar"
+      },
+      {
+        "id": 8,
+        "name": "Sylas de Freljord"
+      },
+      {
+        "id": 13,
+        "name": "PROJETO: Sylas"
+      },
+      {
+        "id": 14,
+        "name": "PROJETO: Sylas de Prestígio"
+      },
+      {
+        "id": 24,
+        "name": "Sylas Lobo de Batalha"
+      },
+      {
+        "id": 34,
+        "name": "Sylas Matador das Cinzas"
+      },
+      {
+        "id": 36,
+        "name": "Sylas Bênção do Inverno"
+      },
+      {
+        "id": 46,
+        "name": "Sylas Estrela Negra"
+      }
+    ]
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "title": "a Soberana Sombria",
+    "icon": "Syndra.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Syndra"
+      },
+      {
+        "id": 1,
+        "name": "Syndra Justiceira"
+      },
+      {
+        "id": 2,
+        "name": "Syndra Atlante"
+      },
+      {
+        "id": 3,
+        "name": "Syndra Dama de Ouros"
+      },
+      {
+        "id": 4,
+        "name": "Syndra Dia Nevado"
+      },
+      {
+        "id": 5,
+        "name": "SKT T1 Syndra"
+      },
+      {
+        "id": 6,
+        "name": "Syndra Guardiã Estelar"
+      },
+      {
+        "id": 7,
+        "name": "Syndra Curtindo o Verão"
+      },
+      {
+        "id": 16,
+        "name": "Syndra Rosa Definhada"
+      },
+      {
+        "id": 25,
+        "name": "Syndra Feiticeira"
+      },
+      {
+        "id": 34,
+        "name": "Syndra Guardiã Estelar de Prestígio"
+      },
+      {
+        "id": 44,
+        "name": "Syndra Florescer Espiritual"
+      },
+      {
+        "id": 54,
+        "name": "Syndra Congregação das Bruxas"
+      }
+    ]
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "title": "o Rei do Rio",
+    "icon": "TahmKench.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Tahm Kench"
+      },
+      {
+        "id": 1,
+        "name": "Tahm Kench Mestre-Cuca"
+      },
+      {
+        "id": 2,
+        "name": "Urf Kench"
+      },
+      {
+        "id": 3,
+        "name": "Tahm Kench Imperador das Moedas"
+      },
+      {
+        "id": 11,
+        "name": "Tahm Kench Arcana"
+      },
+      {
+        "id": 20,
+        "name": "Tahm Kench Velho Oeste"
+      },
+      {
+        "id": 30,
+        "name": "Tahm Kench Pergaminhos Shan Hai"
+      }
+    ]
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "title": "a Tecelã de Pedras",
+    "icon": "Taliyah.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Taliyah"
+      },
+      {
+        "id": 1,
+        "name": "Taliyah de Freljord"
+      },
+      {
+        "id": 2,
+        "name": "SSG Taliyah"
+      },
+      {
+        "id": 3,
+        "name": "Taliyah Curtindo o Verão"
+      },
+      {
+        "id": 11,
+        "name": "Taliyah Guardiã Estelar"
+      },
+      {
+        "id": 21,
+        "name": "Taliyah Crystalis Motus"
+      }
+    ]
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "title": "a Sombra da Lâmina",
+    "icon": "Talon.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Talon"
+      },
+      {
+        "id": 1,
+        "name": "Talon Renegado"
+      },
+      {
+        "id": 2,
+        "name": "Talon Elite Carmesim"
+      },
+      {
+        "id": 3,
+        "name": "Talon Lâminas Dracônicas"
+      },
+      {
+        "id": 4,
+        "name": "Talon SSW"
+      },
+      {
+        "id": 5,
+        "name": "Talon Lua Sangrenta"
+      },
+      {
+        "id": 12,
+        "name": "Talon Espada Resiliente"
+      },
+      {
+        "id": 20,
+        "name": "Talon Bosque Sombrio"
+      },
+      {
+        "id": 29,
+        "name": "Talon Rosa Definhada"
+      },
+      {
+        "id": 38,
+        "name": "Talon Velho Oeste"
+      },
+      {
+        "id": 39,
+        "name": "Talon Velho Oeste de Prestígio"
+      },
+      {
+        "id": 49,
+        "name": "Talon Emboscada Primordial"
+      }
+    ]
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "title": "o Escudo de Valoran",
+    "icon": "Taric.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Taric"
+      },
+      {
+        "id": 1,
+        "name": "Taric Esmeralda"
+      },
+      {
+        "id": 2,
+        "name": "Taric de Armadura da Quinta Era"
+      },
+      {
+        "id": 3,
+        "name": "Taric Cavaleiro de Hematita"
+      },
+      {
+        "id": 4,
+        "name": "Taric Curtindo o Verão"
+      },
+      {
+        "id": 9,
+        "name": "Taric Escudo Cintilante"
+      },
+      {
+        "id": 18,
+        "name": "Taric Embalos no Espaço"
+      }
+    ]
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "title": "o Explorador Veloz",
+    "icon": "Teemo.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Teemo"
+      },
+      {
+        "id": 1,
+        "name": "Teemo Duende Feliz"
+      },
+      {
+        "id": 2,
+        "name": "Teemo Batedor"
+      },
+      {
+        "id": 3,
+        "name": "Teemo Texugo"
+      },
+      {
+        "id": 4,
+        "name": "Teemo Astronauta"
+      },
+      {
+        "id": 5,
+        "name": "Teemo Pelo Branquinho"
+      },
+      {
+        "id": 6,
+        "name": "Super Teemo"
+      },
+      {
+        "id": 7,
+        "name": "Teemo Panda"
+      },
+      {
+        "id": 8,
+        "name": "Teemo Esquadrão Ômega"
+      },
+      {
+        "id": 14,
+        "name": "Capeteemo"
+      },
+      {
+        "id": 18,
+        "name": "Abelheemo"
+      },
+      {
+        "id": 25,
+        "name": "Teemo Florescer Espiritual"
+      },
+      {
+        "id": 27,
+        "name": "Teemo Florescer Espiritual de Prestígio"
+      },
+      {
+        "id": 37,
+        "name": "Teemo Fogos de Artifício"
+      },
+      {
+        "id": 47,
+        "name": "Teemo Embalos no Espaço"
+      }
+    ]
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "title": "o Guardião das Correntes",
+    "icon": "Thresh.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Thresh"
+      },
+      {
+        "id": 1,
+        "name": "Thresh Terror Profundo"
+      },
+      {
+        "id": 2,
+        "name": "Thresh Mundial 2013"
+      },
+      {
+        "id": 3,
+        "name": "Thresh Lua Sangrenta"
+      },
+      {
+        "id": 4,
+        "name": "Thresh SSW"
+      },
+      {
+        "id": 5,
+        "name": "Thresh Estrela Negra"
+      },
+      {
+        "id": 6,
+        "name": "Thresh Velho Oeste"
+      },
+      {
+        "id": 13,
+        "name": "Pulsefire Thresh"
+      },
+      {
+        "id": 14,
+        "name": "Pulsefire Thresh de Prestígio"
+      },
+      {
+        "id": 15,
+        "name": "FPX Thresh"
+      },
+      {
+        "id": 17,
+        "name": "Thresh Florescer Espiritual"
+      },
+      {
+        "id": 27,
+        "name": "Thresh Liberto"
+      },
+      {
+        "id": 28,
+        "name": "Thresh Dragão de Aço"
+      },
+      {
+        "id": 38,
+        "name": "Pulsefire Thresh de Prestígio (2022)"
+      },
+      {
+        "id": 39,
+        "name": "Thresh Imperador Lunar"
+      },
+      {
+        "id": 49,
+        "name": "Thresh Bênção do Inverno"
+      },
+      {
+        "id": 59,
+        "name": "Thresh Tio da Limpeza"
+      }
+    ]
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "title": "a Artilheira Yordle",
+    "icon": "Tristana.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Tristana"
+      },
+      {
+        "id": 1,
+        "name": "Tristana Garota Riot"
+      },
+      {
+        "id": 2,
+        "name": "Tristana Duende Natalina"
+      },
+      {
+        "id": 3,
+        "name": "Tristana Bombeira"
+      },
+      {
+        "id": 4,
+        "name": "Tristana Guerrilheira"
+      },
+      {
+        "id": 5,
+        "name": "Tristana Bucaneira"
+      },
+      {
+        "id": 6,
+        "name": "Tristana Garota-Foguete"
+      },
+      {
+        "id": 10,
+        "name": "Tristana Treinadora de Dragões"
+      },
+      {
+        "id": 11,
+        "name": "Tristana Feiticeira"
+      },
+      {
+        "id": 12,
+        "name": "Tristana Esquadrão Ômega"
+      },
+      {
+        "id": 24,
+        "name": "Satristânica"
+      },
+      {
+        "id": 33,
+        "name": "Tristana Cosplay de Pingu"
+      },
+      {
+        "id": 40,
+        "name": "Tristana Hextec"
+      },
+      {
+        "id": 41,
+        "name": "Tristana Fogos de Artifício"
+      },
+      {
+        "id": 51,
+        "name": "Tristana Florescer Espiritual"
+      },
+      {
+        "id": 61,
+        "name": "Tristana Corte das Fadas"
+      }
+    ]
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "title": "o Rei dos Trolls",
+    "icon": "Trundle.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Trundle"
+      },
+      {
+        "id": 1,
+        "name": "Trundle Rebatedor"
+      },
+      {
+        "id": 2,
+        "name": "Trundle Ferro-Velho"
+      },
+      {
+        "id": 3,
+        "name": "Trundle Tradicional"
+      },
+      {
+        "id": 4,
+        "name": "Guarda Trundle"
+      },
+      {
+        "id": 5,
+        "name": "Trundle Quebra-mundos"
+      },
+      {
+        "id": 6,
+        "name": "Trundle Caçador de Dragões"
+      },
+      {
+        "id": 12,
+        "name": "Trundle Noite Apavorante"
+      },
+      {
+        "id": 21,
+        "name": "Trundle Fã de Esports"
+      }
+    ]
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "title": "o Rei Bárbaro",
+    "icon": "Tryndamere.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Tryndamere"
+      },
+      {
+        "id": 1,
+        "name": "Tryndamere das Montanhas"
+      },
+      {
+        "id": 2,
+        "name": "Rei Tryndamere"
+      },
+      {
+        "id": 3,
+        "name": "Tryndamere Viking"
+      },
+      {
+        "id": 4,
+        "name": "Tryndamere Espada Demoníaca"
+      },
+      {
+        "id": 5,
+        "name": "Tryndamere Sultão"
+      },
+      {
+        "id": 6,
+        "name": "Tryndamere Reinos Combatentes"
+      },
+      {
+        "id": 7,
+        "name": "Tryndamere Terror Noturno"
+      },
+      {
+        "id": 8,
+        "name": "Tryndamere Caçador de Feras"
+      },
+      {
+        "id": 9,
+        "name": "Tryndamere Quimtec"
+      },
+      {
+        "id": 10,
+        "name": "Tryndamere Lua Sangrenta"
+      },
+      {
+        "id": 18,
+        "name": "Tryndamere Emissário da Escuridão"
+      },
+      {
+        "id": 27,
+        "name": "Tryndamere Vitorioso"
+      }
+    ]
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "title": "o Mestre das Cartas",
+    "icon": "TwistedFate.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Twisted Fate"
+      },
+      {
+        "id": 1,
+        "name": "PAX Twisted Fate"
+      },
+      {
+        "id": 2,
+        "name": "Twisted Fate Valete de Copas"
+      },
+      {
+        "id": 3,
+        "name": "O Magnífico Twisted Fate"
+      },
+      {
+        "id": 4,
+        "name": "Twisted Fate Dançarino de Tango"
+      },
+      {
+        "id": 5,
+        "name": "Twisted Fate Velho Oeste"
+      },
+      {
+        "id": 6,
+        "name": "Twisted Fate Mosqueteiro"
+      },
+      {
+        "id": 7,
+        "name": "Twisted Fate do Submundo"
+      },
+      {
+        "id": 8,
+        "name": "Twisted Fate Árbitro"
+      },
+      {
+        "id": 9,
+        "name": "Twisted Fate Punguista"
+      },
+      {
+        "id": 10,
+        "name": "Twisted Fate Lua Sangrenta"
+      },
+      {
+        "id": 11,
+        "name": "Pulsefire Twisted Fate"
+      },
+      {
+        "id": 13,
+        "name": "Twisted Fate Odisseia"
+      },
+      {
+        "id": 23,
+        "name": "Twisted Fate DWG"
+      },
+      {
+        "id": 25,
+        "name": "Twisted Fate Pesadelo na Cidade do Crime"
+      },
+      {
+        "id": 36,
+        "name": "Twisted Fate Embalos no Espaço"
+      }
+    ]
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "title": "o Semeador da Peste",
+    "icon": "Twitch.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Twitch"
+      },
+      {
+        "id": 1,
+        "name": "Twitch Rei do Crime"
+      },
+      {
+        "id": 2,
+        "name": "Twitch da Vila Nevada"
+      },
+      {
+        "id": 3,
+        "name": "Twitch Medieval"
+      },
+      {
+        "id": 4,
+        "name": "Twitch Cidade do Crime"
+      },
+      {
+        "id": 5,
+        "name": "Twitch Vândalo"
+      },
+      {
+        "id": 6,
+        "name": "Twitch Trombadinha"
+      },
+      {
+        "id": 7,
+        "name": "Twitch SSW"
+      },
+      {
+        "id": 8,
+        "name": "Twitch Esquadrão Ômega"
+      },
+      {
+        "id": 12,
+        "name": "Twitch Rei Gelado"
+      },
+      {
+        "id": 27,
+        "name": "Twitch Passos Leves"
+      },
+      {
+        "id": 36,
+        "name": "Twitch Caçador de Dragões"
+      },
+      {
+        "id": 45,
+        "name": "Twitch Velho Oeste"
+      },
+      {
+        "id": 55,
+        "name": "Twitch ReiQueijão"
+      }
+    ]
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "title": "o Andarilho Espiritual",
+    "icon": "Udyr.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Udyr"
+      },
+      {
+        "id": 1,
+        "name": "Udyr Faixa Preta"
+      },
+      {
+        "id": 2,
+        "name": "Udyr Xamã"
+      },
+      {
+        "id": 3,
+        "name": "Udyr Guardião Espiritual"
+      },
+      {
+        "id": 4,
+        "name": "Certamente não é o Udyr"
+      },
+      {
+        "id": 5,
+        "name": "Udyr Oráculo Dracônico"
+      },
+      {
+        "id": 6,
+        "name": "Udyr Tinta Sombria"
+      }
+    ]
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "title": "o Encouraçado",
+    "icon": "Urgot.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Urgot"
+      },
+      {
+        "id": 1,
+        "name": "Carangot, o Inimigo Gigante"
+      },
+      {
+        "id": 2,
+        "name": "Urgot Açougueiro"
+      },
+      {
+        "id": 3,
+        "name": "Urgot Máquina de Combate"
+      },
+      {
+        "id": 9,
+        "name": "Urgot Velho Oeste"
+      },
+      {
+        "id": 15,
+        "name": "Urgot Cosplay de Pijaminha Estelar"
+      },
+      {
+        "id": 23,
+        "name": "Urgot Noite Apavorante"
+      }
+    ]
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "title": "a Flecha da Vingança",
+    "icon": "Varus.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Varus"
+      },
+      {
+        "id": 1,
+        "name": "Varus do Cristal Arruinado"
+      },
+      {
+        "id": 2,
+        "name": "Varus Arco Celeste"
+      },
+      {
+        "id": 3,
+        "name": "Varus Operação no Ártico"
+      },
+      {
+        "id": 4,
+        "name": "Varus Cupido Mortal"
+      },
+      {
+        "id": 5,
+        "name": "Varus Dardos Velozes"
+      },
+      {
+        "id": 6,
+        "name": "Varus Estrela Negra"
+      },
+      {
+        "id": 7,
+        "name": "Varus Conquistador"
+      },
+      {
+        "id": 9,
+        "name": "Varus Infernal"
+      },
+      {
+        "id": 16,
+        "name": "PROJETO: Varus"
+      },
+      {
+        "id": 17,
+        "name": "Varus Caçador Cósmico"
+      },
+      {
+        "id": 34,
+        "name": "Varus Velho Oeste"
+      },
+      {
+        "id": 44,
+        "name": "Varus Lua Nevada"
+      },
+      {
+        "id": 53,
+        "name": "Varus Empíreo"
+      }
+    ]
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "title": "a Caçadora Noturna",
+    "icon": "Vayne.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Vayne"
+      },
+      {
+        "id": 1,
+        "name": "Vayne Defensora"
+      },
+      {
+        "id": 2,
+        "name": "Vayne Aristocrata"
+      },
+      {
+        "id": 3,
+        "name": "Vayne Caçadora de Dragões"
+      },
+      {
+        "id": 4,
+        "name": "Vayne Cupido Mortal"
+      },
+      {
+        "id": 5,
+        "name": "SKT T1 Vayne"
+      },
+      {
+        "id": 6,
+        "name": "Vayne Arco Celeste"
+      },
+      {
+        "id": 10,
+        "name": "Vayne Ladra de Almas"
+      },
+      {
+        "id": 11,
+        "name": "PROJETO: Vayne"
+      },
+      {
+        "id": 12,
+        "name": "Vayne Fogos de Artifício"
+      },
+      {
+        "id": 13,
+        "name": "Vayne Fogos de Artifício de Prestígio"
+      },
+      {
+        "id": 14,
+        "name": "Vayne Florescer Espiritual"
+      },
+      {
+        "id": 15,
+        "name": "FPX Vayne"
+      },
+      {
+        "id": 25,
+        "name": "Vayne Sentinela"
+      },
+      {
+        "id": 32,
+        "name": "Vayne Morcego de Batalha"
+      },
+      {
+        "id": 33,
+        "name": "Vayne Fogos de Artifício de Prestígio (2022)"
+      },
+      {
+        "id": 44,
+        "name": "Vayne Emissária da Luz"
+      },
+      {
+        "id": 55,
+        "name": "Vayne Dracomante"
+      }
+    ]
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "title": "o Pequeno Mestre do Mal",
+    "icon": "Veigar.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Veigar"
+      },
+      {
+        "id": 1,
+        "name": "Veigar Mago Branco"
+      },
+      {
+        "id": 2,
+        "name": "Veigar Curling"
+      },
+      {
+        "id": 3,
+        "name": "Veigar Cinzento"
+      },
+      {
+        "id": 4,
+        "name": "Veigar Leprechaun"
+      },
+      {
+        "id": 5,
+        "name": "Barão Von Veigar"
+      },
+      {
+        "id": 6,
+        "name": "Veigar, o Supervilão"
+      },
+      {
+        "id": 7,
+        "name": "Veigar Noel Macabro"
+      },
+      {
+        "id": 8,
+        "name": "Veigar Chefão Final"
+      },
+      {
+        "id": 9,
+        "name": "Veigar Esquadrão Ômega"
+      },
+      {
+        "id": 13,
+        "name": "Veigar Sabugueiro"
+      },
+      {
+        "id": 23,
+        "name": "Veigar Cosplay de Ranzinzim"
+      },
+      {
+        "id": 32,
+        "name": "Veigar Astronauta"
+      },
+      {
+        "id": 41,
+        "name": "Veigar Domador de Monstros"
+      },
+      {
+        "id": 51,
+        "name": "Rei Abeigar"
+      },
+      {
+        "id": 60,
+        "name": "Veigar Noite Apavorante"
+      }
+    ]
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "title": "o Olho do Vazio",
+    "icon": "Velkoz.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Vel'Koz"
+      },
+      {
+        "id": 1,
+        "name": "Vel'Koz Máquina de Combate"
+      },
+      {
+        "id": 2,
+        "name": "Vel'Koz Arco Celeste"
+      },
+      {
+        "id": 3,
+        "name": "Certamente não é o Vel'Koz"
+      },
+      {
+        "id": 4,
+        "name": "Vel'Koz Infernal"
+      },
+      {
+        "id": 11,
+        "name": "Vel'Koz Gelo Sombrio"
+      },
+      {
+        "id": 20,
+        "name": "Mel'Koz"
+      }
+    ]
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "title": "a Melancolista",
+    "icon": "Vex.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Vex"
+      },
+      {
+        "id": 1,
+        "name": "Vex Emissária da Luz"
+      },
+      {
+        "id": 10,
+        "name": "Vex Empírea"
+      }
+    ]
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "title": "a Defensora de Piltover",
+    "icon": "Vi.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Vi"
+      },
+      {
+        "id": 1,
+        "name": "Vi Golpes de Neon"
+      },
+      {
+        "id": 2,
+        "name": "Vi Policial"
+      },
+      {
+        "id": 3,
+        "name": "Vi Galante"
+      },
+      {
+        "id": 4,
+        "name": "Vi Demoníaca"
+      },
+      {
+        "id": 5,
+        "name": "Vi Reinos Combatentes"
+      },
+      {
+        "id": 11,
+        "name": "PROJETO: Vi"
+      },
+      {
+        "id": 12,
+        "name": "Vi Destruidora de Corações"
+      },
+      {
+        "id": 20,
+        "name": "Vi PsyOps"
+      },
+      {
+        "id": 29,
+        "name": "Vi Subferia de Arcane"
+      },
+      {
+        "id": 30,
+        "name": "Vi Coração Despedaçado"
+      },
+      {
+        "id": 39,
+        "name": "Vi Emboscada Primordial"
+      },
+      {
+        "id": 48,
+        "name": "Vi Lutadora de Arcane"
+      }
+    ]
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "title": "O Rei Destruído",
+    "icon": "Viego.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Viego"
+      },
+      {
+        "id": 1,
+        "name": "Viego Fera Lunar"
+      },
+      {
+        "id": 10,
+        "name": "Viego Dissonância da Pentakill"
+      },
+      {
+        "id": 19,
+        "name": "Viego EDG"
+      },
+      {
+        "id": 21,
+        "name": "Rei Viego"
+      },
+      {
+        "id": 30,
+        "name": "Viego Soul Fighter"
+      },
+      {
+        "id": 37,
+        "name": "Viego Mundial 2024"
+      }
+    ]
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "title": "o Arauto do Arcano",
+    "icon": "Viktor.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Viktor"
+      },
+      {
+        "id": 1,
+        "name": "Viktor Robótico"
+      },
+      {
+        "id": 2,
+        "name": "Viktor Protótipo"
+      },
+      {
+        "id": 3,
+        "name": "Viktor Criador"
+      },
+      {
+        "id": 4,
+        "name": "Viktor Jurado de Morte"
+      },
+      {
+        "id": 5,
+        "name": "Viktor PsyOps"
+      },
+      {
+        "id": 14,
+        "name": "Viktor Velho Oeste"
+      },
+      {
+        "id": 24,
+        "name": "Viktor Salvador de Arcane"
+      }
+    ]
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "title": "o Sanguinário Escarlate",
+    "icon": "Vladimir.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Vladimir"
+      },
+      {
+        "id": 1,
+        "name": "Conde Vladimir"
+      },
+      {
+        "id": 2,
+        "name": "Marquês Vladimir"
+      },
+      {
+        "id": 3,
+        "name": "Vladimir Nosferatu"
+      },
+      {
+        "id": 4,
+        "name": "Vladimir Vândalo"
+      },
+      {
+        "id": 5,
+        "name": "Vladimir Lorde do Sangue"
+      },
+      {
+        "id": 6,
+        "name": "Vladimir Ladrão de Almas"
+      },
+      {
+        "id": 7,
+        "name": "Vladimir Colegial"
+      },
+      {
+        "id": 8,
+        "name": "Vladimir Águas Sombrias"
+      },
+      {
+        "id": 14,
+        "name": "Vladimir Emissário da Escuridão"
+      },
+      {
+        "id": 21,
+        "name": "Vladimir Devorador Cósmico"
+      },
+      {
+        "id": 30,
+        "name": "Vladimir Kawaii Café"
+      },
+      {
+        "id": 39,
+        "name": "Vladimir Pacto Quebrado"
+      }
+    ]
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "title": "a Tempestade Implacável",
+    "icon": "Volibear.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Volibear"
+      },
+      {
+        "id": 1,
+        "name": "Volibear Senhor do Trovão"
+      },
+      {
+        "id": 2,
+        "name": "Volibear Nevasca do Ártico"
+      },
+      {
+        "id": 3,
+        "name": "Volibear Armadura Rúnica"
+      },
+      {
+        "id": 4,
+        "name": "Capitão Volibear"
+      },
+      {
+        "id": 5,
+        "name": "Volibear El Rayo"
+      },
+      {
+        "id": 6,
+        "name": "O Urso dos Mil Flagelos"
+      },
+      {
+        "id": 7,
+        "name": "Volibear Dragão da Dualidade"
+      },
+      {
+        "id": 9,
+        "name": "Volibear Dragão da Dualidade de Prestígio"
+      },
+      {
+        "id": 19,
+        "name": "Volibear Tinta Sombria"
+      }
+    ]
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "title": "a Ira Desimpedida de Zaun",
+    "icon": "Warwick.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Warwick"
+      },
+      {
+        "id": 1,
+        "name": "Warwick Cinzento"
+      },
+      {
+        "id": 2,
+        "name": "Urf, o Peixe-Boi"
+      },
+      {
+        "id": 3,
+        "name": "Warwick Lobo Mau"
+      },
+      {
+        "id": 4,
+        "name": "Warwick Caçador da Tundra"
+      },
+      {
+        "id": 5,
+        "name": "Warwick Selvagem"
+      },
+      {
+        "id": 6,
+        "name": "Warwick Presas de Fogo"
+      },
+      {
+        "id": 7,
+        "name": "Warwick Hiena"
+      },
+      {
+        "id": 8,
+        "name": "Warwick Saqueador"
+      },
+      {
+        "id": 9,
+        "name": "Urfwick"
+      },
+      {
+        "id": 10,
+        "name": "Warwick Guardião Lunar"
+      },
+      {
+        "id": 16,
+        "name": "PROJETO: Warwick"
+      },
+      {
+        "id": 35,
+        "name": "Warwick Deus Antigo"
+      },
+      {
+        "id": 45,
+        "name": "Warwick Bênção do Inverno"
+      },
+      {
+        "id": 46,
+        "name": "Warwick Bênção do Inverno de Prestígio"
+      },
+      {
+        "id": 56,
+        "name": "Warwick Vander de Arcane"
+      }
+    ]
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "title": "a Rebelde",
+    "icon": "Xayah.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Xayah"
+      },
+      {
+        "id": 1,
+        "name": "Xayah Crepúsculo Cósmico"
+      },
+      {
+        "id": 2,
+        "name": "Xayah Queridinha"
+      },
+      {
+        "id": 3,
+        "name": "SSG Xayah"
+      },
+      {
+        "id": 4,
+        "name": "Xayah Guardiã Estelar"
+      },
+      {
+        "id": 8,
+        "name": "Xayah Sabugueiro"
+      },
+      {
+        "id": 17,
+        "name": "Xayah Fênix Corajosa"
+      },
+      {
+        "id": 26,
+        "name": "Xayah Fênix Corajosa de Prestígio"
+      },
+      {
+        "id": 28,
+        "name": "Xayah Arcana"
+      },
+      {
+        "id": 37,
+        "name": "Xayah Pacto Quebrado"
+      },
+      {
+        "id": 38,
+        "name": "Xayah Guardiã Estelar Redimida"
+      },
+      {
+        "id": 47,
+        "name": "Xayah Morcego de Batalha"
+      }
+    ]
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "title": "o Mago Ascendente",
+    "icon": "Xerath.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Xerath"
+      },
+      {
+        "id": 1,
+        "name": "Xerath Rúnico"
+      },
+      {
+        "id": 2,
+        "name": "Xerath Máquina de Combate"
+      },
+      {
+        "id": 3,
+        "name": "Xerath Terra Abrasada"
+      },
+      {
+        "id": 4,
+        "name": "Xerath Guardião das Areias"
+      },
+      {
+        "id": 5,
+        "name": "Xerath Estrela Negra"
+      },
+      {
+        "id": 12,
+        "name": "Xerath Arcana"
+      },
+      {
+        "id": 21,
+        "name": "Xerath Astronauta"
+      },
+      {
+        "id": 30,
+        "name": "Xerath Crystalis Indomitus"
+      }
+    ]
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "title": "o Senescal de Demacia",
+    "icon": "XinZhao.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Xin Zhao"
+      },
+      {
+        "id": 1,
+        "name": "Patrulheiro Xin Zhao"
+      },
+      {
+        "id": 2,
+        "name": "Xin Zhao Imperial"
+      },
+      {
+        "id": 3,
+        "name": "Xin Zhao Gladiador"
+      },
+      {
+        "id": 4,
+        "name": "Xin Zhao Hussardo Alado"
+      },
+      {
+        "id": 5,
+        "name": "Xin Zhao Reinos Combatentes"
+      },
+      {
+        "id": 6,
+        "name": "Xin Zhao Agente Secreto"
+      },
+      {
+        "id": 13,
+        "name": "Xin Zhao Caçador de Dragões"
+      },
+      {
+        "id": 20,
+        "name": "Xin Zhao Defensor Cósmico"
+      },
+      {
+        "id": 27,
+        "name": "Xin Zhao Saqueador"
+      },
+      {
+        "id": 36,
+        "name": "Xin Zhao Fogos de Artifício"
+      }
+    ]
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "title": "o Imperdoável",
+    "icon": "Yasuo.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Yasuo"
+      },
+      {
+        "id": 1,
+        "name": "Yasuo Velho Oeste"
+      },
+      {
+        "id": 2,
+        "name": "PROJETO: Yasuo"
+      },
+      {
+        "id": 3,
+        "name": "Yasuo Lua Sangrenta"
+      },
+      {
+        "id": 9,
+        "name": "Yasuo Emissário da Escuridão"
+      },
+      {
+        "id": 10,
+        "name": "Yasuo Odisseia"
+      },
+      {
+        "id": 17,
+        "name": "Yasuo Chefão"
+      },
+      {
+        "id": 18,
+        "name": "Yasuo True Damage"
+      },
+      {
+        "id": 35,
+        "name": "Yasuo True Damage de Prestígio"
+      },
+      {
+        "id": 36,
+        "name": "Yasuo Florescer Espiritual"
+      },
+      {
+        "id": 45,
+        "name": "Yasuo Lobo do Mar"
+      },
+      {
+        "id": 54,
+        "name": "Yasuo Dragão da Verdade"
+      },
+      {
+        "id": 55,
+        "name": "Yasuo Dragão dos Sonhos"
+      },
+      {
+        "id": 56,
+        "name": "Yasuo Tinta Sombria"
+      },
+      {
+        "id": 57,
+        "name": "Yasuo Tinta Sombria de Prestígio"
+      },
+      {
+        "id": 68,
+        "name": "Yasuo Profetizado"
+      },
+      {
+        "id": 77,
+        "name": "Yasuo Lobo de Batalha"
+      },
+      {
+        "id": 87,
+        "name": "Yasuo Emissário da Escuridão Gênesis"
+      }
+    ]
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "title": "o Inesquecido",
+    "icon": "Yone.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Yone"
+      },
+      {
+        "id": 1,
+        "name": "Yone Florescer Espiritual"
+      },
+      {
+        "id": 10,
+        "name": "Yone Academia de Batalha"
+      },
+      {
+        "id": 19,
+        "name": "Yone Emissário da Luz"
+      },
+      {
+        "id": 26,
+        "name": "Yone Canção do Oceano"
+      },
+      {
+        "id": 35,
+        "name": "Yone Tinta Sombria"
+      },
+      {
+        "id": 45,
+        "name": "Yone HEARTSTEEL"
+      },
+      {
+        "id": 46,
+        "name": "Yone HEARTSTEEL de Prestígio"
+      },
+      {
+        "id": 55,
+        "name": "Yone Velho Oeste"
+      },
+      {
+        "id": 58,
+        "name": "Yone Velho Oeste Pacificador"
+      }
+    ]
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "title": "o Pastor de Almas",
+    "icon": "Yorick.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Yorick"
+      },
+      {
+        "id": 1,
+        "name": "Yorick Necróforo"
+      },
+      {
+        "id": 2,
+        "name": "Yorick Pentakill"
+      },
+      {
+        "id": 3,
+        "name": "Yorick Arco Celeste"
+      },
+      {
+        "id": 4,
+        "name": "Miaurick"
+      },
+      {
+        "id": 12,
+        "name": "Yorick da Resistência"
+      },
+      {
+        "id": 21,
+        "name": "Yorick Pentakill III: Lost Chapter"
+      },
+      {
+        "id": 30,
+        "name": "Yorick Florescer Espiritual"
+      },
+      {
+        "id": 40,
+        "name": "Yorick Estrela Negra"
+      }
+    ]
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "title": "a Gata Mágica",
+    "icon": "Yuumi.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Yuumi"
+      },
+      {
+        "id": 1,
+        "name": "Yuumi Diretora da Academia"
+      },
+      {
+        "id": 11,
+        "name": "Yuumi Cupido Mortal"
+      },
+      {
+        "id": 19,
+        "name": "Yuumel"
+      },
+      {
+        "id": 28,
+        "name": "Yuumi Feiticeira"
+      },
+      {
+        "id": 37,
+        "name": "Yuumi EDG"
+      },
+      {
+        "id": 39,
+        "name": "Yuumi Shiba"
+      },
+      {
+        "id": 49,
+        "name": "Yuumi Gata Cibernética"
+      },
+      {
+        "id": 50,
+        "name": "Yuumi Gata Cibernética de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "title": "a Arma Secreta",
+    "icon": "Zac.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Zac"
+      },
+      {
+        "id": 1,
+        "name": "Zac Arma Especial"
+      },
+      {
+        "id": 2,
+        "name": "Zac Curtindo o Verão"
+      },
+      {
+        "id": 6,
+        "name": "SKT T1 Zac"
+      },
+      {
+        "id": 7,
+        "name": "Zac Máquina de Combate"
+      },
+      {
+        "id": 14,
+        "name": "Zac Empíreo"
+      },
+      {
+        "id": 24,
+        "name": "Zac Molho Picante"
+      }
+    ]
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "title": "o Mestre das Sombras",
+    "icon": "Zed.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Zed"
+      },
+      {
+        "id": 1,
+        "name": "Zed Lâmina do Trovão"
+      },
+      {
+        "id": 2,
+        "name": "SKT T1 Zed"
+      },
+      {
+        "id": 3,
+        "name": "PROJETO: Zed"
+      },
+      {
+        "id": 10,
+        "name": "Zed Mundial 2016"
+      },
+      {
+        "id": 11,
+        "name": "Zed Jurado de Morte"
+      },
+      {
+        "id": 13,
+        "name": "Zed Dizimador de Galáxias"
+      },
+      {
+        "id": 15,
+        "name": "Zed PsyOps"
+      },
+      {
+        "id": 30,
+        "name": "PROJETO: Zed de Prestígio"
+      },
+      {
+        "id": 31,
+        "name": "Zed Galante"
+      },
+      {
+        "id": 38,
+        "name": "Zed Empíreo"
+      },
+      {
+        "id": 49,
+        "name": "Zed Jornada Imortal"
+      },
+      {
+        "id": 58,
+        "name": "Zed Lua Sangrenta"
+      }
+    ]
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "title": "A Faísca de Zaun",
+    "icon": "Zeri.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Zeri"
+      },
+      {
+        "id": 1,
+        "name": "Zeri Rosa Definhada"
+      },
+      {
+        "id": 10,
+        "name": "Zeri Canção do Oceano"
+      },
+      {
+        "id": 19,
+        "name": "Zeri Jornada Imortal"
+      },
+      {
+        "id": 28,
+        "name": "Zeri Noite Apavorante"
+      },
+      {
+        "id": 29,
+        "name": "Zeri Noite Apavorante de Prestígio"
+      }
+    ]
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "title": "o Especialista em Hexplosivos",
+    "icon": "Ziggs.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Ziggs"
+      },
+      {
+        "id": 1,
+        "name": "Ziggs Cientista Louco"
+      },
+      {
+        "id": 2,
+        "name": "Major Ziggs"
+      },
+      {
+        "id": 3,
+        "name": "Ziggs Curtindo o Verão"
+      },
+      {
+        "id": 4,
+        "name": "Ziggs Dia Nevado"
+      },
+      {
+        "id": 5,
+        "name": "Ziggs Mestre Arcanista"
+      },
+      {
+        "id": 6,
+        "name": "Ziggs Chefão"
+      },
+      {
+        "id": 7,
+        "name": "Ziggs Odisseia"
+      },
+      {
+        "id": 14,
+        "name": "Ziggs Frenesi Açucarado"
+      },
+      {
+        "id": 23,
+        "name": "Ziggs Hextec"
+      },
+      {
+        "id": 24,
+        "name": "BZZZiggs"
+      },
+      {
+        "id": 33,
+        "name": "Ziggs La Ilusión"
+      }
+    ]
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "title": "o Guardião do Tempo",
+    "icon": "Zilean.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Zilean"
+      },
+      {
+        "id": 1,
+        "name": "Zilean Velho Noel"
+      },
+      {
+        "id": 2,
+        "name": "Zilean Maluco Beleza"
+      },
+      {
+        "id": 3,
+        "name": "Zilean do Deserto Shurima"
+      },
+      {
+        "id": 4,
+        "name": "Zilean da Máquina do Tempo"
+      },
+      {
+        "id": 5,
+        "name": "Zilean Lua Sangrenta"
+      },
+      {
+        "id": 6,
+        "name": "Zilean Frenesi Açucarado"
+      },
+      {
+        "id": 14,
+        "name": "Zilean Bênção do Inverno"
+      }
+    ]
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "title": "o Aspecto do Crepúsculo",
+    "icon": "Zoe.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Zoe"
+      },
+      {
+        "id": 1,
+        "name": "Zoe Ciberpop"
+      },
+      {
+        "id": 2,
+        "name": "Zoe Curtindo o Verão"
+      },
+      {
+        "id": 9,
+        "name": "Zoe Guardiã Estelar"
+      },
+      {
+        "id": 18,
+        "name": "Zoe Arcanista"
+      },
+      {
+        "id": 19,
+        "name": "Zoe Arcanista de Prestígio"
+      },
+      {
+        "id": 20,
+        "name": "Zoe EDG"
+      },
+      {
+        "id": 22,
+        "name": "Zoe Bênção do Inverno"
+      },
+      {
+        "id": 33,
+        "name": "Zoe Estrela Negra"
+      }
+    ]
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "title": "a Ascensão dos Espinhos",
+    "icon": "Zyra.png",
+    "skins": [
+      {
+        "id": 0,
+        "name": "Zyra"
+      },
+      {
+        "id": 1,
+        "name": "Zyra Fogo Silvestre"
+      },
+      {
+        "id": 2,
+        "name": "Zyra Assombrada"
+      },
+      {
+        "id": 3,
+        "name": "SKT T1 Zyra"
+      },
+      {
+        "id": 4,
+        "name": "Zyra Dracomante"
+      },
+      {
+        "id": 5,
+        "name": "Zyra Congregação das Bruxas"
+      },
+      {
+        "id": 6,
+        "name": "Zyra Congregação das Bruxas de Prestígio"
+      },
+      {
+        "id": 7,
+        "name": "Zyra Rosa de Cristal"
+      },
+      {
+        "id": 16,
+        "name": "Zyra Pesadelo na Cidade do Crime"
+      },
+      {
+        "id": 36,
+        "name": "Zyra Criadora Mítica"
+      },
+      {
+        "id": 46,
+        "name": "Zyra Demônios Urbanos"
+      },
+      {
+        "id": 55,
+        "name": "Zyra Lua Sangrenta"
+      }
+    ]
+  }
+]
