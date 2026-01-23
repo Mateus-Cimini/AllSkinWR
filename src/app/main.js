@@ -12,8 +12,7 @@ select2(jQuery);
 import "select2/dist/css/select2.css";
 import "select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.css";
 
-import { initInputSelect } from "../shared/ui/input/initInputSelect.js";
-import { loadChampionsFromJson } from "../shared/ui/input/optionInput.js";
+import { initChampionSelect } from "../shared/ui/input/initInputSelect.js";
 
 import { initToasts } from "../shared/ui/InitToast.js";
 import { initNavLinks } from "../shared/ui/initNavLinks.js";
@@ -24,6 +23,5 @@ document.addEventListener("DOMContentLoaded", async () => {
   initNavLinks();
   initThemeSwitcher();
 
-  await loadChampionsFromJson("#champion-input");
-  initInputSelect();
+  await initChampionSelect("#champion-input", "/data/champions.json");
 });
