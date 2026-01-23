@@ -1,4 +1,4 @@
-const arrayColeçãoDeSkin = [
+[
   "CROMA MÍTICO: Academia de Batalha",
   "Academia de Batalha",
   "Almirante Fugitivo",
@@ -345,7 +345,7 @@ const arrayColeçãoDeSkin = [
   "Sultão",
   "Supergaláctica",
   "Super-herói",
-  "Super-Heroína", 
+  "Super-Heroína",
   "Supervilão",
   "Supervilã",
 
@@ -376,5 +376,5 @@ const arrayColeçãoDeSkin = [
 
   "Zagueiro",
   "Zenith Games",
-  "Zumbi",
-];
+  "Zumbi"
+]
