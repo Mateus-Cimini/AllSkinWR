@@ -12,16 +12,24 @@ select2(jQuery);
 import "select2/dist/css/select2.css";
 import "select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.css";
 
-import { initChampionSelect } from "../features/layout/ui/input/initInputSelect.js";
+import { initChampionSelect } from "../ui/input/initInputSelect.js";
 
-import { initToasts } from "../features/layout/ui/toast/initToast.js";
-import { initNavLinks } from "../features/layout/ui/navbar/initNavLinks.js";
-import { initThemeSwitcher } from "../features/layout/ui/theme/initThemeSwitcher.js";
+import { initToasts } from "../ui/toast/initToast.js";
+import { initNavLinks } from "../ui/navbar/initNavLinks.js";
+import { initThemeSwitcher } from "../ui/theme/initThemeSwitcher.js";
+
+
+// Champion
+import { championsSelectController } from "../features/champions/ui/championsSelectController.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
   initToasts();
   initNavLinks();
   initThemeSwitcher();
 
+
   await initChampionSelect("#champion-input", "/data/champions.json");
+
+
+    championsSelectController();
 });

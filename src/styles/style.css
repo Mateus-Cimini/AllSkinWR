@@ -5,27 +5,27 @@
 @import './core/themes.css';
 
 /* Layout */
-@import './domains/layout/grid.css';
-@import './domains/layout/header.css';
-@import './domains/layout/footer.css';
+@import './components/layout/grid.css';
+@import './components/layout/header.css';
+@import './components/layout/footer.css';
 
 /* Navegação */
-@import './domains/navigation/menu.css';
-@import './domains/navigation/navbar.css';
+@import './components/navigation/menu.css';
+@import './components/navigation/navbar.css';
 
 /* Components */
-@import './domains/ui/badge.css';
-@import './domains/ui/btn.css';
-@import './domains/ui/btn-theme.css';
-@import './domains/ui/select.css';
+@import './components/ui/badge.css';
+@import './components/ui/btn.css';
+@import './components/ui/btn-theme.css';
+@import './components/ui/select.css';
 
 /* Champion / Carousel */
-@import './domains/champion/champion-list.css';
-@import './domains/champion/champion-details.css';
-@import './domains/champion/champion-card.css';
-@import './domains/carousel/carousel.css';
-@import './domains/carousel/carousel-info.css';
-@import './domains/carousel/carousel-item.css';
+@import './components/champion/champion-list.css';
+@import './components/champion/champion-details.css';
+@import './components/champion/champion-card.css';
+@import './components/carousel/carousel.css';
+@import './components/carousel/carousel-info.css';
+@import './components/carousel/carousel-item.css';
 
 /* Pages */
 @import './pages/home.css';
