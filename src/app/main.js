@@ -17,6 +17,7 @@ import { initChampionSelect } from "../ui/input/initInputSelect.js";
 import { initToasts } from "../ui/toast/initToast.js";
 import { initNavLinks } from "../ui/navbar/initNavLinks.js";
 import { initThemeSwitcher } from "../ui/theme/initThemeSwitcher.js";
+import { initEmailForm } from "../ui/email/initEmailForm.js";
 
 
 // Champion
@@ -27,6 +28,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   initToasts();
   initNavLinks();
   initThemeSwitcher();
+  initEmailForm();
 
 
   await initChampionSelect("#champion-input", "/data/champions.json");
