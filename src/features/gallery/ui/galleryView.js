@@ -51,8 +51,21 @@ export function renderGallery(skins) {
 
 export function setCarouselVisible(isVisible) {
   const carouselWrapper = document.getElementById("carousel");
+  const messageEl = document.querySelector(".champion-select__message");
+  const messageTitleEl = document.querySelector(".champion-select__message h4");
   if (!carouselWrapper) return;
   carouselWrapper.style.display = isVisible ? "" : "none";
+
+  if (messageEl) {
+    messageEl.style.display = "";
+    Array.from(messageEl.children).forEach((child) => {
+      if (child === messageTitleEl) {
+        child.style.display = "";
+      } else {
+        child.style.display = isVisible ? "none" : "";
+      }
+    });
+  }
 }
 
 export function updateSkinInfo(skin) {

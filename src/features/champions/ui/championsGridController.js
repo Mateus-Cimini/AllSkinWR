@@ -1,6 +1,7 @@
 import { getChampionGridUseCase } from "../application/getChampionGridUseCase.js";
 import { renderChampionsGrid } from "./championsGridView.js";
 import { selectChampion } from "./championsSelectController.js";
+import { showToastForRole } from "../../../ui/toast/initToast.js";
 
 export async function championsGridController() {
   const groups = await getChampionGridUseCase();
@@ -29,6 +30,7 @@ export async function championsGridController() {
 
     const championId = card.getAttribute("data-champion-id");
     if (!championId) return;
+    const role = card.getAttribute("data-role") || "";
 
     const select = document.getElementById("champion-input");
     if (!select) return;
@@ -36,12 +38,14 @@ export async function championsGridController() {
     if (window.$ && $(select).data("select2")) {
       $(select).val(championId).trigger("change");
       selectChampion(championId);
+      showToastForRole(role, championId);
       return;
     }
 
     select.value = championId;
     select.dispatchEvent(new Event("change", { bubbles: true }));
     selectChampion(championId);
+    showToastForRole(role, championId);
   });
 }
 
