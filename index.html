@@ -402,20 +402,19 @@
             <strong>HTML</strong>, <strong>CSS</strong> e
             <strong>Bootstrap</strong> na interface. A organização dos estilos
             segue a metodologia <strong>BEM</strong>, garantindo padronização,
-            legibilidade e escalabilidade do CSS. A estrutura do código é
-            inspirada em princípios de
-            <strong>DDD (Domain-Driven Design)</strong> e
-            <strong>Clean Architecture</strong>, com separação clara entre
-            camadas de domínio, aplicação, infraestrutura e UI.
+            legibilidade e escalabilidade do CSS. A estrutura do código adota
+            uma <strong>arquitetura em camadas</strong> inspirada por DDD, com
+            separação entre <strong>Domain</strong>,
+            <strong>Application</strong>, <strong>Infrastructure</strong> e
+            <strong>UI</strong>.
           </p>
 
           <p class="about-project__text">
-            A arquitetura adota padrões como <strong>Use Cases</strong> e
-            <strong>Repository Pattern</strong>, promovendo baixo acoplamento,
-            separação de responsabilidades e facilidade de evolução do projeto.
-            Essa abordagem permite trocar fontes de dados, alterar a interface
-            ou expandir funcionalidades sem impacto direto nas regras centrais
-            da aplicação.
+            O projeto utiliza <strong>Use Cases</strong> para orquestrar a
+            lógica de aplicação e o <strong>Repository Pattern</strong> para
+            isolar a fonte de dados. Na camada de UI, o fluxo segue um estilo
+            <strong>Controller/View</strong> simples, mantendo a manipulação de
+            DOM separada das regras de negócio.
           </p>
 
           <p class="about-project__text">
@@ -459,6 +458,35 @@
 
     <!-- TOAST CONTAINERS -->
     <div class="toast-container position-fixed bottom-0 end-0 p-3">
+      <!-- toast All -->
+      <div
+        id="toastAll"
+        class="toast"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="toast-header bg-dark text-white">
+          <img
+            src="./public/img/logo-all-skin-wr3.png"
+            height="30"
+            class="rounded me-2"
+            alt="logo alert"
+          />
+          <strong class="me-auto">AllSkinWR</strong>
+          <small class="text-muted">5s atrás</small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="toast-body">
+          Campeão <strong>(Champion Name)</strong> selecionado com sucesso!
+        </div>
+      </div>
+
       <!-- toast Top -->
       <div
         id="toastTop"
@@ -522,7 +550,7 @@
           Campeão <strong>(Champion Name)</strong> selecionado com sucesso! Um
           dos melhores Juglers do jogo.
           <img
-            src="./public/img/lanes/jungle-icon - Copia.png"
+            src="/img/lanes/jungle-icon%20-%20Copia.png"
             height="30"
             alt="logo-lane"
           />

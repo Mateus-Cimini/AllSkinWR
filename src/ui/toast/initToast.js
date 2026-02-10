@@ -4,6 +4,7 @@ let toasts = null;
 
 export function initToasts() {
   toasts = {
+    all: new Toast(document.getElementById("toastAll")),
     top: new Toast(document.getElementById("toastTop")),
     jg: new Toast(document.getElementById("toastJg")),
     mid: new Toast(document.getElementById("toastMid")),
@@ -16,6 +17,7 @@ export function initToasts() {
 export function showToastForRole(role, championName) {
   if (!toasts) return;
   const map = {
+    all: "all",
     top: "top",
     jungle: "jg",
     mid: "mid",

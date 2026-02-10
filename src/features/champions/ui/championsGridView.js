@@ -1,7 +1,7 @@
 const laneIconsByRole = {
   all: "/img/lanes/all-lanes.svg",
   top: "/img/lanes/top-icon.png",
-  jungle: "/img/lanes/jungle-icon - Copia.png",
+  jungle: "/img/lanes/jungle-icon%20-%20Copia.png",
   mid: "/img/lanes/mid-icon.png",
   adc: "/img/lanes/adc-icon.png",
   support: "/img/lanes/sup-icon.png",
@@ -17,7 +17,8 @@ export function renderChampionsGrid(groups) {
     group.items.forEach((champion) => {
       const card = document.createElement("div");
       card.className = "champion-select__card";
-      card.setAttribute("data-champion-id", champion.name);
+      card.setAttribute("data-champion-id", champion.id);
+      card.setAttribute("data-champion-name", champion.name);
       card.setAttribute("data-role", group.role);
       if (champion.defaultSkinUrl) {
         card.style.backgroundImage = `url("${champion.defaultSkinUrl}")`;

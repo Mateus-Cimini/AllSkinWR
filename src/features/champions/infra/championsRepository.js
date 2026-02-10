@@ -2,15 +2,25 @@ import { Champion } from "../domain/Champion.js";
 
 export const championsRepository = {
   async getAll() {
-    const res = await fetch("/data/champions.json");
-    const data = await res.json();
-    return data.map((raw) => new Champion(raw));
+    try {
+      const res = await fetch("/data/champions.json");
+      if (!res.ok) return [];
+      const data = await res.json();
+      return data.map((raw) => new Champion(raw));
+    } catch {
+      return [];
+    }
   },
 
   async getById(id) {
-    const res = await fetch("/data/champions.json");
-    const data = await res.json();
-    const raw = data.find((c) => c.id === id);
-    return raw ? new Champion(raw) : null;
+    try {
+      const res = await fetch("/data/champions.json");
+      if (!res.ok) return null;
+      const data = await res.json();
+      const raw = data.find((c) => c.id === id);
+      return raw ? new Champion(raw) : null;
+    } catch {
+      return null;
+    }
   },
 };

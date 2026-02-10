@@ -32,7 +32,7 @@ export async function initChampionSelect(
 
   data.forEach((champ) => {
     $select.append(`
-      <option value="${champ.name}" data-img="${champ.iconUrl || ""}">
+      <option value="${champ.id}" data-img="${champ.iconUrl || ""}">
         ${champ.name}
       </option>
     `);

@@ -3,7 +3,7 @@ import {
   setCarouselVisible,
   updateSkinInfo,
 } from "./galleryView.js";
-import confetti from "canvas-confetti";
+import { bindDetailsClick, triggerConfetti } from "./galleryEffects.js";
 
 let currentSkins = [];
 let isCarouselSynced = false;
@@ -15,7 +15,7 @@ export function updateGallery(skins) {
   updateSkinInfo(currentSkins[0]);
   ensureCarouselSync();
   ensureDetailsClick();
-  triggerConfetti();
+  triggerConfetti(currentSkins.length > 0);
 }
 
 export function setGalleryVisible(isVisible) {
@@ -38,16 +38,11 @@ function ensureCarouselSync() {
 
 function ensureDetailsClick() {
   if (isDetailsBound) return;
-  const button = document.querySelector(".skin-info-btn");
-  if (!button) return;
-
-  button.addEventListener("click", () => {
-    const activeIndex = getActiveIndex(
-      document.getElementById("carouselChampions"),
-    );
-    const activeSkin = currentSkins[activeIndex];
-    if (!activeSkin?.imageUrl) return;
-    window.open(activeSkin.imageUrl, "_blank", "noopener");
+  bindDetailsClick(() => {
+    const carouselEl = document.getElementById("carouselChampions");
+    if (!carouselEl) return null;
+    const activeIndex = getActiveIndex(carouselEl);
+    return currentSkins[activeIndex] ?? null;
   });
 
   isDetailsBound = true;
@@ -59,36 +54,4 @@ function getActiveIndex(carouselEl) {
     if (items[i].classList.contains("active")) return i;
   }
   return 0;
-}
-
-function triggerConfetti() {
-  if (currentSkins.length === 0) return;
-  const defaults = {
-    spread: 360,
-    ticks: 50,
-    gravity: 0,
-    decay: 0.94,
-    startVelocity: 30,
-    colors: ["#FFE400", "#FFBD00", "#E89400", "#FFCA6C", "#FDFFB8"],
-  };
-
-  const shoot = () => {
-    confetti({
-      ...defaults,
-      particleCount: 40,
-      scalar: 1.2,
-      shapes: ["star"],
-    });
-
-    confetti({
-      ...defaults,
-      particleCount: 10,
-      scalar: 0.75,
-      shapes: ["circle"],
-    });
-  };
-
-  setTimeout(shoot, 0);
-  setTimeout(shoot, 100);
-  setTimeout(shoot, 200);
 }

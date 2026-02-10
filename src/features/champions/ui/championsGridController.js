@@ -30,22 +30,20 @@ export async function championsGridController() {
 
     const championId = card.getAttribute("data-champion-id");
     if (!championId) return;
+    const championName = card.getAttribute("data-champion-name") || championId;
     const role = card.getAttribute("data-role") || "";
 
     const select = document.getElementById("champion-input");
     if (!select) return;
 
     if (window.$ && $(select).data("select2")) {
-      $(select).val(championId).trigger("change");
-      selectChampion(championId);
-      showToastForRole(role, championId);
-      return;
+      $(select).val(championId).trigger("change.select2");
+    } else {
+      select.value = championId;
     }
 
-    select.value = championId;
-    select.dispatchEvent(new Event("change", { bubbles: true }));
     selectChampion(championId);
-    showToastForRole(role, championId);
+    showToastForRole(role, championName);
   });
 }
 
