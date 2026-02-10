@@ -1,10 +1,10 @@
 const laneIconsByRole = {
-  all: "/public/img/lanes/all-lanes.svg",
-  top: "/public/img/lanes/top-icon.png",
-  jungle: "/public/img/lanes/jungle-icon - Copia.png",
-  mid: "/public/img/lanes/mid-icon.png",
-  adc: "/public/img/lanes/adc-icon.png",
-  support: "/public/img/lanes/sup-icon.png",
+  all: "/img/lanes/all-lanes.svg",
+  top: "/img/lanes/top-icon.png",
+  jungle: "/img/lanes/jungle-icon - Copia.png",
+  mid: "/img/lanes/mid-icon.png",
+  adc: "/img/lanes/adc-icon.png",
+  support: "/img/lanes/sup-icon.png",
 };
 
 export function renderChampionsGrid(groups) {
