@@ -9,6 +9,6 @@ export const skinsRepository = {
     const rawSkins = champion?.skins ?? [];
 
     // transforma JSON bruto em entidade de domínio
-    return rawSkins.map((s) => new Skin(s));
+    return rawSkins.map((s) => new Skin({ ...s, championId }));
   },
 };

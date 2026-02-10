@@ -10,7 +10,7 @@ export const championsRepository = {
   async getById(id) {
     const res = await fetch("/data/champions.json");
     const data = await res.json();
-    const raw = data.find((c) => c.id === championId);
+    const raw = data.find((c) => c.id === id);
     return raw ? new Champion(raw) : null;
   },
 };

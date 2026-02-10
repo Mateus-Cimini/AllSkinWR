@@ -74,6 +74,10 @@
   height: auto;
 }
 
+.lane-icon {
+  filter: brightness(0) invert(1);
+}
+
 .lane-icon .st0 {
   fill: #ebefe4;
   transition: fill 0.2s ease;
@@ -89,4 +93,8 @@
 
 [data-theme="dark"] .lane-icon .st1 {
   fill: rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="dark"] .lane-icon {
+  filter: brightness(0);
 }

@@ -21,6 +21,7 @@ import { initThemeSwitcher } from "../ui/theme/initThemeSwitcher.js";
 
 // Champion
 import { championsSelectController } from "../features/champions/ui/championsSelectController.js";
+import { championsGridController } from "../features/champions/ui/championsGridController.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
   initToasts();
@@ -32,4 +33,5 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 
     championsSelectController();
+    championsGridController();
 });
