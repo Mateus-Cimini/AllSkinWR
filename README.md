@@ -220,13 +220,17 @@ Sinta-se à vontade para abrir issues ou enviar pull requests.
 Este projeto foi desenvolvido com foco em aprendizado e demonstração técnica. As melhorias abaixo representam próximos passos para elevar o nível da aplicação e aproximá-la de um produto real.
 
 ### 🟢 Melhorias rápidas (baixo esforço)
-
-
+• Documentar o "Como Rodar": O README atual explica o que o projeto faz, mas falta a seção técnica de instalação (npm install, npm run dev) e configuração de variáveis de ambiente (.env).
+• Limpeza de Comentários e Logs: Garantir que mensagens de debug ou logs de "5s atrás" (como citado nas fontes) sejam removidos para passar uma imagem profissional.
 
 ### 🟡 Melhorias de médio impacto
-
+• Remover jQuery/Select2: Substituir o Select2 por um componente de busca feito em JavaScript Vanilla Puro ou uma biblioteca moderna sem dependências de jQuery.
+• Implementar Testes Unitários: Adicionar testes (ex: com Vitest) para os Use Cases da camada de Application.
+• Benefício: Comprova domínio de JavaScript moderno (ES6+) e garante que a lógica de negócio (Domain) está protegida contra regressões.
 
 ### 🔵 Diferenciais avançados (opcionais)
+• Migração para TypeScript: Tipar as entidades de Domain (Champion, Skin) elevaria o projeto para um padrão sênior de organização.
+• CI/CD Pipeline: Configurar um GitHub Action para rodar lint e testes automaticamente em cada Pull Request.
 
 ---
 ## 📄 Licença
