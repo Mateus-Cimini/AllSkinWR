@@ -1,4 +1,6 @@
+import { getChampionByIdUseCase } from "../application/getChampionByIdUseCase.js";
 import { getSkinsByChampionUseCase } from "../../skins/application/getSkinsByChampionUseCase.js";
+import { championsSelectView } from "./championsSelectView.js";
 
 export function championsSelectController() {
   const select = document.getElementById("champion-input");
@@ -7,7 +9,12 @@ export function championsSelectController() {
   const handleSelect = async (championId) => {
     if (!championId) return;
 
-    const skins = await getSkinsByChampionUseCase(championId);
+    const champion = await getChampionByIdUseCase(championId);
+    if (!champion) return;
+
+    championsSelectView.updateChampionInfo(champion);
+
+    const skins = await getSkinsByChampionUseCase(champion.id);
     console.log(JSON.stringify(skins, null, 2));
 
     // aqui depois você chama a view do carousel
